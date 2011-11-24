@@ -1,0 +1,20 @@
+Add tolerable upper intake level of nutrients
+--------
+to prevent vitamin overdoses, and also to add variety to the soups.
+
+Get better data
+--------
+Garbage in, garbage out.  Better data is always a good thing (especially data
+with variance -- there's always some variation in nutrients, but some of them
+probably vary a lot.  This should be taken account of in the soup).
+
+Add price info
+--------
+Right now the soup would probably be extremely expensive.  If I had some price
+data, I could adjust the program to create a true Rumford Soup (cheap and
+nutritious)
+
+Make the output more presentable
+--------
+The output is pretty arcane.  I would like to analyze the output better, and
+present it in a more readable format.

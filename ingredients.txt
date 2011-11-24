@@ -1,0 +1,7344 @@
+Asparagus, boiled
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	180.00 g
+Basic Components
+nutrient	amount	%DV
+calories	43.20	 2.40
+calories from fat	5.02
+calories from saturated fat	1.15
+protein	4.66 g	 9.32
+carbohydrates	7.61 g	 2.54
+dietary fiber	2.88 g	 11.52
+soluble fiber	1.15 g
+insoluble fiber	1.73 g
+sugar - total	2.88 g
+monosaccharides	2.52 g
+disaccharides	0.36 g
+other carbs	1.85 g
+fat - total	0.56 g	 0.86
+saturated fat	0.13 g	 0.65
+mono fat	0.02 g	 0.08
+poly fat	0.24 g	 1.00
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	165.96 g
+ash	1.19 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	970.20 IU	 19.40
+vitamin A RE	97.20 RE
+A - carotenoid	97.20 RE	 1.30
+A - retinol	0.00 RE
+A - beta carotene	575.10 mcg
+thiamin - B1	0.22 mg	 14.67
+riboflavin - B2	0.23 mg	 13.53
+niacin - B3	1.95 mg	 9.75
+niacin equiv	2.70 mg
+vitamin B6	0.22 mg	 11.00
+vitamin B12	0.00 mcg	 0.00
+biotin	0.72 mcg	 0.24
+vitamin C	19.44 mg	 32.40
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.68 mg	 3.40
+vitamin E IU	1.02 IU
+vitamin E mg	1.80 mg
+folate	262.80 mcg	 65.70
+vitamin K	91.80 mcg	 114.75
+pantothenic acid	0.29 mg	 2.90
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	36.00 mg	 3.60
+chloride	198.00 mg
+chromium	-- mcg	--
+copper	0.20 mg	 10.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.31 mg	 7.28
+magnesium	18.00 mg	 4.50
+manganese	0.27 mg	 13.50
+molybdenum	-- mcg	--
+phosphorus	97.20 mg	 9.72
+potassium	288.00 mg	 8.23
+selenium	3.06 mcg	 4.37
+sodium	19.80 mg	 0.83
+zinc	0.76 mg	 5.07
+
+Avocado, slices
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	146.00 g
+Basic Components
+nutrient	amount	%DV
+calories	235.06	 13.06
+calories from fat	201.31
+calories from saturated fat	32.02
+protein	2.89 g	 5.78
+carbohydrates	10.79 g	 3.60
+dietary fiber	7.30 g	 29.20
+soluble fiber	2.99 g
+insoluble fiber	4.31 g
+sugar - total	1.31 g
+monosaccharides	1.02 g
+disaccharides	0.15 g
+other carbs	2.18 g
+fat - total	22.37 g	 34.42
+saturated fat	3.56 g	 17.80
+mono fat	14.03 g	 58.46
+poly fat	2.85 g	 11.88
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	108.43 g
+ash	1.52 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	893.52 IU	 17.87
+vitamin A RE	89.06 RE
+A - carotenoid	89.06 RE	 1.19
+A - retinol	0.00 RE
+A - beta carotene	477.13 mcg
+thiamin - B1	0.16 mg	 10.67
+riboflavin - B2	0.18 mg	 10.59
+niacin - B3	2.80 mg	 14.00
+niacin equiv	3.32 mg
+vitamin B6	0.41 mg	 20.50
+vitamin B12	0.00 mcg	 0.00
+biotin	5.26 mcg	 1.75
+vitamin C	11.53 mg	 19.22
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	1.96 mg	 9.80
+vitamin E IU	2.92 IU
+vitamin E mg	3.31 mg
+folate	90.37 mcg	 22.59
+vitamin K	29.20 mcg	 36.50
+pantothenic acid	1.42 mg	 14.20
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	16.06 mg	 1.61
+chloride	8.76 mg
+chromium	-- mcg	--
+copper	0.38 mg	 19.00
+fluoride	-- mg	--
+iodine	2.92 mcg	 1.95
+iron	1.49 mg	 8.28
+magnesium	56.94 mg	 14.23
+manganese	0.33 mg	 16.50
+molybdenum	-- mcg	--
+phosphorus	59.86 mg	 5.99
+potassium	874.54 mg	 24.99
+selenium	0.58 mcg	 0.83
+sodium	14.60 mg	 0.61
+zinc	0.61 mg	 4.07
+
+Beets, Boiled
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	170.00 g
+Basic Components
+nutrient	amount	%DV
+calories	74.80	 4.16
+calories from fat	2.75
+calories from saturated fat	0.43
+protein	2.86 g	 5.72
+carbohydrates	16.93 g	 5.64
+dietary fiber	3.40 g	 13.60
+soluble fiber	0.99 g
+insoluble fiber	2.41 g
+sugar - total	8.16 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	5.37 g
+fat - total	0.31 g	 0.48
+saturated fat	0.05 g	 0.25
+mono fat	0.06 g	 0.25
+poly fat	0.11 g	 0.46
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	148.00 g
+ash	1.90 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	59.50 IU	 1.19
+vitamin A RE	6.80 RE
+A - carotenoid	6.80 RE	 0.09
+A - retinol	0.00 RE
+A - beta carotene	20.40 mcg
+thiamin - B1	0.05 mg	 3.33
+riboflavin - B2	0.07 mg	 4.12
+niacin - B3	0.56 mg	 2.80
+niacin equiv	1.13 mg
+vitamin B6	0.11 mg	 5.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	6.12 mg	 10.20
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.51 mg	 2.55
+vitamin E IU	0.76 IU
+vitamin E mg	0.51 mg
+folate	136.00 mcg	 34.00
+vitamin K	0.34 mcg	 0.43
+pantothenic acid	0.25 mg	 2.50
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	27.20 mg	 2.72
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.13 mg	 6.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.34 mg	 7.44
+magnesium	39.10 mg	 9.78
+manganese	0.55 mg	 27.50
+molybdenum	-- mcg	--
+phosphorus	64.60 mg	 6.46
+potassium	518.50 mg	 14.81
+selenium	1.19 mcg	 1.70
+sodium	484.50 mg	 20.19
+zinc	0.60 mg	 4.00
+
+Bell peppers, red, raw, slices
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	92.00 g
+Basic Components
+nutrient	amount	%DV
+calories	24.84	 1.38
+calories from fat	1.57
+calories from saturated fat	0.23
+protein	0.82 g	 1.64
+carbohydrates	5.92 g	 1.97
+dietary fiber	1.84 g	 7.36
+soluble fiber	0.74 g
+insoluble fiber	1.10 g
+sugar - total	2.39 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	1.68 g
+fat - total	0.17 g	 0.26
+saturated fat	0.03 g	 0.15
+mono fat	0.01 g	 0.04
+poly fat	0.09 g	 0.38
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	84.81 g
+ash	0.28 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	5244.00 IU	 104.88
+vitamin A RE	524.40 RE
+A - carotenoid	524.40 RE	 6.99
+A - retinol	0.00 RE
+A - beta carotene	2840.96 mcg
+thiamin - B1	0.06 mg	 4.00
+riboflavin - B2	0.03 mg	 1.76
+niacin - B3	0.47 mg	 2.35
+niacin equiv	0.64 mg
+vitamin B6	0.23 mg	 11.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	174.80 mg	 291.33
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.63 mg	 3.15
+vitamin E IU	0.95 IU
+vitamin E mg	0.68 mg
+folate	20.24 mcg	 5.06
+vitamin K	4.51 mcg	 5.64
+pantothenic acid	0.07 mg	 0.70
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	8.28 mg	 0.83
+chloride	22.08 mg
+chromium	-- mcg	--
+copper	0.06 mg	 3.00
+fluoride	-- mg	--
+iodine	0.92 mcg	 0.61
+iron	0.42 mg	 2.33
+magnesium	9.20 mg	 2.30
+manganese	0.11 mg	 5.50
+molybdenum	4.60 mcg	 6.13
+phosphorus	17.48 mg	 1.75
+potassium	162.84 mg	 4.65
+selenium	0.28 mcg	 0.40
+sodium	1.84 mg	 0.08
+zinc	0.11 mg	 0.73
+
+Broccoli, steamed
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	156.00 g
+Basic Components
+nutrient	amount	%DV
+calories	43.68	 2.43
+calories from fat	4.91
+calories from saturated fat	0.76
+protein	4.66 g	 9.32
+carbohydrates	8.19 g	 2.73
+dietary fiber	4.68 g	 18.72
+soluble fiber	2.03 g
+insoluble fiber	2.65 g
+sugar - total	3.12 g
+monosaccharides	2.03 g
+disaccharides	0.47 g
+other carbs	0.39 g
+fat - total	0.55 g	 0.85
+saturated fat	0.08 g	 0.40
+mono fat	0.04 g	 0.17
+poly fat	0.26 g	 1.08
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	141.49 g
+ash	1.48 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	2280.72 IU	 45.61
+vitamin A RE	228.07 RE
+A - carotenoid	228.07 RE	 3.04
+A - retinol	0.00 RE
+A - beta carotene	1358.76 mcg
+thiamin - B1	0.09 mg	 6.00
+riboflavin - B2	0.18 mg	 10.59
+niacin - B3	0.94 mg	 4.70
+niacin equiv	1.70 mg
+vitamin B6	0.22 mg	 11.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	123.40 mg	 205.67
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.75 mg	 3.75
+vitamin E IU	1.11 IU
+vitamin E mg	0.75 mg
+folate	93.91 mcg	 23.48
+vitamin K	155.20 mcg	 194.00
+pantothenic acid	0.79 mg	 7.90
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	74.72 mg	 7.47
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.07 mg	 3.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.37 mg	 7.61
+magnesium	39.00 mg	 9.75
+manganese	0.34 mg	 17.00
+molybdenum	-- mcg	--
+phosphorus	102.80 mg	 10.28
+potassium	505.44 mg	 14.44
+selenium	-- mcg	--
+sodium	42.12 mg	 1.75
+zinc	0.62 mg	 4.13
+
+Brussel sprouts, boiled
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	156.00 g
+Basic Components
+nutrient	amount	%DV
+calories	60.84	 3.38
+calories from fat	7.16
+calories from saturated fat	1.47
+protein	3.98 g	 7.96
+carbohydrates	13.53 g	 4.51
+dietary fiber	4.06 g	 16.24
+soluble fiber	1.87 g
+insoluble fiber	2.18 g
+sugar - total	6.21 g
+monosaccharides	0.00 g
+disaccharides	-- g
+other carbs	3.26 g
+fat - total	0.80 g	 1.23
+saturated fat	0.16 g	 0.80
+mono fat	0.06 g	 0.25
+poly fat	0.41 g	 1.71
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	136.22 g
+ash	1.48 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	1121.64 IU	 22.43
+vitamin A RE	112.32 RE
+A - carotenoid	112.32 RE	 1.50
+A - retinol	0.00 RE
+A - beta carotene	669.24 mcg
+thiamin - B1	0.17 mg	 11.33
+riboflavin - B2	0.12 mg	 7.06
+niacin - B3	0.95 mg	 4.75
+niacin equiv	1.68 mg
+vitamin B6	0.28 mg	 14.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	96.72 mg	 161.20
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	1.33 mg	 6.65
+vitamin E IU	1.98 IU
+vitamin E mg	1.33 mg
+folate	93.60 mcg	 23.40
+vitamin K	218.80 mcg	 273.50
+pantothenic acid	0.39 mg	 3.90
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	56.16 mg	 5.62
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.13 mg	 6.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.87 mg	 10.39
+magnesium	31.20 mg	 7.80
+manganese	0.35 mg	 17.50
+molybdenum	-- mcg	--
+phosphorus	87.36 mg	 8.74
+potassium	494.52 mg	 14.13
+selenium	2.34 mcg	 3.34
+sodium	32.76 mg	 1.36
+zinc	0.51 mg	 3.40
+
+Cabbage, shredded, boiled
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	150.00 g
+Basic Components
+nutrient	amount	%DV
+calories	33.00	 1.83
+calories from fat	5.80
+calories from saturated fat	0.72
+protein	1.53 g	 3.06
+carbohydrates	6.69 g	 2.23
+dietary fiber	3.45 g	 13.80
+soluble fiber	1.59 g
+insoluble fiber	1.86 g
+sugar - total	2.50 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	0.73 g
+fat - total	0.65 g	 1.00
+saturated fat	0.08 g	 0.40
+mono fat	0.04 g	 0.17
+poly fat	0.29 g	 1.21
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	140.40 g
+ash	0.73 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	198.00 IU	 3.96
+vitamin A RE	19.50 RE
+A - carotenoid	19.50 RE	 0.26
+A - retinol	0.00 RE
+A - beta carotene	117.00 mcg
+thiamin - B1	0.09 mg	 6.00
+riboflavin - B2	0.08 mg	 4.71
+niacin - B3	0.42 mg	 2.10
+niacin equiv	0.67 mg
+vitamin B6	0.17 mg	 8.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	30.15 mg	 50.25
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.16 mg	 0.80
+vitamin E IU	0.23 IU
+vitamin E mg	2.55 mg
+folate	30.00 mcg	 7.50
+vitamin K	73.35 mcg	 91.69
+pantothenic acid	0.21 mg	 2.10
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	46.50 mg	 4.65
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.02 mg	 1.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.26 mg	 1.44
+magnesium	12.00 mg	 3.00
+manganese	0.18 mg	 9.00
+molybdenum	-- mcg	--
+phosphorus	22.50 mg	 2.25
+potassium	145.50 mg	 4.16
+selenium	0.90 mcg	 1.29
+sodium	12.00 mg	 0.50
+zinc	0.14 mg	 0.93
+
+Carrots, raw
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	122.00 g
+Basic Components
+nutrient	amount	%DV
+calories	52.46	 2.91
+calories from fat	2.09
+calories from saturated fat	0.33
+protein	1.26 g	 2.52
+carbohydrates	12.37 g	 4.12
+dietary fiber	3.66 g	 14.64
+soluble fiber	1.54 g
+insoluble fiber	2.12 g
+sugar - total	8.05 g
+monosaccharides	2.44 g
+disaccharides	4.39 g
+other carbs	0.66 g
+fat - total	0.23 g	 0.35
+saturated fat	0.04 g	 0.20
+mono fat	0.01 g	 0.04
+poly fat	0.09 g	 0.38
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	107.10 g
+ash	1.06 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	34317.40 IU	 686.35
+vitamin A RE	3431.86 RE
+A - carotenoid	3431.86 RE	 45.76
+A - retinol	0.00 RE
+A - beta carotene	16678.60 mcg
+thiamin - B1	0.12 mg	 8.00
+riboflavin - B2	0.07 mg	 4.12
+niacin - B3	1.13 mg	 5.65
+niacin equiv	1.36 mg
+vitamin B6	0.18 mg	 9.00
+vitamin B12	0.00 mcg	 0.00
+biotin	6.10 mcg	 2.03
+vitamin C	11.35 mg	 18.92
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.56 mg	 2.80
+vitamin E IU	0.84 IU
+vitamin E mg	0.73 mg
+folate	17.08 mcg	 4.27
+vitamin K	16.10 mcg	 20.13
+pantothenic acid	0.24 mg	 2.40
+Minerals
+nutrient	amount	%DV
+boron	0.38 mcg
+calcium	32.94 mg	 3.29
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.06 mg	 3.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.61 mg	 3.39
+magnesium	18.30 mg	 4.58
+manganese	0.17 mg	 8.50
+molybdenum	6.10 mcg	 8.13
+phosphorus	53.68 mg	 5.37
+potassium	394.06 mg	 11.26
+selenium	1.34 mcg	 1.91
+sodium	42.70 mg	 1.78
+zinc	0.24 mg	 1.60
+
+Cauliflower, boiled
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	124.00 g
+Basic Components
+nutrient	amount	%DV
+calories	28.52	 1.58
+calories from fat	5.02
+calories from saturated fat	0.78
+protein	2.28 g	 4.56
+carbohydrates	5.10 g	 1.70
+dietary fiber	3.35 g	 13.40
+soluble fiber	1.07 g
+insoluble fiber	2.28 g
+sugar - total	1.64 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	0.11 g
+fat - total	0.56 g	 0.86
+saturated fat	0.09 g	 0.45
+mono fat	0.04 g	 0.17
+poly fat	0.27 g	 1.13
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	115.32 g
+ash	0.74 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	21.08 IU	 0.42
+vitamin A RE	2.48 RE
+A - carotenoid	2.48 RE	 0.03
+A - retinol	0.00 RE
+A - beta carotene	14.88 mcg
+thiamin - B1	0.05 mg	 3.33
+riboflavin - B2	0.06 mg	 3.53
+niacin - B3	0.51 mg	 2.55
+niacin equiv	1.00 mg
+vitamin B6	0.21 mg	 10.50
+vitamin B12	0.00 mcg	 0.00
+biotin	1.61 mcg	 0.54
+vitamin C	54.93 mg	 91.55
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.05 mg	 0.25
+vitamin E IU	0.07 IU
+vitamin E mg	0.10 mg
+folate	54.56 mcg	 13.64
+vitamin K	11.17 mcg	 13.96
+pantothenic acid	0.63 mg	 6.30
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	19.84 mg	 1.98
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.03 mg	 1.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.41 mg	 2.28
+magnesium	11.16 mg	 2.79
+manganese	0.17 mg	 8.50
+molybdenum	-- mcg	--
+phosphorus	39.68 mg	 3.97
+potassium	176.08 mg	 5.03
+selenium	0.62 mcg	 0.89
+sodium	18.60 mg	 0.78
+zinc	0.22 mg	 1.47
+
+Celery, raw
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	120.00 g
+Basic Components
+nutrient	amount	%DV
+calories	19.20	 1.07
+calories from fat	1.51
+calories from saturated fat	0.40
+protein	0.90 g	 1.80
+carbohydrates	4.38 g	 1.46
+dietary fiber	2.04 g	 8.16
+soluble fiber	0.55 g
+insoluble fiber	1.49 g
+sugar - total	1.20 g
+monosaccharides	1.08 g
+disaccharides	0.24 g
+other carbs	1.14 g
+fat - total	0.17 g	 0.26
+saturated fat	0.04 g	 0.20
+mono fat	0.03 g	 0.13
+poly fat	0.08 g	 0.33
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	113.57 g
+ash	0.98 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	160.80 IU	 3.22
+vitamin A RE	15.60 RE
+A - carotenoid	15.60 RE	 0.21
+A - retinol	0.00 RE
+A - beta carotene	93.60 mcg
+thiamin - B1	0.06 mg	 4.00
+riboflavin - B2	0.05 mg	 2.94
+niacin - B3	0.39 mg	 1.95
+niacin equiv	0.59 mg
+vitamin B6	0.10 mg	 5.00
+vitamin B12	0.00 mcg	 0.00
+biotin	0.12 mcg	 0.04
+vitamin C	8.40 mg	 14.00
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.43 mg	 2.15
+vitamin E IU	0.64 IU
+vitamin E mg	0.88 mg
+folate	33.60 mcg	 8.40
+vitamin K	35.26 mcg	 44.08
+pantothenic acid	0.22 mg	 2.20
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	48.00 mg	 4.80
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.04 mg	 2.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.48 mg	 2.67
+magnesium	13.20 mg	 3.30
+manganese	0.12 mg	 6.00
+molybdenum	6.00 mcg	 8.00
+phosphorus	30.00 mg	 3.00
+potassium	344.40 mg	 9.84
+selenium	1.08 mcg	 1.54
+sodium	104.40 mg	 4.35
+zinc	0.16 mg	 1.07
+
+Collard greens, boiled
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	190.00 g
+Basic Components
+nutrient	amount	%DV
+calories	49.40	 2.74
+calories from fat	6.16
+calories from saturated fat	0.80
+protein	4.01 g	 8.02
+carbohydrates	9.31 g	 3.10
+dietary fiber	5.32 g	 21.28
+soluble fiber	2.39 g
+insoluble fiber	2.93 g
+sugar - total	0.19 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	3.80 g
+fat - total	0.68 g	 1.05
+saturated fat	0.09 g	 0.45
+mono fat	0.05 g	 0.21
+poly fat	0.33 g	 1.38
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	174.53 g
+ash	1.44 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	5945.10 IU	 118.90
+vitamin A RE	594.70 RE
+A - carotenoid	594.70 RE	 7.93
+A - retinol	0.00 RE
+A - beta carotene	3568.20 mcg
+thiamin - B1	0.08 mg	 5.33
+riboflavin - B2	0.20 mg	 11.76
+niacin - B3	1.09 mg	 5.45
+niacin equiv	1.95 mg
+vitamin B6	0.24 mg	 12.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	34.58 mg	 57.63
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	1.67 mg	 8.35
+vitamin E IU	2.49 IU
+vitamin E mg	1.67 mg
+folate	176.70 mcg	 44.17
+vitamin K	704.00 mcg	 880.00
+pantothenic acid	0.41 mg	 4.10
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	226.10 mg	 22.61
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.06 mg	 3.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.87 mg	 4.83
+magnesium	32.30 mg	 8.07
+manganese	1.07 mg	 53.50
+molybdenum	-- mcg	--
+phosphorus	49.40 mg	 4.94
+potassium	494.00 mg	 14.11
+selenium	2.09 mcg	 2.99
+sodium	17.10 mg	 0.71
+zinc	0.80 mg	 5.33
+
+Cucumbers, slices, with peel
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	104.00 g
+Basic Components
+nutrient	amount	%DV
+calories	13.52	 0.75
+calories from fat	1.22
+calories from saturated fat	0.32
+protein	0.72 g	 1.44
+carbohydrates	2.87 g	 0.96
+dietary fiber	0.83 g	 3.32
+soluble fiber	0.21 g
+insoluble fiber	0.62 g
+sugar - total	2.04 g
+monosaccharides	2.04 g
+disaccharides	0.00 g
+other carbs	0.00 g
+fat - total	0.14 g	 0.22
+saturated fat	0.04 g	 0.20
+mono fat	0.00 g	 0.00
+poly fat	0.06 g	 0.25
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	99.85 g
+ash	0.43 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	223.60 IU	 4.47
+vitamin A RE	21.84 RE
+A - carotenoid	21.84 RE	 0.29
+A - retinol	0.00 RE
+A - beta carotene	131.04 mcg
+thiamin - B1	0.02 mg	 1.33
+riboflavin - B2	0.02 mg	 1.18
+niacin - B3	0.23 mg	 1.15
+niacin equiv	0.32 mg
+vitamin B6	0.04 mg	 2.00
+vitamin B12	0.00 mcg	 0.00
+biotin	0.94 mcg	 0.31
+vitamin C	5.51 mg	 9.18
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.08 mg	 0.40
+vitamin E IU	0.12 IU
+vitamin E mg	0.26 mg
+folate	13.52 mcg	 3.38
+vitamin K	-- mcg	--
+pantothenic acid	0.19 mg	 1.90
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	14.56 mg	 1.46
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.03 mg	 1.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.27 mg	 1.50
+magnesium	11.44 mg	 2.86
+manganese	0.08 mg	 4.00
+molybdenum	5.20 mcg	 6.93
+phosphorus	20.80 mg	 2.08
+potassium	149.76 mg	 4.28
+selenium	0.00 mcg	 0.00
+sodium	2.08 mg	 0.09
+zinc	0.21 mg	 1.40
+
+Eggplant, cooked, cubes
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	99.00 g
+Basic Components
+nutrient	amount	%DV
+calories	27.72	 1.54
+calories from fat	2.05
+calories from saturated fat	0.39
+protein	0.82 g	 1.64
+carbohydrates	6.57 g	 2.19
+dietary fiber	2.48 g	 9.92
+soluble fiber	0.40 g
+insoluble fiber	2.08 g
+sugar - total	4.10 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	0.00 g
+fat - total	0.23 g	 0.35
+saturated fat	0.04 g	 0.20
+mono fat	0.02 g	 0.08
+poly fat	0.09 g	 0.38
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	90.85 g
+ash	0.53 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	63.36 IU	 1.27
+vitamin A RE	5.94 RE
+A - carotenoid	5.94 RE	 0.08
+A - retinol	0.00 RE
+A - beta carotene	35.64 mcg
+thiamin - B1	0.08 mg	 5.33
+riboflavin - B2	0.02 mg	 1.18
+niacin - B3	0.59 mg	 2.95
+niacin equiv	0.73 mg
+vitamin B6	0.09 mg	 4.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	1.29 mg	 2.15
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.03 mg	 0.15
+vitamin E IU	0.04 IU
+vitamin E mg	0.03 mg
+folate	14.26 mcg	 3.56
+vitamin K	-- mcg	--
+pantothenic acid	0.07 mg	 0.70
+Minerals
+nutrient	amount	%DV
+boron	0.19 mcg
+calcium	5.94 mg	 0.59
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.11 mg	 5.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.35 mg	 1.94
+magnesium	12.87 mg	 3.22
+manganese	0.13 mg	 6.50
+molybdenum	-- mcg	--
+phosphorus	21.78 mg	 2.18
+potassium	245.52 mg	 7.01
+selenium	0.40 mcg	 0.57
+sodium	2.97 mg	 0.12
+zinc	0.15 mg	 1.00
+
+Fennel, raw, sliced
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	87.00 g
+Basic Components
+nutrient	amount	%DV
+calories	26.98	 1.50
+calories from fat	1.56
+calories from saturated fat	--
+protein	1.08 g	 2.16
+carbohydrates	6.34 g	 2.11
+dietary fiber	2.70 g	 10.80
+soluble fiber	-- g
+insoluble fiber	-- g
+sugar - total	0.14 g
+monosaccharides	0.00 g
+disaccharides	0.00 g
+other carbs	3.50 g
+fat - total	0.18 g	 0.28
+saturated fat	-- g	--
+mono fat	-- g	--
+poly fat	-- g	--
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	78.48 g
+ash	0.92 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	116.58 IU	 2.33
+vitamin A RE	11.32 RE
+A - carotenoid	11.32 RE	 0.15
+A - retinol	0.00 RE
+A - beta carotene	67.86 mcg
+thiamin - B1	0.00 mg	 0.00
+riboflavin - B2	0.02 mg	 1.18
+niacin - B3	0.56 mg	 2.80
+niacin equiv	0.56 mg
+vitamin B6	0.04 mg	 2.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	10.44 mg	 17.40
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	-- mg	--
+vitamin E IU	-- IU
+vitamin E mg	-- mg
+folate	23.50 mcg	 5.88
+vitamin K	-- mcg	--
+pantothenic acid	0.20 mg	 2.00
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	42.64 mg	 4.26
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.06 mg	 3.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.64 mg	 3.56
+magnesium	14.80 mg	 3.70
+manganese	0.16 mg	 8.00
+molybdenum	4.34 mcg	 5.79
+phosphorus	43.50 mg	 4.35
+potassium	360.18 mg	 10.29
+selenium	0.60 mcg	 0.86
+sodium	45.24 mg	 1.88
+zinc	0.18 mg	 1.20
+
+Garlic
+(Note: "--" indicates data is unavailable)
+amount	1.00 oz-wt
+total weight	28.35 g
+Basic Components
+nutrient	amount	%DV
+calories	42.24	 2.35
+calories from fat	1.28
+calories from saturated fat	0.23
+protein	1.80 g	 3.60
+carbohydrates	9.38 g	 3.13
+dietary fiber	0.60 g	 2.40
+soluble fiber	-- g
+insoluble fiber	-- g
+sugar - total	0.45 g
+monosaccharides	0.00 g
+disaccharides	-- g
+other carbs	8.33 g
+fat - total	0.14 g	 0.22
+saturated fat	0.03 g	 0.15
+mono fat	0.00 g	 0.00
+poly fat	0.07 g	 0.29
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	16.61 g
+ash	0.43 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.06 mg	 4.00
+riboflavin - B2	0.03 mg	 1.76
+niacin - B3	0.20 mg	 1.00
+niacin equiv	0.51 mg
+vitamin B6	0.35 mg	 17.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	8.85 mg	 14.75
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.00 mg	 0.00
+vitamin E IU	0.00 IU
+vitamin E mg	0.00 mg
+folate	0.88 mcg	 0.22
+vitamin K	-- mcg	--
+pantothenic acid	0.17 mg	 1.70
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	51.31 mg	 5.13
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.08 mg	 4.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.48 mg	 2.67
+magnesium	7.09 mg	 1.77
+manganese	0.47 mg	 23.50
+molybdenum	-- mcg	--
+phosphorus	43.38 mg	 4.34
+potassium	113.68 mg	 3.25
+selenium	4.03 mcg	 5.76
+sodium	4.82 mg	 0.20
+zinc	0.33 mg	 2.20
+
+Green beans, boiled
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	125.00 g
+Basic Components
+nutrient	amount	%DV
+calories	43.75	 2.43
+calories from fat	3.15
+calories from saturated fat	0.72
+protein	2.36 g	 4.72
+carbohydrates	9.86 g	 3.29
+dietary fiber	4.00 g	 16.00
+soluble fiber	1.63 g
+insoluble fiber	2.38 g
+sugar - total	2.38 g
+monosaccharides	1.85 g
+disaccharides	0.53 g
+other carbs	3.49 g
+fat - total	0.35 g	 0.54
+saturated fat	0.08 g	 0.40
+mono fat	0.01 g	 0.04
+poly fat	0.18 g	 0.75
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	111.53 g
+ash	0.91 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	832.50 IU	 16.65
+vitamin A RE	83.75 RE
+A - carotenoid	83.75 RE	 1.12
+A - retinol	0.00 RE
+A - beta carotene	482.88 mcg
+thiamin - B1	0.09 mg	 6.00
+riboflavin - B2	0.12 mg	 7.06
+niacin - B3	0.77 mg	 3.85
+niacin equiv	1.18 mg
+vitamin B6	0.07 mg	 3.50
+vitamin B12	0.00 mcg	 0.00
+biotin	1.00 mcg	 0.33
+vitamin C	12.13 mg	 20.22
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.18 mg	 0.90
+vitamin E IU	0.26 IU
+vitamin E mg	0.18 mg
+folate	41.63 mcg	 10.41
+vitamin K	20.00 mcg	 25.00
+pantothenic acid	0.09 mg	 0.90
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	57.50 mg	 5.75
+chloride	13.75 mg
+chromium	-- mcg	--
+copper	0.13 mg	 6.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.60 mg	 8.89
+magnesium	31.25 mg	 7.81
+manganese	0.37 mg	 18.50
+molybdenum	-- mcg	--
+phosphorus	48.75 mg	 4.88
+potassium	373.75 mg	 10.68
+selenium	0.50 mcg	 0.71
+sodium	3.75 mg	 0.16
+zinc	0.45 mg	 3.00
+
+Green peas, boiled
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	160.00 g
+Basic Components
+nutrient	amount	%DV
+calories	134.40	 7.47
+calories from fat	3.17
+calories from saturated fat	0.56
+protein	8.58 g	 17.16
+carbohydrates	25.02 g	 8.34
+dietary fiber	8.80 g	 35.20
+soluble fiber	2.40 g
+insoluble fiber	6.40 g
+sugar - total	9.28 g
+monosaccharides	0.48 g
+disaccharides	8.00 g
+other carbs	6.94 g
+fat - total	0.35 g	 0.54
+saturated fat	0.06 g	 0.30
+mono fat	0.03 g	 0.13
+poly fat	0.16 g	 0.67
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	124.59 g
+ash	1.47 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	955.20 IU	 19.10
+vitamin A RE	96.00 RE
+A - carotenoid	96.00 RE	 1.28
+A - retinol	0.00 RE
+A - beta carotene	556.48 mcg
+thiamin - B1	0.41 mg	 27.33
+riboflavin - B2	0.24 mg	 14.12
+niacin - B3	3.23 mg	 16.15
+niacin equiv	4.22 mg
+vitamin B6	0.35 mg	 17.50
+vitamin B12	0.00 mcg	 0.00
+biotin	0.64 mcg	 0.21
+vitamin C	22.72 mg	 37.87
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.62 mg	 3.10
+vitamin E IU	0.93 IU
+vitamin E mg	0.80 mg
+folate	101.28 mcg	 25.32
+vitamin K	41.40 mcg	 51.75
+pantothenic acid	0.24 mg	 2.40
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	43.20 mg	 4.32
+chloride	12.80 mg
+chromium	-- mcg	--
+copper	0.28 mg	 14.00
+fluoride	-- mg	--
+iodine	3.20 mcg	 2.13
+iron	2.46 mg	 13.67
+magnesium	62.40 mg	 15.60
+manganese	0.84 mg	 42.00
+molybdenum	8.00 mcg	 10.67
+phosphorus	187.20 mg	 18.72
+potassium	433.60 mg	 12.39
+selenium	3.04 mcg	 4.34
+sodium	4.80 mg	 0.20
+zinc	1.90 mg	 12.67
+
+Kale, boiled
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	130.00 g
+Basic Components
+nutrient	amount	%DV
+calories	36.40	 2.02
+calories from fat	4.68
+calories from saturated fat	0.61
+protein	2.47 g	 4.94
+carbohydrates	7.32 g	 2.44
+dietary fiber	2.60 g	 10.40
+soluble fiber	1.17 g
+insoluble fiber	1.43 g
+sugar - total	1.56 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	3.16 g
+fat - total	0.52 g	 0.80
+saturated fat	0.07 g	 0.35
+mono fat	0.04 g	 0.17
+poly fat	0.25 g	 1.04
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	118.56 g
+ash	1.13 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	9620.00 IU	 192.40
+vitamin A RE	962.00 RE
+A - carotenoid	962.00 RE	 12.83
+A - retinol	0.00 RE
+A - beta carotene	5772.00 mcg
+thiamin - B1	0.07 mg	 4.67
+riboflavin - B2	0.09 mg	 5.29
+niacin - B3	0.65 mg	 3.25
+niacin equiv	1.15 mg
+vitamin B6	0.18 mg	 9.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	53.30 mg	 88.83
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	1.11 mg	 5.55
+vitamin E IU	1.65 IU
+vitamin E mg	1.11 mg
+folate	17.29 mcg	 4.32
+vitamin K	1062.10 mcg	 1327.62
+pantothenic acid	0.06 mg	 0.60
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	93.60 mg	 9.36
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.20 mg	 10.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.17 mg	 6.50
+magnesium	23.40 mg	 5.85
+manganese	0.54 mg	 27.00
+molybdenum	-- mcg	--
+phosphorus	36.40 mg	 3.64
+potassium	296.40 mg	 8.47
+selenium	1.17 mcg	 1.67
+sodium	29.90 mg	 1.25
+zinc	0.31 mg	 2.07
+
+Leeks, boiled
+(Note: "--" indicates data is unavailable)
+amount	0.50 cup
+total weight	52.00 g
+Basic Components
+nutrient	amount	%DV
+calories	16.12	 0.90
+calories from fat	0.94
+calories from saturated fat	0.13
+protein	0.42 g	 0.84
+carbohydrates	3.96 g	 1.32
+dietary fiber	0.52 g	 2.08
+soluble fiber	0.23 g
+insoluble fiber	0.29 g
+sugar - total	0.52 g
+monosaccharides	0.34 g
+disaccharides	0.15 g
+other carbs	2.92 g
+fat - total	0.10 g	 0.15
+saturated fat	0.01 g	 0.05
+mono fat	0.00 g	 0.00
+poly fat	0.06 g	 0.25
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	47.22 g
+ash	0.30 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	23.92 IU	 0.48
+vitamin A RE	2.60 RE
+A - carotenoid	2.60 RE	 0.03
+A - retinol	0.00 RE
+A - beta carotene	15.60 mcg
+thiamin - B1	0.01 mg	 0.67
+riboflavin - B2	0.01 mg	 0.59
+niacin - B3	0.10 mg	 0.50
+niacin equiv	0.16 mg
+vitamin B6	0.06 mg	 3.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	2.18 mg	 3.63
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.32 mg	 1.60
+vitamin E IU	0.47 IU
+vitamin E mg	0.36 mg
+folate	12.64 mcg	 3.16
+vitamin K	-- mcg	--
+pantothenic acid	0.04 mg	 0.40
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	15.60 mg	 1.56
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.03 mg	 1.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.57 mg	 3.17
+magnesium	7.28 mg	 1.82
+manganese	0.13 mg	 6.50
+molybdenum	-- mcg	--
+phosphorus	8.84 mg	 0.88
+potassium	45.24 mg	 1.29
+selenium	0.26 mcg	 0.37
+sodium	5.20 mg	 0.22
+zinc	0.03 mg	 0.20
+
+Crimini mushrooms, raw
+(Note: "--" indicates data is unavailable)
+amount	5.00 oz-wt
+total weight	141.75 g
+Basic Components
+nutrient	amount	%DV
+calories	31.19	 1.73
+calories from fat	1.28
+calories from saturated fat	0.18
+protein	3.54 g	 7.08
+carbohydrates	5.84 g	 1.95
+dietary fiber	0.85 g	 3.40
+soluble fiber	-- g
+insoluble fiber	-- g
+sugar - total	2.44 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	2.55 g
+fat - total	0.14 g	 0.22
+saturated fat	0.02 g	 0.10
+mono fat	0.00 g	 0.00
+poly fat	0.06 g	 0.25
+trans fatty acids	-- g
+cholesterol	0.00 mg	 0.00
+water	130.84 g
+ash	1.39 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.13 mg	 8.67
+riboflavin - B2	0.69 mg	 40.59
+niacin - B3	5.39 mg	 26.95
+niacin equiv	6.71 mg
+vitamin B6	0.16 mg	 8.00
+vitamin B12	0.14 mcg	 2.33
+biotin	-- mcg	--
+vitamin C	0.00 mg	 0.00
+vitamin D IU	-- IU	--
+vitamin D mcg	-- mcg
+vitamin E alpha equiv	0.16 mg	 0.80
+vitamin E IU	0.24 IU
+vitamin E mg	0.16 mg
+folate	19.85 mcg	 4.96
+vitamin K	-- mcg	--
+pantothenic acid	2.13 mg	 21.30
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	25.52 mg	 2.55
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.71 mg	 35.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.57 mg	 3.17
+magnesium	12.76 mg	 3.19
+manganese	0.20 mg	 10.00
+molybdenum	-- mcg	--
+phosphorus	170.10 mg	 17.01
+potassium	635.04 mg	 18.14
+selenium	36.85 mcg	 52.64
+sodium	8.51 mg	 0.35
+zinc	1.56 mg	 10.40
+
+Shiitake mushrooms, raw
+(Note: "--" indicates data is unavailable)
+amount	8.00 oz-wt
+total weight	226.80 g
+Basic Components
+nutrient	amount	%DV
+calories	87.23	 4.85
+calories from fat	0.00
+calories from saturated fat	0.00
+protein	4.98 g	 9.96
+carbohydrates	12.46 g	 4.15
+dietary fiber	2.49 g	 9.96
+soluble fiber	-- g
+insoluble fiber	-- g
+sugar - total	2.49 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	7.48 g
+fat - total	0.00 g	 0.00
+saturated fat	0.00 g	 0.00
+mono fat	0.00 g	 0.00
+poly fat	0.00 g	 0.00
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	207.41 g
+ash	1.94 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	-- mg	--
+riboflavin - B2	-- mg	--
+niacin - B3	-- mg	--
+niacin equiv	-- mg
+vitamin B6	-- mg	--
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	5.98 mg	 9.97
+vitamin D IU	-- IU	--
+vitamin D mcg	-- mcg
+vitamin E alpha equiv	-- mg	--
+vitamin E IU	-- IU
+vitamin E mg	-- mg
+folate	-- mcg	--
+vitamin K	-- mcg	--
+pantothenic acid	-- mg	--
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	0.00 mg	 0.00
+chloride	-- mg
+chromium	-- mcg	--
+copper	-- mg	--
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	3.59 mg	 19.94
+magnesium	-- mg	--
+manganese	-- mg	--
+molybdenum	-- mcg	--
+phosphorus	-- mg	--
+potassium	-- mg	--
+selenium	-- mcg	--
+sodium	49.85 mg	 2.08
+zinc	-- mg	--
+
+Mustard greens, boiled
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	140.00 g
+Basic Components
+nutrient	amount	%DV
+calories	21.00	 1.17
+calories from fat	3.02
+calories from saturated fat	0.15
+protein	3.16 g	 6.32
+carbohydrates	2.94 g	 0.98
+dietary fiber	2.80 g	 11.20
+soluble fiber	1.40 g
+insoluble fiber	1.40 g
+sugar - total	0.01 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	0.13 g
+fat - total	0.34 g	 0.52
+saturated fat	0.02 g	 0.10
+mono fat	0.15 g	 0.63
+poly fat	0.06 g	 0.25
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	132.24 g
+ash	1.32 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	4243.40 IU	 84.87
+vitamin A RE	424.20 RE
+A - carotenoid	424.20 RE	 5.66
+A - retinol	0.00 RE
+A - beta carotene	2545.20 mcg
+thiamin - B1	0.06 mg	 4.00
+riboflavin - B2	0.09 mg	 5.29
+niacin - B3	0.61 mg	 3.05
+niacin equiv	1.19 mg
+vitamin B6	0.14 mg	 7.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	35.42 mg	 59.03
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	2.81 mg	 14.05
+vitamin E IU	4.19 IU
+vitamin E mg	3.00 mg
+folate	102.76 mcg	 25.69
+vitamin K	419.30 mcg	 524.13
+pantothenic acid	0.17 mg	 1.70
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	103.60 mg	 10.36
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.12 mg	 6.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.98 mg	 5.44
+magnesium	21.00 mg	 5.25
+manganese	0.38 mg	 19.00
+molybdenum	-- mcg	--
+phosphorus	57.40 mg	 5.74
+potassium	282.80 mg	 8.08
+selenium	0.84 mcg	 1.20
+sodium	22.40 mg	 0.93
+zinc	0.15 mg	 1.00
+
+Olives
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	134.40 g
+Basic Components
+nutrient	amount	%DV
+calories	154.56	 8.59
+calories from fat	129.19
+calories from saturated fat	17.12
+protein	1.13 g	 2.26
+carbohydrates	8.41 g	 2.80
+dietary fiber	4.30 g	 17.20
+soluble fiber	0.22 g
+insoluble fiber	4.09 g
+sugar - total	4.11 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	0.00 g
+fat - total	14.35 g	 22.08
+saturated fat	1.90 g	 9.50
+mono fat	10.60 g	 44.17
+poly fat	1.22 g	 5.08
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	107.51 g
+ash	3.00 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	541.63 IU	 10.83
+vitamin A RE	53.76 RE
+A - carotenoid	53.76 RE	 0.72
+A - retinol	0.00 RE
+A - beta carotene	-- mcg
+thiamin - B1	0.00 mg	 0.00
+riboflavin - B2	0.00 mg	 0.00
+niacin - B3	0.05 mg	 0.25
+niacin equiv	0.05 mg
+vitamin B6	0.01 mg	 0.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	1.21 mg	 2.02
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	4.03 mg	 20.15
+vitamin E IU	6.01 IU
+vitamin E mg	4.03 mg
+folate	0.00 mcg	 0.00
+vitamin K	1.88 mcg	 2.35
+pantothenic acid	0.02 mg	 0.20
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	118.27 mg	 11.83
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.34 mg	 17.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	4.44 mg	 24.67
+magnesium	5.38 mg	 1.34
+manganese	0.03 mg	 1.50
+molybdenum	-- mcg	--
+phosphorus	4.03 mg	 0.40
+potassium	10.75 mg	 0.31
+selenium	1.21 mcg	 1.73
+sodium	1171.97 mg	 48.83
+zinc	0.30 mg	 2.00
+
+Onions, raw
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	160.00 g
+Basic Components
+nutrient	amount	%DV
+calories	60.80	 3.38
+calories from fat	2.30
+calories from saturated fat	0.37
+protein	1.86 g	 3.72
+carbohydrates	13.81 g	 4.60
+dietary fiber	2.88 g	 11.52
+soluble fiber	1.15 g
+insoluble fiber	1.73 g
+sugar - total	9.92 g
+monosaccharides	5.92 g
+disaccharides	2.34 g
+other carbs	1.01 g
+fat - total	0.26 g	 0.40
+saturated fat	0.04 g	 0.20
+mono fat	0.04 g	 0.17
+poly fat	0.10 g	 0.42
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	143.49 g
+ash	0.59 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.07 mg	 4.67
+riboflavin - B2	0.03 mg	 1.76
+niacin - B3	0.24 mg	 1.20
+niacin equiv	0.69 mg
+vitamin B6	0.19 mg	 9.50
+vitamin B12	0.00 mcg	 0.00
+biotin	5.60 mcg	 1.87
+vitamin C	10.24 mg	 17.07
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.21 mg	 1.05
+vitamin E IU	0.31 IU
+vitamin E mg	0.50 mg
+folate	30.40 mcg	 7.60
+vitamin K	0.64 mcg	 0.80
+pantothenic acid	0.17 mg	 1.70
+Minerals
+nutrient	amount	%DV
+boron	0.27 mcg
+calcium	32.00 mg	 3.20
+chloride	40.00 mg
+chromium	24.80 mcg	 20.67
+copper	0.10 mg	 5.00
+fluoride	-- mg	--
+iodine	3.20 mcg	 2.13
+iron	0.35 mg	 1.94
+magnesium	16.00 mg	 4.00
+manganese	0.22 mg	 11.00
+molybdenum	8.00 mcg	 10.67
+phosphorus	52.80 mg	 5.28
+potassium	251.20 mg	 7.18
+selenium	0.96 mcg	 1.37
+sodium	4.80 mg	 0.20
+zinc	0.30 mg	 2.00
+
+Potato, baked, with skin
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	122.00 g
+Basic Components
+nutrient	amount	%DV
+calories	132.98	 7.39
+calories from fat	1.10
+calories from saturated fat	0.29
+protein	2.81 g	 5.62
+carbohydrates	30.78 g	 10.26
+dietary fiber	2.93 g	 11.72
+soluble fiber	0.73 g
+insoluble fiber	2.20 g
+sugar - total	1.95 g
+monosaccharides	0.98 g
+disaccharides	0.37 g
+other carbs	25.90 g
+fat - total	0.12 g	 0.18
+saturated fat	0.03 g	 0.15
+mono fat	0.00 g	 0.00
+poly fat	0.05 g	 0.21
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	86.86 g
+ash	1.42 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.13 mg	 8.67
+riboflavin - B2	0.04 mg	 2.35
+niacin - B3	2.01 mg	 10.05
+niacin equiv	2.74 mg
+vitamin B6	0.42 mg	 21.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	15.74 mg	 26.23
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.06 mg	 0.30
+vitamin E IU	0.09 IU
+vitamin E mg	0.06 mg
+folate	13.42 mcg	 3.35
+vitamin K	4.88 mcg	 6.10
+pantothenic acid	0.68 mg	 6.80
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	12.20 mg	 1.22
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.37 mg	 18.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.66 mg	 9.22
+magnesium	32.94 mg	 8.23
+manganese	0.28 mg	 14.00
+molybdenum	-- mcg	--
+phosphorus	69.54 mg	 6.95
+potassium	509.96 mg	 14.57
+selenium	0.98 mcg	 1.40
+sodium	9.76 mg	 0.41
+zinc	0.39 mg	 2.60
+
+Romaine lettuce
+(Note: "--" indicates data is unavailable)
+amount	2.00 cup
+total weight	112.00 g
+Basic Components
+nutrient	amount	%DV
+calories	15.68	 0.87
+calories from fat	2.02
+calories from saturated fat	0.26
+protein	1.81 g	 3.62
+carbohydrates	2.65 g	 0.88
+dietary fiber	1.90 g	 7.60
+soluble fiber	0.89 g
+insoluble fiber	1.01 g
+sugar - total	0.53 g
+monosaccharides	0.00 g
+disaccharides	-- g
+other carbs	0.22 g
+fat - total	0.22 g	 0.34
+saturated fat	0.03 g	 0.15
+mono fat	0.01 g	 0.04
+poly fat	0.12 g	 0.50
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	106.30 g
+ash	1.01 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	2912.00 IU	 58.24
+vitamin A RE	291.20 RE
+A - carotenoid	291.20 RE	 3.88
+A - retinol	0.00 RE
+A - beta carotene	1747.20 mcg
+thiamin - B1	0.11 mg	 7.33
+riboflavin - B2	0.11 mg	 6.47
+niacin - B3	0.56 mg	 2.80
+niacin equiv	0.78 mg
+vitamin B6	0.05 mg	 2.50
+vitamin B12	0.00 mcg	 0.00
+biotin	2.13 mcg	 0.71
+vitamin C	26.88 mg	 44.80
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.49 mg	 2.45
+vitamin E IU	0.73 IU
+vitamin E mg	0.84 mg
+folate	151.98 mcg	 37.99
+vitamin K	114.80 mcg	 143.50
+pantothenic acid	0.19 mg	 1.90
+Minerals
+nutrient	amount	%DV
+boron	0.09 mcg
+calcium	40.32 mg	 4.03
+chloride	63.84 mg
+chromium	15.68 mcg	 13.07
+copper	0.04 mg	 2.00
+fluoride	0.00 mg	 0.00
+iodine	3.70 mcg	 2.47
+iron	1.23 mg	 6.83
+magnesium	6.72 mg	 1.68
+manganese	0.71 mg	 35.50
+molybdenum	6.72 mcg	 8.96
+phosphorus	50.40 mg	 5.04
+potassium	324.80 mg	 9.28
+selenium	0.22 mcg	 0.31
+sodium	8.96 mg	 0.37
+zinc	0.28 mg	 1.87
+
+Kelp (sea vegetable)
+(Note: "--" indicates data is unavailable)
+amount	0.25 cup
+total weight	20.00 g
+Basic Components
+nutrient	amount	%DV
+calories	8.60	 0.48
+calories from fat	1.01
+calories from saturated fat	0.44
+protein	0.34 g	 0.68
+carbohydrates	1.91 g	 0.64
+dietary fiber	0.26 g	 1.04
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	0.00 g
+monosaccharides	0.00 g
+disaccharides	0.00 g
+other carbs	0.00 g
+fat - total	0.11 g	 0.17
+saturated fat	0.05 g	 0.25
+mono fat	0.02 g	 0.08
+poly fat	0.01 g	 0.04
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	16.32 g
+ash	1.32 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	23.20 IU	 0.46
+vitamin A RE	2.40 RE
+A - carotenoid	2.40 RE	 0.03
+A - retinol	0.00 RE
+A - beta carotene	14.40 mcg
+thiamin - B1	0.01 mg	 0.67
+riboflavin - B2	0.03 mg	 1.76
+niacin - B3	0.09 mg	 0.45
+niacin equiv	0.25 mg
+vitamin B6	0.00 mg	 0.00
+vitamin B12	0.00 mcg	 0.00
+biotin	0.00 mcg	 0.00
+vitamin C	0.60 mg	 1.00
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.17 mg	 0.85
+vitamin E IU	0.26 IU
+vitamin E mg	0.17 mg
+folate	36.00 mcg	 9.00
+vitamin K	13.20 mcg	 16.50
+pantothenic acid	0.13 mg	 1.30
+Minerals
+nutrient	amount	%DV
+boron	0.00 mcg
+calcium	33.60 mg	 3.36
+chloride	0.00 mg
+chromium	0.00 mcg	 0.00
+copper	0.03 mg	 1.50
+fluoride	0.00 mg	 0.00
+iodine	415.00 mcg	 276.67
+iron	0.57 mg	 3.17
+magnesium	24.20 mg	 6.05
+manganese	0.04 mg	 2.00
+molybdenum	1.00 mcg	 1.33
+phosphorus	8.40 mg	 0.84
+potassium	17.80 mg	 0.51
+selenium	0.14 mcg	 0.20
+sodium	46.60 mg	 1.94
+zinc	0.25 mg	 1.67
+
+Spinach, boiled
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	180.00 g
+Basic Components
+nutrient	amount	%DV
+calories	41.40	 2.30
+calories from fat	4.21
+calories from saturated fat	0.68
+protein	5.35 g	 10.70
+carbohydrates	6.75 g	 2.25
+dietary fiber	4.32 g	 17.28
+soluble fiber	1.30 g
+insoluble fiber	3.02 g
+sugar - total	0.77 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	1.66 g
+fat - total	0.47 g	 0.72
+saturated fat	0.08 g	 0.40
+mono fat	0.01 g	 0.04
+poly fat	0.19 g	 0.79
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	164.18 g
+ash	3.26 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	18865.80 IU	 377.32
+vitamin A RE	1886.40 RE
+A - carotenoid	1886.40 RE	 25.15
+A - retinol	0.00 RE
+A - beta carotene	11318.40 mcg
+thiamin - B1	0.17 mg	 11.33
+riboflavin - B2	0.42 mg	 24.71
+niacin - B3	0.88 mg	 4.40
+niacin equiv	2.08 mg
+vitamin B6	0.44 mg	 22.00
+vitamin B12	0.00 mcg	 0.00
+biotin	0.18 mcg	 0.06
+vitamin C	17.64 mg	 29.40
+vitamin D IU	-- IU	--
+vitamin D mcg	-- mcg
+vitamin E alpha equiv	3.74 mg	 18.70
+vitamin E IU	5.58 IU
+vitamin E mg	3.74 mg
+folate	262.80 mcg	 65.70
+vitamin K	888.48 mcg	 1110.60
+pantothenic acid	0.26 mg	 2.60
+Minerals
+nutrient	amount	%DV
+boron	221.99 mcg
+calcium	244.80 mg	 24.48
+chloride	100.80 mg
+chromium	-- mcg	--
+copper	0.31 mg	 15.50
+fluoride	-- mg	--
+iodine	3.60 mcg	 2.40
+iron	6.43 mg	 35.72
+magnesium	156.60 mg	 39.15
+manganese	1.68 mg	 84.00
+molybdenum	-- mcg	--
+phosphorus	100.80 mg	 10.08
+potassium	838.80 mg	 23.97
+selenium	2.70 mcg	 3.86
+sodium	126.00 mg	 5.25
+zinc	1.37 mg	 9.13
+
+Summer squash, cooked, slices
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	180.00 g
+Basic Components
+nutrient	amount	%DV
+calories	36.00	 2.00
+calories from fat	5.02
+calories from saturated fat	1.04
+protein	1.64 g	 3.28
+carbohydrates	7.76 g	 2.59
+dietary fiber	2.52 g	 10.08
+soluble fiber	0.95 g
+insoluble fiber	1.58 g
+sugar - total	3.60 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	1.64 g
+fat - total	0.56 g	 0.86
+saturated fat	0.12 g	 0.60
+mono fat	0.04 g	 0.17
+poly fat	0.24 g	 1.00
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	168.66 g
+ash	1.39 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	516.60 IU	 10.33
+vitamin A RE	52.20 RE
+A - carotenoid	52.20 RE	 0.70
+A - retinol	0.00 RE
+A - beta carotene	310.68 mcg
+thiamin - B1	0.08 mg	 5.33
+riboflavin - B2	0.07 mg	 4.12
+niacin - B3	0.92 mg	 4.60
+niacin equiv	1.16 mg
+vitamin B6	0.12 mg	 6.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	9.90 mg	 16.50
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.22 mg	 1.10
+vitamin E IU	0.32 IU
+vitamin E mg	0.25 mg
+folate	36.18 mcg	 9.04
+vitamin K	6.30 mcg	 7.88
+pantothenic acid	0.25 mg	 2.50
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	48.60 mg	 4.86
+chloride	46.80 mg
+chromium	-- mcg	--
+copper	0.19 mg	 9.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.65 mg	 3.61
+magnesium	43.20 mg	 10.80
+manganese	0.38 mg	 19.00
+molybdenum	-- mcg	--
+phosphorus	70.20 mg	 7.02
+potassium	345.60 mg	 9.87
+selenium	0.36 mcg	 0.51
+sodium	1.80 mg	 0.08
+zinc	0.70 mg	 4.67
+
+Winter squash, baked, cubes
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	205.00 g
+Basic Components
+nutrient	amount	%DV
+calories	79.95	 4.44
+calories from fat	11.62
+calories from saturated fat	2.40
+protein	1.82 g	 3.64
+carbohydrates	17.94 g	 5.98
+dietary fiber	5.74 g	 22.96
+soluble fiber	0.62 g
+insoluble fiber	5.13 g
+sugar - total	4.31 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	7.89 g
+fat - total	1.29 g	 1.98
+saturated fat	0.27 g	 1.35
+mono fat	0.10 g	 0.42
+poly fat	0.54 g	 2.25
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	182.49 g
+ash	1.48 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	7291.85 IU	 145.84
+vitamin A RE	729.80 RE
+A - carotenoid	729.80 RE	 9.73
+A - retinol	0.00 RE
+A - beta carotene	4343.95 mcg
+thiamin - B1	0.17 mg	 11.33
+riboflavin - B2	0.05 mg	 2.94
+niacin - B3	1.44 mg	 7.20
+niacin equiv	1.88 mg
+vitamin B6	0.15 mg	 7.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	19.68 mg	 32.80
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.25 mg	 1.25
+vitamin E IU	0.37 IU
+vitamin E mg	0.25 mg
+folate	57.40 mcg	 14.35
+vitamin K	-- mcg	--
+pantothenic acid	0.72 mg	 7.20
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	28.70 mg	 2.87
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.19 mg	 9.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.68 mg	 3.78
+magnesium	16.40 mg	 4.10
+manganese	0.43 mg	 21.50
+molybdenum	-- mcg	--
+phosphorus	41.00 mg	 4.10
+potassium	895.85 mg	 25.60
+selenium	0.82 mcg	 1.17
+sodium	2.05 mg	 0.09
+zinc	0.53 mg	 3.53
+
+Sweet potato, baked, with skin
+(Note: "--" indicates data is unavailable)
+amount	1.00 each
+total weight	77.00 g
+Basic Components
+nutrient	amount	%DV
+calories	95.39	 5.30
+calories from fat	0.75
+calories from saturated fat	0.17
+protein	1.76 g	 3.52
+carbohydrates	22.38 g	 7.46
+dietary fiber	3.14 g	 12.56
+soluble fiber	1.01 g
+insoluble fiber	1.46 g
+sugar - total	16.34 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	2.90 g
+fat - total	0.08 g	 0.12
+saturated fat	0.02 g	 0.10
+mono fat	0.00 g	 0.00
+poly fat	0.04 g	 0.17
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	51.77 g
+ash	1.46 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	13107.70 IU	 262.15
+vitamin A RE	1310.69 RE
+A - carotenoid	1310.70 RE	 17.48
+A - retinol	0.00 RE
+A - beta carotene	7864.16 mcg
+thiamin - B1	0.06 mg	 4.00
+riboflavin - B2	0.09 mg	 5.29
+niacin - B3	0.88 mg	 4.40
+niacin equiv	1.24 mg
+vitamin B6	0.25 mg	 12.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	17.06 mg	 28.43
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.17 mg	 0.85
+vitamin E IU	0.26 IU
+vitamin E mg	0.17 mg
+folate	17.23 mcg	 4.31
+vitamin K	-- mcg	--
+pantothenic acid	0.54 mg	 5.40
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	22.58 mg	 2.26
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.26 mg	 13.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.46 mg	 8.11
+magnesium	19.29 mg	 4.82
+manganese	0.52 mg	 26.00
+molybdenum	-- mcg	--
+phosphorus	50.14 mg	 5.01
+potassium	306.05 mg	 8.74
+selenium	0.54 mcg	 0.77
+sodium	9.56 mg	 0.40
+zinc	0.26 mg	 1.73
+
+Swiss chard, boiled
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	175.00 g
+Basic Components
+nutrient	amount	%DV
+calories	35.00	 1.94
+calories from fat	1.26
+calories from saturated fat	0.19
+protein	3.29 g	 6.58
+carbohydrates	7.25 g	 2.42
+dietary fiber	3.68 g	 14.72
+soluble fiber	-- g
+insoluble fiber	-- g
+sugar - total	0.70 g
+monosaccharides	0.70 g
+disaccharides	0.00 g
+other carbs	2.87 g
+fat - total	0.14 g	 0.22
+saturated fat	0.02 g	 0.10
+mono fat	0.03 g	 0.13
+poly fat	0.05 g	 0.21
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	162.14 g
+ash	2.21 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	5493.25 IU	 109.86
+vitamin A RE	549.50 RE
+A - carotenoid	549.50 RE	 7.33
+A - retinol	0.00 RE
+A - beta carotene	3274.25 mcg
+thiamin - B1	0.06 mg	 4.00
+riboflavin - B2	0.15 mg	 8.82
+niacin - B3	0.63 mg	 3.15
+niacin equiv	1.16 mg
+vitamin B6	0.15 mg	 7.50
+vitamin B12	0.00 mcg	 0.00
+biotin	10.50 mcg	 3.50
+vitamin C	31.50 mg	 52.50
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	3.31 mg	 16.55
+vitamin E IU	4.93 IU
+vitamin E mg	3.31 mg
+folate	15.05 mcg	 3.76
+vitamin K	572.80 mcg	 716.00
+pantothenic acid	0.29 mg	 2.90
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	101.50 mg	 10.15
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.29 mg	 14.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	3.96 mg	 22.00
+magnesium	150.50 mg	 37.63
+manganese	0.58 mg	 29.00
+molybdenum	-- mcg	--
+phosphorus	57.75 mg	 5.78
+potassium	960.75 mg	 27.45
+selenium	1.58 mcg	 2.26
+sodium	313.25 mg	 13.05
+zinc	0.58 mg	 3.87
+
+Tomato, ripe
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	180.00 g
+Basic Components
+nutrient	amount	%DV
+calories	37.80	 2.10
+calories from fat	5.35
+calories from saturated fat	0.73
+protein	1.53 g	 3.06
+carbohydrates	8.35 g	 2.78
+dietary fiber	1.98 g	 7.92
+soluble fiber	0.48 g
+insoluble fiber	1.50 g
+sugar - total	5.04 g
+monosaccharides	4.50 g
+disaccharides	0.00 g
+other carbs	1.33 g
+fat - total	0.59 g	 0.91
+saturated fat	0.08 g	 0.40
+mono fat	0.09 g	 0.38
+poly fat	0.24 g	 1.00
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	168.77 g
+ash	0.76 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	1121.40 IU	 22.43
+vitamin A RE	111.60 RE
+A - carotenoid	111.60 RE	 1.49
+A - retinol	0.00 RE
+A - beta carotene	653.40 mcg
+thiamin - B1	0.11 mg	 7.33
+riboflavin - B2	0.09 mg	 5.29
+niacin - B3	1.13 mg	 5.65
+niacin equiv	1.31 mg
+vitamin B6	0.14 mg	 7.00
+vitamin B12	0.00 mcg	 0.00
+biotin	7.20 mcg	 2.40
+vitamin C	34.38 mg	 57.30
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.68 mg	 3.40
+vitamin E IU	1.02 IU
+vitamin E mg	1.67 mg
+folate	27.00 mcg	 6.75
+vitamin K	14.22 mcg	 17.77
+pantothenic acid	0.44 mg	 4.40
+Minerals
+nutrient	amount	%DV
+boron	3.06 mcg
+calcium	9.00 mg	 0.90
+chloride	108.00 mg
+chromium	9.00 mcg	 7.50
+copper	0.13 mg	 6.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.81 mg	 4.50
+magnesium	19.80 mg	 4.95
+manganese	0.19 mg	 9.50
+molybdenum	9.00 mcg	 12.00
+phosphorus	43.20 mg	 4.32
+potassium	399.60 mg	 11.42
+selenium	0.72 mcg	 1.03
+sodium	16.20 mg	 0.68
+zinc	0.16 mg	 1.07
+
+Turnip greens, cooked
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	144.00 g
+Basic Components
+nutrient	amount	%DV
+calories	28.80	 1.60
+calories from fat	2.98
+calories from saturated fat	0.69
+protein	1.64 g	 3.28
+carbohydrates	6.28 g	 2.09
+dietary fiber	5.04 g	 20.16
+soluble fiber	1.66 g
+insoluble fiber	3.38 g
+sugar - total	0.14 g
+monosaccharides	0.14 g
+disaccharides	0.00 g
+other carbs	1.09 g
+fat - total	0.33 g	 0.51
+saturated fat	0.08 g	 0.40
+mono fat	0.02 g	 0.08
+poly fat	0.13 g	 0.54
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	134.21 g
+ash	1.54 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	7917.12 IU	 158.34
+vitamin A RE	792.00 RE
+A - carotenoid	792.00 RE	 10.56
+A - retinol	0.00 RE
+A - beta carotene	4752.00 mcg
+thiamin - B1	0.06 mg	 4.00
+riboflavin - B2	0.10 mg	 5.88
+niacin - B3	0.59 mg	 2.95
+niacin equiv	1.04 mg
+vitamin B6	0.26 mg	 13.00
+vitamin B12	0.00 mcg	 0.00
+biotin	0.58 mcg	 0.19
+vitamin C	39.46 mg	 65.77
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	2.48 mg	 12.40
+vitamin E IU	3.69 IU
+vitamin E mg	2.49 mg
+folate	170.50 mcg	 42.63
+vitamin K	529.34 mcg	 661.67
+pantothenic acid	0.39 mg	 3.90
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	197.28 mg	 19.73
+chloride	21.60 mg
+chromium	-- mcg	--
+copper	0.36 mg	 18.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.15 mg	 6.39
+magnesium	31.68 mg	 7.92
+manganese	0.49 mg	 24.50
+molybdenum	-- mcg	--
+phosphorus	41.76 mg	 4.18
+potassium	292.32 mg	 8.35
+selenium	1.30 mcg	 1.86
+sodium	41.76 mg	 1.74
+zinc	0.20 mg	 1.33
+
+Yam (Dioscorea species), cubed, cooked
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	136.00 g
+Basic Components
+nutrient	amount	%DV
+calories	157.76	 8.76
+calories from fat	1.71
+calories from saturated fat	0.35
+protein	2.03 g	 4.06
+carbohydrates	37.54 g	 12.51
+dietary fiber	5.30 g	 21.20
+soluble fiber	-- g
+insoluble fiber	-- g
+sugar - total	0.68 g
+monosaccharides	0.00 g
+disaccharides	0.54 g
+other carbs	31.55 g
+fat - total	0.19 g	 0.29
+saturated fat	0.04 g	 0.20
+mono fat	0.01 g	 0.04
+poly fat	0.08 g	 0.33
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	95.38 g
+ash	0.90 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.13 mg	 8.67
+riboflavin - B2	0.04 mg	 2.35
+niacin - B3	0.75 mg	 3.75
+niacin equiv	1.02 mg
+vitamin B6	0.31 mg	 15.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	16.46 mg	 27.43
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.22 mg	 1.10
+vitamin E IU	0.32 IU
+vitamin E mg	0.22 mg
+folate	21.76 mcg	 5.44
+vitamin K	3.54 mcg	 4.42
+pantothenic acid	0.42 mg	 4.20
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	19.04 mg	 1.90
+chloride	54.40 mg
+chromium	-- mcg	--
+copper	0.21 mg	 10.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.71 mg	 3.94
+magnesium	24.48 mg	 6.12
+manganese	0.50 mg	 25.00
+molybdenum	-- mcg	--
+phosphorus	66.64 mg	 6.66
+potassium	911.20 mg	 26.03
+selenium	0.95 mcg	 1.36
+sodium	10.88 mg	 0.45
+zinc	0.27 mg	 1.80
+
+Cod, baked/broiled
+(Note: "--" indicates data is unavailable)
+amount	4.00 oz-wt
+total weight	113.40 g
+Basic Components
+nutrient	amount	%DV
+calories	119.07	 6.62
+calories from fat	8.27
+calories from saturated fat	1.06
+protein	26.03 g	 52.06
+carbohydrates	0.00 g	 0.00
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	0.00 g
+monosaccharides	0.00 g
+disaccharides	0.00 g
+other carbs	0.00 g
+fat - total	0.92 g	 1.42
+saturated fat	0.12 g	 0.60
+mono fat	0.12 g	 0.50
+poly fat	0.35 g	 1.46
+trans fatty acids	0.00 g
+cholesterol	53.30 mg	 17.77
+water	86.18 g
+ash	1.75 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	36.29 IU	 0.73
+vitamin A RE	11.34 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	11.34 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.03 mg	 2.00
+riboflavin - B2	0.06 mg	 3.53
+niacin - B3	2.82 mg	 14.10
+niacin equiv	7.67 mg
+vitamin B6	0.52 mg	 26.00
+vitamin B12	1.18 mcg	 19.67
+biotin	-- mcg	--
+vitamin C	3.40 mg	 5.67
+vitamin D IU	63.50 IU	 15.88
+vitamin D mcg	1.59 mcg
+vitamin E alpha equiv	0.39 mg	 1.95
+vitamin E IU	0.59 IU
+vitamin E mg	0.39 mg
+folate	9.07 mcg	 2.27
+vitamin K	-- mcg	--
+pantothenic acid	0.18 mg	 1.80
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	10.21 mg	 1.02
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.04 mg	 2.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.37 mg	 2.06
+magnesium	35.15 mg	 8.79
+manganese	0.02 mg	 1.00
+molybdenum	3.86 mcg	 5.15
+phosphorus	252.88 mg	 25.29
+potassium	586.28 mg	 16.75
+selenium	53.07 mcg	 75.81
+sodium	103.19 mg	 4.30
+zinc	0.58 mg	 3.87
+
+Halibut, baked/broiled
+(Note: "--" indicates data is unavailable)
+amount	4.00 oz-wt
+total weight	113.40 g
+Basic Components
+nutrient	amount	%DV
+calories	158.76	 8.82
+calories from fat	30.01
+calories from saturated fat	4.26
+protein	30.27 g	 60.54
+carbohydrates	0.00 g	 0.00
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	0.00 g
+monosaccharides	0.00 g
+disaccharides	0.00 g
+other carbs	0.00 g
+fat - total	3.33 g	 5.12
+saturated fat	0.47 g	 2.35
+mono fat	1.10 g	 4.58
+poly fat	1.07 g	 4.46
+trans fatty acids	0.00 g
+cholesterol	46.49 mg	 15.50
+water	81.30 g
+ash	1.97 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	202.99 IU	 4.06
+vitamin A RE	61.24 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	61.24 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.08 mg	 5.33
+riboflavin - B2	0.10 mg	 5.88
+niacin - B3	8.08 mg	 40.40
+niacin equiv	13.73 mg
+vitamin B6	0.45 mg	 22.50
+vitamin B12	1.55 mcg	 25.83
+biotin	5.67 mcg	 1.89
+vitamin C	0.00 mg	 0.00
+vitamin D IU	45.36 IU	 11.34
+vitamin D mcg	1.13 mcg
+vitamin E alpha equiv	1.24 mg	 6.20
+vitamin E IU	1.84 IU
+vitamin E mg	1.24 mg
+folate	15.65 mcg	 3.91
+vitamin K	-- mcg	--
+pantothenic acid	0.43 mg	 4.30
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	68.04 mg	 6.80
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.04 mg	 2.00
+fluoride	0.00 mg	 0.00
+iodine	0.00 mcg	 0.00
+iron	1.21 mg	 6.72
+magnesium	121.34 mg	 30.34
+manganese	0.02 mg	 1.00
+molybdenum	3.86 mcg	 5.15
+phosphorus	323.19 mg	 32.32
+potassium	653.18 mg	 18.66
+selenium	53.07 mcg	 75.81
+sodium	78.25 mg	 3.26
+zinc	0.60 mg	 4.00
+
+Salmon, chinook, baked/broiled
+(Note: "--" indicates data is unavailable)
+amount	4.00 oz-wt
+total weight	113.40 g
+Basic Components
+nutrient	amount	%DV
+calories	261.95	 14.55
+calories from fat	136.76
+calories from saturated fat	32.76
+protein	29.14 g	 58.28
+carbohydrates	0.00 g	 0.00
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	0.00 g
+monosaccharides	0.00 g
+disaccharides	0.00 g
+other carbs	0.00 g
+fat - total	15.20 g	 23.38
+saturated fat	3.64 g	 18.20
+mono fat	6.51 g	 27.13
+poly fat	3.02 g	 12.58
+trans fatty acids	0.00 g
+cholesterol	96.39 mg	 32.13
+water	74.39 g
+ash	2.00 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	562.46 IU	 11.25
+vitamin A RE	168.97 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	168.97 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.05 mg	 3.33
+riboflavin - B2	0.17 mg	 10.00
+niacin - B3	11.34 mg	 56.70
+niacin equiv	16.78 mg
+vitamin B6	0.52 mg	 26.00
+vitamin B12	3.25 mcg	 54.17
+biotin	4.54 mcg	 1.51
+vitamin C	4.65 mg	 7.75
+vitamin D IU	411.00 IU	 102.75
+vitamin D mcg	10.30 mcg
+vitamin E alpha equiv	1.94 mg	 9.70
+vitamin E IU	2.89 IU
+vitamin E mg	1.94 mg
+folate	39.69 mcg	 9.92
+vitamin K	0.00 mcg	 0.00
+pantothenic acid	0.98 mg	 9.80
+Minerals
+nutrient	amount	%DV
+boron	0.00 mcg
+calcium	31.75 mg	 3.17
+chloride	0.00 mg
+chromium	0.00 mcg	 0.00
+copper	0.06 mg	 3.00
+fluoride	0.00 mg	 0.00
+iodine	-- mcg	--
+iron	1.03 mg	 5.72
+magnesium	138.35 mg	 34.59
+manganese	0.02 mg	 1.00
+molybdenum	3.86 mcg	 5.15
+phosphorus	420.71 mg	 42.07
+potassium	572.67 mg	 16.36
+selenium	53.07 mcg	 75.81
+sodium	68.04 mg	 2.84
+zinc	0.64 mg	 4.27
+
+Scallops, baked/broiled
+(Note: "--" indicates data is unavailable)
+amount	4.00 oz-wt
+total weight	113.40 g
+Basic Components
+nutrient	amount	%DV
+calories	151.70	 8.43
+calories from fat	40.36
+calories from saturated fat	6.95
+protein	23.11 g	 46.22
+carbohydrates	-- g	--
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	-- g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	-- g
+fat - total	4.48 g	 6.89
+saturated fat	0.77 g	 3.85
+mono fat	1.72 g	 7.17
+poly fat	1.31 g	 5.46
+trans fatty acids	0.00 g
+cholesterol	45.37 mg	 15.12
+water	80.34 g
+ash	3.01 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	211.03 IU	 4.22
+vitamin A RE	51.67 RE
+A - carotenoid	5.85 RE	 0.08
+A - retinol	45.82 RE
+A - beta carotene	-- mcg
+thiamin - B1	0.01 mg	 0.67
+riboflavin - B2	0.07 mg	 4.12
+niacin - B3	1.50 mg	 7.50
+niacin equiv	5.81 mg
+vitamin B6	0.20 mg	 10.00
+vitamin B12	2.00 mcg	 33.33
+biotin	-- mcg	--
+vitamin C	3.93 mg	 6.55
+vitamin D IU	4.54 IU	 1.14
+vitamin D mcg	0.11 mcg
+vitamin E alpha equiv	1.89 mg	 9.45
+vitamin E IU	2.81 IU
+vitamin E mg	1.89 mg
+folate	20.94 mcg	 5.24
+vitamin K	-- mcg	--
+pantothenic acid	0.16 mg	 1.60
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	34.28 mg	 3.43
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.07 mg	 3.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.40 mg	 2.22
+magnesium	77.12 mg	 19.28
+manganese	0.10 mg	 5.00
+molybdenum	-- mcg	--
+phosphorus	302.05 mg	 30.20
+potassium	444.46 mg	 12.70
+selenium	-- mcg	--
+sodium	261.63 mg	 10.90
+zinc	1.31 mg	 8.73
+
+Shrimp, steamed/boiled
+(Note: "--" indicates data is unavailable)
+amount	4.00 oz-wt
+total weight	113.40 g
+Basic Components
+nutrient	amount	%DV
+calories	112.27	 6.24
+calories from fat	11.02
+calories from saturated fat	2.95
+protein	23.71 g	 47.42
+carbohydrates	0.00 g	 0.00
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	0.00 g
+monosaccharides	0.00 g
+disaccharides	0.00 g
+other carbs	0.00 g
+fat - total	1.22 g	 1.88
+saturated fat	0.33 g	 1.65
+mono fat	0.22 g	 0.92
+poly fat	0.50 g	 2.08
+trans fatty acids	0.00 g
+cholesterol	221.13 mg	 73.71
+water	87.64 g
+ash	1.78 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	248.35 IU	 4.97
+vitamin A RE	74.84 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	74.84 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.04 mg	 2.67
+riboflavin - B2	0.04 mg	 2.35
+niacin - B3	2.94 mg	 14.70
+niacin equiv	8.41 mg
+vitamin B6	0.14 mg	 7.00
+vitamin B12	1.69 mcg	 28.17
+biotin	-- mcg	--
+vitamin C	2.49 mg	 4.15
+vitamin D IU	162.39 IU	 40.60
+vitamin D mcg	4.06 mcg
+vitamin E alpha equiv	0.58 mg	 2.90
+vitamin E IU	0.86 IU
+vitamin E mg	0.85 mg
+folate	3.97 mcg	 0.99
+vitamin K	0.02 mcg	 0.03
+pantothenic acid	0.39 mg	 3.90
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	44.23 mg	 4.42
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.22 mg	 11.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	3.50 mg	 19.44
+magnesium	38.56 mg	 9.64
+manganese	0.04 mg	 2.00
+molybdenum	-- mcg	--
+phosphorus	155.36 mg	 15.54
+potassium	206.39 mg	 5.90
+selenium	44.91 mcg	 64.16
+sodium	254.02 mg	 10.58
+zinc	1.77 mg	 11.80
+
+Tuna, yellowfin, baked/broiled
+(Note: "--" indicates data is unavailable)
+amount	4.00 oz-wt
+total weight	113.40 g
+Basic Components
+nutrient	amount	%DV
+calories	157.63	 8.76
+calories from fat	12.45
+calories from saturated fat	3.07
+protein	33.99 g	 67.98
+carbohydrates	0.00 g	 0.00
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	0.00 g
+monosaccharides	0.00 g
+disaccharides	0.00 g
+other carbs	0.00 g
+fat - total	1.38 g	 2.12
+saturated fat	0.34 g	 1.70
+mono fat	0.22 g	 0.92
+poly fat	0.41 g	 1.71
+trans fatty acids	0.00 g
+cholesterol	65.77 mg	 21.92
+water	71.23 g
+ash	1.95 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	77.11 IU	 1.54
+vitamin A RE	22.68 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	22.68 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.57 mg	 38.00
+riboflavin - B2	0.06 mg	 3.53
+niacin - B3	13.54 mg	 67.70
+niacin equiv	19.89 mg
+vitamin B6	1.18 mg	 59.00
+vitamin B12	0.68 mcg	 11.33
+biotin	-- mcg	--
+vitamin C	1.13 mg	 1.88
+vitamin D IU	-- IU	--
+vitamin D mcg	-- mcg
+vitamin E alpha equiv	0.71 mg	 3.55
+vitamin E IU	1.06 IU
+vitamin E mg	0.71 mg
+folate	2.27 mcg	 0.57
+vitamin K	-- mcg	--
+pantothenic acid	0.98 mg	 9.80
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	23.81 mg	 2.38
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.09 mg	 4.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.07 mg	 5.94
+magnesium	72.58 mg	 18.14
+manganese	0.02 mg	 1.00
+molybdenum	3.86 mcg	 5.15
+phosphorus	277.83 mg	 27.78
+potassium	645.25 mg	 18.44
+selenium	53.07 mcg	 75.81
+sodium	53.30 mg	 2.22
+zinc	0.76 mg	 5.07
+
+Apples
+(Note: "--" indicates data is unavailable)
+amount	1.00 each
+total weight	138.00 g
+Basic Components
+nutrient	amount	%DV
+calories	81.42	 4.52
+calories from fat	4.47
+calories from saturated fat	0.72
+protein	0.26 g	 0.52
+carbohydrates	21.05 g	 7.02
+dietary fiber	3.73 g	 14.92
+soluble fiber	1.42 g
+insoluble fiber	2.30 g
+sugar - total	16.56 g
+monosaccharides	11.45 g
+disaccharides	3.59 g
+other carbs	0.76 g
+fat - total	0.50 g	 0.77
+saturated fat	0.08 g	 0.40
+mono fat	0.02 g	 0.08
+poly fat	0.14 g	 0.58
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	115.82 g
+ash	0.36 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	73.14 IU	 1.46
+vitamin A RE	6.90 RE
+A - carotenoid	6.90 RE	 0.09
+A - retinol	0.00 RE
+A - beta carotene	28.15 mcg
+thiamin - B1	0.02 mg	 1.33
+riboflavin - B2	0.02 mg	 1.18
+niacin - B3	0.11 mg	 0.55
+niacin equiv	0.15 mg
+vitamin B6	0.07 mg	 3.50
+vitamin B12	0.00 mcg	 0.00
+biotin	1.73 mcg	 0.58
+vitamin C	7.87 mg	 13.12
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.44 mg	 2.20
+vitamin E IU	0.66 IU
+vitamin E mg	0.91 mg
+folate	3.86 mcg	 0.97
+vitamin K	3.00 mcg	 3.75
+pantothenic acid	0.08 mg	 0.80
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	9.66 mg	 0.97
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.06 mg	 3.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.25 mg	 1.39
+magnesium	6.90 mg	 1.73
+manganese	0.06 mg	 3.00
+molybdenum	-- mcg	--
+phosphorus	9.66 mg	 0.97
+potassium	158.70 mg	 4.53
+selenium	0.41 mcg	 0.59
+sodium	0.00 mg	 0.00
+zinc	0.06 mg	 0.40
+
+Apricots
+(Note: "--" indicates data is unavailable)
+amount	1.00 each
+total weight	35.00 g
+Basic Components
+nutrient	amount	%DV
+calories	16.80	 0.93
+calories from fat	1.23
+calories from saturated fat	0.09
+protein	0.49 g	 0.98
+carbohydrates	3.89 g	 1.30
+dietary fiber	0.84 g	 3.36
+soluble fiber	0.47 g
+insoluble fiber	0.37 g
+sugar - total	3.05 g
+monosaccharides	0.81 g
+disaccharides	2.17 g
+other carbs	0.01 g
+fat - total	0.14 g	 0.22
+saturated fat	0.01 g	 0.05
+mono fat	0.06 g	 0.25
+poly fat	0.03 g	 0.13
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	30.22 g
+ash	0.26 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	914.20 IU	 18.28
+vitamin A RE	91.35 RE
+A - carotenoid	91.35 RE	 1.22
+A - retinol	0.00 RE
+A - beta carotene	544.95 mcg
+thiamin - B1	0.01 mg	 0.67
+riboflavin - B2	0.01 mg	 0.59
+niacin - B3	0.21 mg	 1.05
+niacin equiv	0.30 mg
+vitamin B6	0.02 mg	 1.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	3.50 mg	 5.83
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.31 mg	 1.55
+vitamin E IU	0.46 IU
+vitamin E mg	0.31 mg
+folate	3.01 mcg	 0.75
+vitamin K	1.15 mcg	 1.44
+pantothenic acid	0.08 mg	 0.80
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	4.90 mg	 0.49
+chloride	1.05 mg
+chromium	-- mcg	--
+copper	0.03 mg	 1.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.19 mg	 1.06
+magnesium	2.80 mg	 0.70
+manganese	0.03 mg	 1.50
+molybdenum	-- mcg	--
+phosphorus	6.65 mg	 0.67
+potassium	103.60 mg	 2.96
+selenium	0.14 mcg	 0.20
+sodium	0.35 mg	 0.01
+zinc	0.09 mg	 0.60
+
+Banana
+(Note: "--" indicates data is unavailable)
+amount	1.00 each
+total weight	118.00 g
+Basic Components
+nutrient	amount	%DV
+calories	108.56	 6.03
+calories from fat	5.10
+calories from saturated fat	1.96
+protein	1.22 g	 2.44
+carbohydrates	27.65 g	 9.22
+dietary fiber	2.83 g	 11.32
+soluble fiber	0.91 g
+insoluble fiber	1.92 g
+sugar - total	21.82 g
+monosaccharides	8.97 g
+disaccharides	12.27 g
+other carbs	3.00 g
+fat - total	0.57 g	 0.88
+saturated fat	0.22 g	 1.10
+mono fat	0.05 g	 0.21
+poly fat	0.11 g	 0.46
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	87.63 g
+ash	0.94 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	95.58 IU	 1.91
+vitamin A RE	9.44 RE
+A - carotenoid	9.44 RE	 0.13
+A - retinol	0.00 RE
+A - beta carotene	56.64 mcg
+thiamin - B1	0.05 mg	 3.33
+riboflavin - B2	0.12 mg	 7.06
+niacin - B3	0.64 mg	 3.20
+niacin equiv	0.87 mg
+vitamin B6	0.68 mg	 34.00
+vitamin B12	0.00 mcg	 0.00
+biotin	3.07 mcg	 1.02
+vitamin C	10.74 mg	 17.90
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.32 mg	 1.60
+vitamin E IU	0.47 IU
+vitamin E mg	0.38 mg
+folate	22.54 mcg	 5.63
+vitamin K	0.59 mcg	 0.74
+pantothenic acid	0.31 mg	 3.10
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	7.08 mg	 0.71
+chloride	93.22 mg
+chromium	-- mcg	--
+copper	0.12 mg	 6.00
+fluoride	-- mg	--
+iodine	9.44 mcg	 6.29
+iron	0.37 mg	 2.06
+magnesium	34.22 mg	 8.55
+manganese	0.18 mg	 9.00
+molybdenum	-- mcg	--
+phosphorus	23.60 mg	 2.36
+potassium	467.28 mg	 13.35
+selenium	1.30 mcg	 1.86
+sodium	1.18 mg	 0.05
+zinc	0.19 mg	 1.27
+
+Blueberries
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	145.00 g
+Basic Components
+nutrient	amount	%DV
+calories	81.20	 4.51
+calories from fat	4.96
+calories from saturated fat	0.42
+protein	0.98 g	 1.96
+carbohydrates	20.48 g	 6.83
+dietary fiber	3.92 g	 15.68
+soluble fiber	1.16 g
+insoluble fiber	2.76 g
+sugar - total	16.54 g
+monosaccharides	10.30 g
+disaccharides	0.28 g
+other carbs	0.04 g
+fat - total	0.56 g	 0.86
+saturated fat	0.04 g	 0.20
+mono fat	0.08 g	 0.33
+poly fat	0.24 g	 1.00
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	122.68 g
+ash	0.30 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	145.00 IU	 2.90
+vitamin A RE	14.50 RE
+A - carotenoid	14.50 RE	 0.19
+A - retinol	0.00 RE
+A - beta carotene	87.00 mcg
+thiamin - B1	0.06 mg	 4.00
+riboflavin - B2	0.08 mg	 4.71
+niacin - B3	0.52 mg	 2.60
+niacin equiv	0.60 mg
+vitamin B6	0.06 mg	 3.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	18.86 mg	 31.43
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	1.46 mg	 7.30
+vitamin E IU	2.16 IU
+vitamin E mg	2.72 mg
+folate	9.28 mcg	 2.32
+vitamin K	-- mcg	--
+pantothenic acid	0.14 mg	 1.40
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	8.70 mg	 0.87
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.08 mg	 4.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.24 mg	 1.33
+magnesium	7.26 mg	 1.81
+manganese	0.40 mg	 20.00
+molybdenum	-- mcg	--
+phosphorus	14.50 mg	 1.45
+potassium	129.06 mg	 3.69
+selenium	0.88 mcg	 1.26
+sodium	8.70 mg	 0.36
+zinc	0.16 mg	 1.07
+
+Cantaloupe, cubes
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	160.00 g
+Basic Components
+nutrient	amount	%DV
+calories	56.00	 3.11
+calories from fat	4.03
+calories from saturated fat	1.02
+protein	1.41 g	 2.82
+carbohydrates	13.38 g	 4.46
+dietary fiber	1.28 g	 5.12
+soluble fiber	0.38 g
+insoluble fiber	0.90 g
+sugar - total	12.10 g
+monosaccharides	4.37 g
+disaccharides	7.73 g
+other carbs	0.00 g
+fat - total	0.45 g	 0.69
+saturated fat	0.11 g	 0.55
+mono fat	0.01 g	 0.04
+poly fat	0.18 g	 0.75
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	143.65 g
+ash	1.14 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	5158.40 IU	 103.17
+vitamin A RE	515.20 RE
+A - carotenoid	515.20 RE	 6.87
+A - retinol	0.00 RE
+A - beta carotene	3072.00 mcg
+thiamin - B1	0.06 mg	 4.00
+riboflavin - B2	0.03 mg	 1.76
+niacin - B3	0.92 mg	 4.60
+niacin equiv	1.13 mg
+vitamin B6	0.18 mg	 9.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	67.52 mg	 112.53
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.24 mg	 1.20
+vitamin E IU	0.36 IU
+vitamin E mg	0.50 mg
+folate	27.20 mcg	 6.80
+vitamin K	-- mcg	--
+pantothenic acid	0.20 mg	 2.00
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	17.60 mg	 1.76
+chloride	70.40 mg
+chromium	-- mcg	--
+copper	0.07 mg	 3.50
+fluoride	-- mg	--
+iodine	6.40 mcg	 4.27
+iron	0.34 mg	 1.89
+magnesium	17.60 mg	 4.40
+manganese	0.08 mg	 4.00
+molybdenum	-- mcg	--
+phosphorus	27.20 mg	 2.72
+potassium	494.40 mg	 14.13
+selenium	0.64 mcg	 0.91
+sodium	14.40 mg	 0.60
+zinc	0.26 mg	 1.73
+
+Cranberries
+(Note: "--" indicates data is unavailable)
+amount	0.50 cup
+total weight	47.50 g
+Basic Components
+nutrient	amount	%DV
+calories	23.27	 1.29
+calories from fat	0.85
+calories from saturated fat	0.07
+protein	0.19 g	 0.38
+carbohydrates	6.02 g	 2.01
+dietary fiber	1.99 g	 7.96
+soluble fiber	0.66 g
+insoluble fiber	1.33 g
+sugar - total	4.03 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	0.00 g
+fat - total	0.10 g	 0.15
+saturated fat	0.01 g	 0.05
+mono fat	0.01 g	 0.04
+poly fat	0.04 g	 0.17
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	41.11 g
+ash	0.09 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	21.85 IU	 0.44
+vitamin A RE	2.38 RE
+A - carotenoid	2.38 RE	 0.03
+A - retinol	0.00 RE
+A - beta carotene	13.94 mcg
+thiamin - B1	0.01 mg	 0.67
+riboflavin - B2	0.01 mg	 0.59
+niacin - B3	0.05 mg	 0.25
+niacin equiv	0.05 mg
+vitamin B6	0.03 mg	 1.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	6.41 mg	 10.68
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.05 mg	 0.25
+vitamin E IU	0.07 IU
+vitamin E mg	0.47 mg
+folate	0.81 mcg	 0.20
+vitamin K	2.42 mcg	 3.02
+pantothenic acid	0.10 mg	 1.00
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	3.33 mg	 0.33
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.03 mg	 1.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.10 mg	 0.56
+magnesium	2.38 mg	 0.59
+manganese	0.07 mg	 3.50
+molybdenum	-- mcg	--
+phosphorus	4.28 mg	 0.43
+potassium	33.73 mg	 0.96
+selenium	0.28 mcg	 0.40
+sodium	0.47 mg	 0.02
+zinc	0.06 mg	 0.40
+
+Figs, fresh
+(Note: "--" indicates data is unavailable)
+amount	8.00 oz-wt
+total weight	226.80 g
+Basic Components
+nutrient	amount	%DV
+calories	167.83	 9.32
+calories from fat	6.12
+calories from saturated fat	1.22
+protein	1.70 g	 3.40
+carbohydrates	43.50 g	 14.50
+dietary fiber	7.48 g	 29.92
+soluble fiber	1.47 g
+insoluble fiber	6.01 g
+sugar - total	36.02 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	0.00 g
+fat - total	0.68 g	 1.05
+saturated fat	0.14 g	 0.70
+mono fat	0.15 g	 0.63
+poly fat	0.33 g	 1.38
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	179.42 g
+ash	1.50 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	322.06 IU	 6.44
+vitamin A RE	31.75 RE
+A - carotenoid	31.75 RE	 0.42
+A - retinol	0.00 RE
+A - beta carotene	190.51 mcg
+thiamin - B1	0.14 mg	 9.33
+riboflavin - B2	0.11 mg	 6.47
+niacin - B3	0.91 mg	 4.55
+niacin equiv	1.13 mg
+vitamin B6	0.26 mg	 13.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	4.54 mg	 7.57
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	2.02 mg	 10.10
+vitamin E IU	3.01 IU
+vitamin E mg	2.02 mg
+folate	13.61 mcg	 3.40
+vitamin K	10.66 mcg	 13.32
+pantothenic acid	0.68 mg	 6.80
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	79.38 mg	 7.94
+chloride	40.82 mg
+chromium	-- mcg	--
+copper	0.16 mg	 8.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.84 mg	 4.67
+magnesium	38.56 mg	 9.64
+manganese	0.29 mg	 14.50
+molybdenum	-- mcg	--
+phosphorus	31.75 mg	 3.17
+potassium	526.18 mg	 15.03
+selenium	1.36 mcg	 1.94
+sodium	2.27 mg	 0.09
+zinc	0.34 mg	 2.27
+
+Grapefruit
+(Note: "--" indicates data is unavailable)
+amount	0.50 each
+total weight	123.00 g
+Basic Components
+nutrient	amount	%DV
+calories	36.90	 2.05
+calories from fat	1.11
+calories from saturated fat	0.15
+protein	0.68 g	 1.36
+carbohydrates	9.45 g	 3.15
+dietary fiber	1.69 g	 6.76
+soluble fiber	1.05 g
+insoluble fiber	0.64 g
+sugar - total	7.76 g
+monosaccharides	3.08 g
+disaccharides	4.18 g
+other carbs	0.00 g
+fat - total	0.12 g	 0.18
+saturated fat	0.02 g	 0.10
+mono fat	0.02 g	 0.08
+poly fat	0.03 g	 0.13
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	112.40 g
+ash	0.36 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	318.57 IU	 6.37
+vitamin A RE	31.98 RE
+A - carotenoid	31.98 RE	 0.43
+A - retinol	0.00 RE
+A - beta carotene	191.88 mcg
+thiamin - B1	0.04 mg	 2.67
+riboflavin - B2	0.02 mg	 1.18
+niacin - B3	0.23 mg	 1.15
+niacin equiv	0.28 mg
+vitamin B6	0.05 mg	 2.50
+vitamin B12	0.00 mcg	 0.00
+biotin	1.23 mcg	 0.41
+vitamin C	46.86 mg	 78.10
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.31 mg	 1.55
+vitamin E IU	0.46 IU
+vitamin E mg	0.32 mg
+folate	15.01 mcg	 3.75
+vitamin K	-- mcg	--
+pantothenic acid	0.35 mg	 3.50
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	13.53 mg	 1.35
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.05 mg	 2.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.15 mg	 0.83
+magnesium	9.84 mg	 2.46
+manganese	0.01 mg	 0.50
+molybdenum	-- mcg	--
+phosphorus	11.07 mg	 1.11
+potassium	158.67 mg	 4.53
+selenium	1.06 mcg	 1.51
+sodium	0.00 mg	 0.00
+zinc	0.09 mg	 0.60
+
+Grapes
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	92.00 g
+Basic Components
+nutrient	amount	%DV
+calories	61.64	 3.42
+calories from fat	2.90
+calories from saturated fat	0.94
+protein	0.58 g	 1.16
+carbohydrates	15.78 g	 5.26
+dietary fiber	0.92 g	 3.68
+soluble fiber	0.24 g
+insoluble fiber	0.70 g
+sugar - total	14.72 g
+monosaccharides	12.42 g
+disaccharides	2.66 g
+other carbs	0.14 g
+fat - total	0.32 g	 0.49
+saturated fat	0.10 g	 0.50
+mono fat	0.02 g	 0.08
+poly fat	0.10 g	 0.42
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	74.80 g
+ash	0.52 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	92.00 IU	 1.84
+vitamin A RE	9.20 RE
+A - carotenoid	9.20 RE	 0.12
+A - retinol	0.00 RE
+A - beta carotene	54.38 mcg
+thiamin - B1	0.08 mg	 5.33
+riboflavin - B2	0.06 mg	 3.53
+niacin - B3	0.28 mg	 1.40
+niacin equiv	0.32 mg
+vitamin B6	0.10 mg	 5.00
+vitamin B12	0.00 mcg	 0.00
+biotin	0.28 mcg	 0.09
+vitamin C	3.68 mg	 6.13
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.32 mg	 1.60
+vitamin E IU	0.46 IU
+vitamin E mg	0.32 mg
+folate	3.58 mcg	 0.89
+vitamin K	-- mcg	--
+pantothenic acid	0.02 mg	 0.20
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	12.88 mg	 1.29
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.04 mg	 2.00
+fluoride	-- mg	--
+iodine	0.92 mcg	 0.61
+iron	0.26 mg	 1.44
+magnesium	4.60 mg	 1.15
+manganese	0.66 mg	 33.00
+molybdenum	-- mcg	--
+phosphorus	9.20 mg	 0.92
+potassium	175.72 mg	 5.02
+selenium	0.18 mcg	 0.26
+sodium	1.84 mg	 0.08
+zinc	0.04 mg	 0.27
+
+Kiwifruit
+(Note: "--" indicates data is unavailable)
+amount	1.00 each
+total weight	76.00 g
+Basic Components
+nutrient	amount	%DV
+calories	46.36	 2.58
+calories from fat	3.01
+calories from saturated fat	0.20
+protein	0.75 g	 1.50
+carbohydrates	11.31 g	 3.77
+dietary fiber	2.58 g	 10.32
+soluble fiber	0.86 g
+insoluble fiber	1.73 g
+sugar - total	8.51 g
+monosaccharides	7.14 g
+disaccharides	0.84 g
+other carbs	0.21 g
+fat - total	0.33 g	 0.51
+saturated fat	0.02 g	 0.10
+mono fat	0.03 g	 0.13
+poly fat	0.18 g	 0.75
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	63.12 g
+ash	0.49 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	133.00 IU	 2.66
+vitamin A RE	13.68 RE
+A - carotenoid	13.68 RE	 0.18
+A - retinol	0.00 RE
+A - beta carotene	82.08 mcg
+thiamin - B1	0.02 mg	 1.33
+riboflavin - B2	0.04 mg	 2.35
+niacin - B3	0.38 mg	 1.90
+niacin equiv	0.38 mg
+vitamin B6	0.04 mg	 2.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	57.00 mg	 95.00
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.85 mg	 4.25
+vitamin E IU	1.27 IU
+vitamin E mg	0.85 mg
+folate	8.06 mcg	 2.02
+vitamin K	-- mcg	--
+pantothenic acid	0.14 mg	 1.40
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	19.76 mg	 1.98
+chloride	29.64 mg
+chromium	-- mcg	--
+copper	0.12 mg	 6.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.31 mg	 1.72
+magnesium	22.80 mg	 5.70
+manganese	0.08 mg	 4.00
+molybdenum	-- mcg	--
+phosphorus	30.40 mg	 3.04
+potassium	252.32 mg	 7.21
+selenium	0.30 mcg	 0.43
+sodium	3.80 mg	 0.16
+zinc	0.13 mg	 0.87
+
+Lemon juice, fresh
+(Note: "--" indicates data is unavailable)
+amount	0.25 cup
+total weight	61.00 g
+Basic Components
+nutrient	amount	%DV
+calories	15.25	 0.85
+calories from fat	0.00
+calories from saturated fat	0.00
+protein	0.23 g	 0.46
+carbohydrates	5.27 g	 1.76
+dietary fiber	0.25 g	 1.00
+soluble fiber	0.12 g
+insoluble fiber	0.13 g
+sugar - total	2.08 g
+monosaccharides	1.28 g
+disaccharides	0.19 g
+other carbs	2.95 g
+fat - total	0.00 g	 0.00
+saturated fat	0.00 g	 0.00
+mono fat	0.00 g	 0.00
+poly fat	0.00 g	 0.00
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	55.35 g
+ash	0.16 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	12.20 IU	 0.24
+vitamin A RE	1.22 RE
+A - carotenoid	1.22 RE	 0.02
+A - retinol	0.00 RE
+A - beta carotene	7.32 mcg
+thiamin - B1	0.02 mg	 1.33
+riboflavin - B2	0.01 mg	 0.59
+niacin - B3	0.06 mg	 0.30
+niacin equiv	0.08 mg
+vitamin B6	0.03 mg	 1.50
+vitamin B12	0.00 mcg	 0.00
+biotin	0.19 mcg	 0.06
+vitamin C	28.06 mg	 46.77
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.06 mg	 0.30
+vitamin E IU	0.08 IU
+vitamin E mg	0.14 mg
+folate	7.87 mcg	 1.97
+vitamin K	0.00 mcg	 0.00
+pantothenic acid	0.07 mg	 0.70
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	4.27 mg	 0.43
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.02 mg	 1.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.02 mg	 0.11
+magnesium	3.66 mg	 0.92
+manganese	0.01 mg	 0.50
+molybdenum	-- mcg	--
+phosphorus	3.66 mg	 0.37
+potassium	75.64 mg	 2.16
+selenium	0.06 mcg	 0.09
+sodium	0.61 mg	 0.03
+zinc	0.03 mg	 0.20
+
+Oranges
+(Note: "--" indicates data is unavailable)
+amount	1.00 each
+total weight	131.00 g
+Basic Components
+nutrient	amount	%DV
+calories	61.57	 3.42
+calories from fat	1.41
+calories from saturated fat	0.18
+protein	1.23 g	 2.46
+carbohydrates	15.39 g	 5.13
+dietary fiber	3.13 g	 12.52
+soluble fiber	2.06 g
+insoluble fiber	1.07 g
+sugar - total	12.26 g
+monosaccharides	6.16 g
+disaccharides	5.90 g
+other carbs	0.00 g
+fat - total	0.16 g	 0.25
+saturated fat	0.02 g	 0.10
+mono fat	0.03 g	 0.13
+poly fat	0.03 g	 0.13
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	113.64 g
+ash	0.58 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	268.55 IU	 5.37
+vitamin A RE	27.51 RE
+A - carotenoid	27.51 RE	 0.37
+A - retinol	0.00 RE
+A - beta carotene	51.09 mcg
+thiamin - B1	0.11 mg	 7.33
+riboflavin - B2	0.05 mg	 2.94
+niacin - B3	0.37 mg	 1.85
+niacin equiv	0.57 mg
+vitamin B6	0.08 mg	 4.00
+vitamin B12	0.00 mcg	 0.00
+biotin	1.31 mcg	 0.44
+vitamin C	69.69 mg	 116.15
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.31 mg	 1.55
+vitamin E IU	0.47 IU
+vitamin E mg	0.31 mg
+folate	39.69 mcg	 9.92
+vitamin K	1.31 mcg	 1.64
+pantothenic acid	0.33 mg	 3.30
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	52.40 mg	 5.24
+chloride	3.93 mg
+chromium	-- mcg	--
+copper	0.06 mg	 3.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.13 mg	 0.72
+magnesium	13.10 mg	 3.27
+manganese	0.03 mg	 1.50
+molybdenum	-- mcg	--
+phosphorus	18.34 mg	 1.83
+potassium	237.11 mg	 6.77
+selenium	0.66 mcg	 0.94
+sodium	0.00 mg	 0.00
+zinc	0.09 mg	 0.60
+
+Papaya
+(Note: "--" indicates data is unavailable)
+amount	1.00 each
+total weight	304.00 g
+Basic Components
+nutrient	amount	%DV
+calories	118.56	 6.59
+calories from fat	3.83
+calories from saturated fat	1.18
+protein	1.85 g	 3.70
+carbohydrates	29.82 g	 9.94
+dietary fiber	5.47 g	 21.88
+soluble fiber	-- g
+insoluble fiber	-- g
+sugar - total	17.94 g
+monosaccharides	12.46 g
+disaccharides	5.47 g
+other carbs	6.41 g
+fat - total	0.43 g	 0.66
+saturated fat	0.13 g	 0.65
+mono fat	0.12 g	 0.50
+poly fat	0.09 g	 0.38
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	270.04 g
+ash	1.85 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	863.36 IU	 17.27
+vitamin A RE	85.12 RE
+A - carotenoid	85.12 RE	 1.13
+A - retinol	0.00 RE
+A - beta carotene	151.09 mcg
+thiamin - B1	0.08 mg	 5.33
+riboflavin - B2	0.10 mg	 5.88
+niacin - B3	1.03 mg	 5.15
+niacin equiv	1.43 mg
+vitamin B6	0.06 mg	 3.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	187.87 mg	 313.12
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	3.40 mg	 17.00
+vitamin E IU	5.07 IU
+vitamin E mg	3.40 mg
+folate	115.52 mcg	 28.88
+vitamin K	7.90 mcg	 9.88
+pantothenic acid	0.66 mg	 6.60
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	72.96 mg	 7.30
+chloride	33.44 mg
+chromium	-- mcg	--
+copper	0.05 mg	 2.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.30 mg	 1.67
+magnesium	30.40 mg	 7.60
+manganese	0.03 mg	 1.50
+molybdenum	-- mcg	--
+phosphorus	15.20 mg	 1.52
+potassium	781.28 mg	 22.32
+selenium	1.82 mcg	 2.60
+sodium	9.12 mg	 0.38
+zinc	0.21 mg	 1.40
+
+Pear
+(Note: "--" indicates data is unavailable)
+amount	1.00 each
+total weight	166.00 g
+Basic Components
+nutrient	amount	%DV
+calories	97.94	 5.44
+calories from fat	5.98
+calories from saturated fat	0.33
+protein	0.65 g	 1.30
+carbohydrates	25.08 g	 8.36
+dietary fiber	3.98 g	 15.92
+soluble fiber	0.83 g
+insoluble fiber	3.15 g
+sugar - total	17.50 g
+monosaccharides	13.78 g
+disaccharides	3.65 g
+other carbs	3.60 g
+fat - total	0.66 g	 1.02
+saturated fat	0.04 g	 0.20
+mono fat	0.14 g	 0.58
+poly fat	0.16 g	 0.67
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	139.13 g
+ash	0.46 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	33.20 IU	 0.66
+vitamin A RE	3.32 RE
+A - carotenoid	3.32 RE	 0.04
+A - retinol	0.00 RE
+A - beta carotene	19.92 mcg
+thiamin - B1	0.03 mg	 2.00
+riboflavin - B2	0.07 mg	 4.12
+niacin - B3	0.17 mg	 0.85
+niacin equiv	0.17 mg
+vitamin B6	0.03 mg	 1.50
+vitamin B12	0.00 mcg	 0.00
+biotin	0.33 mcg	 0.11
+vitamin C	6.64 mg	 11.07
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.83 mg	 4.15
+vitamin E IU	1.24 IU
+vitamin E mg	0.83 mg
+folate	12.12 mcg	 3.03
+vitamin K	7.47 mcg	 9.34
+pantothenic acid	0.12 mg	 1.20
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	18.26 mg	 1.83
+chloride	1.66 mg
+chromium	-- mcg	--
+copper	0.19 mg	 9.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.42 mg	 2.33
+magnesium	9.96 mg	 2.49
+manganese	0.13 mg	 6.50
+molybdenum	-- mcg	--
+phosphorus	18.26 mg	 1.83
+potassium	207.50 mg	 5.93
+selenium	1.66 mcg	 2.37
+sodium	0.00 mg	 0.00
+zinc	0.20 mg	 1.33
+
+Pineapple
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	155.00 g
+Basic Components
+nutrient	amount	%DV
+calories	75.95	 4.22
+calories from fat	6.00
+calories from saturated fat	0.45
+protein	0.60 g	 1.20
+carbohydrates	19.20 g	 6.40
+dietary fiber	1.86 g	 7.44
+soluble fiber	0.16 g
+insoluble fiber	1.71 g
+sugar - total	17.34 g
+monosaccharides	7.75 g
+disaccharides	4.81 g
+other carbs	0.00 g
+fat - total	0.67 g	 1.03
+saturated fat	0.05 g	 0.25
+mono fat	0.07 g	 0.29
+poly fat	0.23 g	 0.96
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	134.07 g
+ash	0.45 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	35.65 IU	 0.71
+vitamin A RE	3.10 RE
+A - carotenoid	3.10 RE	 0.04
+A - retinol	0.00 RE
+A - beta carotene	18.14 mcg
+thiamin - B1	0.14 mg	 9.33
+riboflavin - B2	0.06 mg	 3.53
+niacin - B3	0.65 mg	 3.25
+niacin equiv	0.78 mg
+vitamin B6	0.13 mg	 6.50
+vitamin B12	0.00 mcg	 0.00
+biotin	0.47 mcg	 0.16
+vitamin C	23.87 mg	 39.78
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.16 mg	 0.80
+vitamin E IU	0.23 IU
+vitamin E mg	0.16 mg
+folate	16.43 mcg	 4.11
+vitamin K	1.09 mcg	 1.36
+pantothenic acid	0.25 mg	 2.50
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	10.85 mg	 1.08
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.17 mg	 8.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.57 mg	 3.17
+magnesium	21.70 mg	 5.42
+manganese	2.56 mg	 128.00
+molybdenum	-- mcg	--
+phosphorus	10.85 mg	 1.08
+potassium	175.15 mg	 5.00
+selenium	0.93 mcg	 1.33
+sodium	1.55 mg	 0.06
+zinc	0.12 mg	 0.80
+
+Plum
+(Note: "--" indicates data is unavailable)
+amount	1.00 each
+total weight	66.00 g
+Basic Components
+nutrient	amount	%DV
+calories	36.30	 2.02
+calories from fat	3.68
+calories from saturated fat	0.29
+protein	0.52 g	 1.04
+carbohydrates	8.59 g	 2.86
+dietary fiber	0.99 g	 3.96
+soluble fiber	0.55 g
+insoluble fiber	0.44 g
+sugar - total	6.66 g
+monosaccharides	2.97 g
+disaccharides	1.98 g
+other carbs	0.94 g
+fat - total	0.41 g	 0.63
+saturated fat	0.03 g	 0.15
+mono fat	0.27 g	 1.13
+poly fat	0.09 g	 0.38
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	56.23 g
+ash	0.26 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	213.18 IU	 4.26
+vitamin A RE	21.12 RE
+A - carotenoid	21.12 RE	 0.28
+A - retinol	0.00 RE
+A - beta carotene	126.72 mcg
+thiamin - B1	0.03 mg	 2.00
+riboflavin - B2	0.06 mg	 3.53
+niacin - B3	0.33 mg	 1.65
+niacin equiv	0.33 mg
+vitamin B6	0.05 mg	 2.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	6.27 mg	 10.45
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.40 mg	 2.00
+vitamin E IU	0.59 IU
+vitamin E mg	0.57 mg
+folate	1.45 mcg	 0.36
+vitamin K	-- mcg	--
+pantothenic acid	0.12 mg	 1.20
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	2.64 mg	 0.26
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.03 mg	 1.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.07 mg	 0.39
+magnesium	4.62 mg	 1.16
+manganese	0.03 mg	 1.50
+molybdenum	-- mcg	--
+phosphorus	6.60 mg	 0.66
+potassium	113.52 mg	 3.24
+selenium	0.33 mcg	 0.47
+sodium	0.00 mg	 0.00
+zinc	0.07 mg	 0.47
+
+Prunes
+(Note: "--" indicates data is unavailable)
+amount	0.25 cup
+total weight	42.50 g
+Basic Components
+nutrient	amount	%DV
+calories	101.58	 5.64
+calories from fat	1.99
+calories from saturated fat	0.16
+protein	1.11 g	 2.22
+carbohydrates	26.66 g	 8.89
+dietary fiber	3.02 g	 12.08
+soluble fiber	1.27 g
+insoluble fiber	1.75 g
+sugar - total	18.25 g
+monosaccharides	15.77 g
+disaccharides	0.34 g
+other carbs	5.39 g
+fat - total	0.22 g	 0.34
+saturated fat	0.02 g	 0.10
+mono fat	0.14 g	 0.58
+poly fat	0.05 g	 0.21
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	13.77 g
+ash	0.75 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	844.48 IU	 16.89
+vitamin A RE	84.58 RE
+A - carotenoid	84.58 RE	 1.13
+A - retinol	0.00 RE
+A - beta carotene	456.88 mcg
+thiamin - B1	0.03 mg	 2.00
+riboflavin - B2	0.07 mg	 4.12
+niacin - B3	0.83 mg	 4.15
+niacin equiv	0.83 mg
+vitamin B6	0.11 mg	 5.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	1.40 mg	 2.33
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.62 mg	 3.10
+vitamin E IU	0.92 IU
+vitamin E mg	1.06 mg
+folate	1.57 mcg	 0.39
+vitamin K	-- mcg	--
+pantothenic acid	0.20 mg	 2.00
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	21.68 mg	 2.17
+chloride	1.27 mg
+chromium	-- mcg	--
+copper	0.18 mg	 9.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.05 mg	 5.83
+magnesium	19.13 mg	 4.78
+manganese	0.09 mg	 4.50
+molybdenum	-- mcg	--
+phosphorus	33.58 mg	 3.36
+potassium	316.63 mg	 9.05
+selenium	0.98 mcg	 1.40
+sodium	1.70 mg	 0.07
+zinc	0.23 mg	 1.53
+
+Raisins
+(Note: "--" indicates data is unavailable)
+amount	0.25 cup
+total weight	36.25 g
+Basic Components
+nutrient	amount	%DV
+calories	108.75	 6.04
+calories from fat	1.50
+calories from saturated fat	0.49
+protein	1.17 g	 2.34
+carbohydrates	28.68 g	 9.56
+dietary fiber	1.45 g	 5.80
+soluble fiber	0.44 g
+insoluble fiber	1.01 g
+sugar - total	23.56 g
+monosaccharides	23.56 g
+disaccharides	0.00 g
+other carbs	3.67 g
+fat - total	0.17 g	 0.26
+saturated fat	0.05 g	 0.25
+mono fat	0.01 g	 0.04
+poly fat	0.05 g	 0.21
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	5.59 g
+ash	0.64 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	2.90 IU	 0.06
+vitamin A RE	0.36 RE
+A - carotenoid	0.36 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	2.17 mcg
+thiamin - B1	0.06 mg	 4.00
+riboflavin - B2	0.03 mg	 1.76
+niacin - B3	0.30 mg	 1.50
+niacin equiv	0.38 mg
+vitamin B6	0.09 mg	 4.50
+vitamin B12	0.00 mcg	 0.00
+biotin	0.73 mcg	 0.24
+vitamin C	1.20 mg	 2.00
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.25 mg	 1.25
+vitamin E IU	0.38 IU
+vitamin E mg	0.25 mg
+folate	1.20 mcg	 0.30
+vitamin K	1.27 mcg	 1.59
+pantothenic acid	0.02 mg	 0.20
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	17.76 mg	 1.78
+chloride	3.26 mg
+chromium	-- mcg	--
+copper	0.11 mg	 5.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.75 mg	 4.17
+magnesium	11.96 mg	 2.99
+manganese	0.11 mg	 5.50
+molybdenum	-- mcg	--
+phosphorus	35.16 mg	 3.52
+potassium	272.24 mg	 7.78
+selenium	0.25 mcg	 0.36
+sodium	4.35 mg	 0.18
+zinc	0.10 mg	 0.67
+
+Raspberries
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	123.00 g
+Basic Components
+nutrient	amount	%DV
+calories	60.28	 3.35
+calories from fat	6.08
+calories from saturated fat	0.22
+protein	1.12 g	 2.24
+carbohydrates	14.24 g	 4.75
+dietary fiber	8.34 g	 33.36
+soluble fiber	1.50 g
+insoluble fiber	6.84 g
+sugar - total	5.90 g
+monosaccharides	8.24 g
+disaccharides	3.44 g
+other carbs	0.00 g
+fat - total	0.68 g	 1.05
+saturated fat	0.02 g	 0.10
+mono fat	0.06 g	 0.25
+poly fat	0.38 g	 1.58
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	106.48 g
+ash	0.50 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	159.90 IU	 3.20
+vitamin A RE	16.00 RE
+A - carotenoid	16.00 RE	 0.21
+A - retinol	0.00 RE
+A - beta carotene	47.98 mcg
+thiamin - B1	0.04 mg	 2.67
+riboflavin - B2	0.12 mg	 7.06
+niacin - B3	1.10 mg	 5.50
+niacin equiv	1.10 mg
+vitamin B6	0.08 mg	 4.00
+vitamin B12	0.00 mcg	 0.00
+biotin	2.34 mcg	 0.78
+vitamin C	30.76 mg	 51.27
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.56 mg	 2.80
+vitamin E IU	0.82 IU
+vitamin E mg	0.56 mg
+folate	31.98 mcg	 8.00
+vitamin K	-- mcg	--
+pantothenic acid	0.30 mg	 3.00
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	27.06 mg	 2.71
+chloride	27.06 mg
+chromium	-- mcg	--
+copper	0.10 mg	 5.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.70 mg	 3.89
+magnesium	22.14 mg	 5.54
+manganese	1.24 mg	 62.00
+molybdenum	-- mcg	--
+phosphorus	14.76 mg	 1.48
+potassium	186.96 mg	 5.34
+selenium	0.74 mcg	 1.06
+sodium	0.00 mg	 0.00
+zinc	0.56 mg	 3.73
+
+Strawberries
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	144.00 g
+Basic Components
+nutrient	amount	%DV
+calories	43.20	 2.40
+calories from fat	4.80
+calories from saturated fat	0.26
+protein	0.88 g	 1.76
+carbohydrates	10.11 g	 3.37
+dietary fiber	3.31 g	 13.24
+soluble fiber	1.20 g
+insoluble fiber	2.12 g
+sugar - total	6.80 g
+monosaccharides	5.50 g
+disaccharides	1.30 g
+other carbs	0.00 g
+fat - total	0.53 g	 0.82
+saturated fat	0.03 g	 0.15
+mono fat	0.07 g	 0.29
+poly fat	0.27 g	 1.13
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	131.86 g
+ash	0.62 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	38.88 IU	 0.78
+vitamin A RE	4.32 RE
+A - carotenoid	4.32 RE	 0.06
+A - retinol	0.00 RE
+A - beta carotene	23.33 mcg
+thiamin - B1	0.03 mg	 2.00
+riboflavin - B2	0.10 mg	 5.88
+niacin - B3	0.33 mg	 1.65
+niacin equiv	0.50 mg
+vitamin B6	0.08 mg	 4.00
+vitamin B12	0.00 mcg	 0.00
+biotin	1.58 mcg	 0.53
+vitamin C	81.65 mg	 136.08
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.20 mg	 1.00
+vitamin E IU	0.30 IU
+vitamin E mg	0.37 mg
+folate	25.49 mcg	 6.37
+vitamin K	3.17 mcg	 3.96
+pantothenic acid	0.49 mg	 4.90
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	20.16 mg	 2.02
+chloride	25.92 mg
+chromium	-- mcg	--
+copper	0.07 mg	 3.50
+fluoride	-- mg	--
+iodine	12.96 mcg	 8.64
+iron	0.55 mg	 3.06
+magnesium	14.40 mg	 3.60
+manganese	0.42 mg	 21.00
+molybdenum	-- mcg	--
+phosphorus	27.36 mg	 2.74
+potassium	239.04 mg	 6.83
+selenium	1.01 mcg	 1.44
+sodium	1.44 mg	 0.06
+zinc	0.19 mg	 1.27
+
+Watermelon, diced
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	152.00 g
+Basic Components
+nutrient	amount	%DV
+calories	48.64	 2.70
+calories from fat	5.88
+calories from saturated fat	0.66
+protein	0.94 g	 1.88
+carbohydrates	10.91 g	 3.64
+dietary fiber	0.76 g	 3.04
+soluble fiber	0.49 g
+insoluble fiber	0.27 g
+sugar - total	10.15 g
+monosaccharides	5.47 g
+disaccharides	4.68 g
+other carbs	0.00 g
+fat - total	0.65 g	 1.00
+saturated fat	0.07 g	 0.35
+mono fat	0.16 g	 0.67
+poly fat	0.22 g	 0.92
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	139.10 g
+ash	0.40 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	556.32 IU	 11.13
+vitamin A RE	56.24 RE
+A - carotenoid	56.24 RE	 0.75
+A - retinol	0.00 RE
+A - beta carotene	336.83 mcg
+thiamin - B1	0.12 mg	 8.00
+riboflavin - B2	0.03 mg	 1.76
+niacin - B3	0.30 mg	 1.50
+niacin equiv	0.48 mg
+vitamin B6	0.22 mg	 11.00
+vitamin B12	0.00 mcg	 0.00
+biotin	1.52 mcg	 0.51
+vitamin C	14.59 mg	 24.32
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.23 mg	 1.15
+vitamin E IU	0.34 IU
+vitamin E mg	0.23 mg
+folate	3.34 mcg	 0.83
+vitamin K	-- mcg	--
+pantothenic acid	0.32 mg	 3.20
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	12.16 mg	 1.22
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.05 mg	 2.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.26 mg	 1.44
+magnesium	16.72 mg	 4.18
+manganese	0.06 mg	 3.00
+molybdenum	-- mcg	--
+phosphorus	13.68 mg	 1.37
+potassium	176.32 mg	 5.04
+selenium	0.15 mcg	 0.21
+sodium	3.04 mg	 0.13
+zinc	0.11 mg	 0.73
+
+Mozzarella cheese, part-skim, shredded
+(Note: "--" indicates data is unavailable)
+amount	1.00 oz-wt
+total weight	28.35 g
+Basic Components
+nutrient	amount	%DV
+calories	72.08	 4.00
+calories from fat	40.62
+calories from saturated fat	25.81
+protein	6.88 g	 13.76
+carbohydrates	0.79 g	 0.26
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	0.79 g
+monosaccharides	0.00 g
+disaccharides	0.00 g
+other carbs	0.00 g
+fat - total	4.51 g	 6.94
+saturated fat	2.87 g	 14.35
+mono fat	1.28 g	 5.33
+poly fat	0.13 g	 0.54
+trans fatty acids	-- g
+cholesterol	16.39 mg	 5.46
+water	15.25 g
+ash	0.93 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	165.56 IU	 3.31
+vitamin A RE	50.18 RE
+A - carotenoid	11.34 RE	 0.15
+A - retinol	38.84 RE
+A - beta carotene	-- mcg
+thiamin - B1	0.01 mg	 0.67
+riboflavin - B2	0.09 mg	 5.29
+niacin - B3	0.03 mg	 0.15
+niacin equiv	1.35 mg
+vitamin B6	0.02 mg	 1.00
+vitamin B12	0.23 mcg	 3.83
+biotin	1.11 mcg	 0.37
+vitamin C	0.00 mg	 0.00
+vitamin D IU	1.40 IU	 0.35
+vitamin D mcg	0.03 mcg
+vitamin E alpha equiv	0.12 mg	 0.60
+vitamin E IU	0.18 IU
+vitamin E mg	0.18 mg
+folate	2.49 mcg	 0.62
+vitamin K	-- mcg	--
+pantothenic acid	0.02 mg	 0.20
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	183.06 mg	 18.31
+chloride	238.14 mg
+chromium	-- mcg	--
+copper	0.01 mg	 0.50
+fluoride	-- mg	--
+iodine	10.09 mcg	 6.73
+iron	0.06 mg	 0.33
+magnesium	6.58 mg	 1.65
+manganese	0.00 mg	 0.00
+molybdenum	1.30 mcg	 1.73
+phosphorus	131.26 mg	 13.13
+potassium	23.73 mg	 0.68
+selenium	4.08 mcg	 5.83
+sodium	132.11 mg	 5.50
+zinc	0.78 mg	 5.20
+
+Egg, whole, boiled
+(Note: "--" indicates data is unavailable)
+amount	1.00 each
+total weight	44.00 g
+Basic Components
+nutrient	amount	%DV
+calories	68.20	 3.79
+calories from fat	42.02
+calories from saturated fat	12.94
+protein	5.54 g	 11.08
+carbohydrates	0.49 g	 0.16
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	0.49 g
+monosaccharides	0.49 g
+disaccharides	0.00 g
+other carbs	0.00 g
+fat - total	4.67 g	 7.18
+saturated fat	1.44 g	 7.20
+mono fat	1.79 g	 7.46
+poly fat	0.62 g	 2.58
+trans fatty acids	0.00 g
+cholesterol	186.56 mg	 62.19
+water	32.83 g
+ash	0.48 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	246.40 IU	 4.93
+vitamin A RE	73.92 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	73.92 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.03 mg	 2.00
+riboflavin - B2	0.23 mg	 13.53
+niacin - B3	0.03 mg	 0.15
+niacin equiv	1.15 mg
+vitamin B6	0.05 mg	 2.50
+vitamin B12	0.49 mcg	 8.17
+biotin	7.04 mcg	 2.35
+vitamin C	0.00 mg	 0.00
+vitamin D IU	22.88 IU	 5.72
+vitamin D mcg	0.57 mcg
+vitamin E alpha equiv	0.46 mg	 2.30
+vitamin E IU	0.69 IU
+vitamin E mg	0.46 mg
+folate	19.36 mcg	 4.84
+vitamin K	0.10 mcg	 0.13
+pantothenic acid	0.62 mg	 6.20
+Minerals
+nutrient	amount	%DV
+boron	0.66 mcg
+calcium	22.00 mg	 2.20
+chloride	70.40 mg
+chromium	-- mcg	--
+copper	0.01 mg	 0.50
+fluoride	-- mg	--
+iodine	23.76 mcg	 15.84
+iron	0.52 mg	 2.89
+magnesium	4.40 mg	 1.10
+manganese	0.01 mg	 0.50
+molybdenum	7.48 mcg	 9.97
+phosphorus	75.68 mg	 7.57
+potassium	55.44 mg	 1.58
+selenium	13.55 mcg	 19.36
+sodium	54.56 mg	 2.27
+zinc	0.46 mg	 3.07
+
+Cow's milk, 2%
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	244.00 g
+Basic Components
+nutrient	amount	%DV
+calories	121.20	 6.73
+calories from fat	42.16
+calories from saturated fat	26.24
+protein	8.13 g	 16.26
+carbohydrates	11.71 g	 3.90
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	11.71 g
+monosaccharides	0.00 g
+disaccharides	11.71 g
+other carbs	0.00 g
+fat - total	6.68 g	 10.28
+saturated fat	2.92 g	 14.60
+mono fat	1.35 g	 5.63
+poly fat	0.17 g	 0.71
+trans fatty acids	0.13 g
+cholesterol	18.30 mg	 6.10
+water	217.67 g
+ash	1.81 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	500.20 IU	 10.00
+vitamin A RE	139.08 RE
+A - carotenoid	9.76 RE	 0.13
+A - retinol	129.32 RE
+A - beta carotene	-- mcg
+thiamin - B1	0.10 mg	 6.67
+riboflavin - B2	0.40 mg	 23.53
+niacin - B3	0.21 mg	 1.05
+niacin equiv	1.94 mg
+vitamin B6	0.10 mg	 5.00
+vitamin B12	0.89 mcg	 14.83
+biotin	4.88 mcg	 1.63
+vitamin C	2.32 mg	 3.87
+vitamin D IU	97.60 IU	 24.40
+vitamin D mcg	2.44 mcg
+vitamin E alpha equiv	0.17 mg	 0.85
+vitamin E IU	0.25 IU
+vitamin E mg	0.17 mg
+folate	12.44 mcg	 3.11
+vitamin K	9.76 mcg	 12.20
+pantothenic acid	0.78 mg	 7.80
+Minerals
+nutrient	amount	%DV
+boron	3.66 mcg
+calcium	296.70 mg	 29.67
+chloride	244.00 mg
+chromium	-- mcg	--
+copper	0.02 mg	 1.00
+fluoride	-- mg	--
+iodine	58.56 mcg	 39.04
+iron	0.12 mg	 0.67
+magnesium	33.35 mg	 8.34
+manganese	0.00 mg	 0.00
+molybdenum	4.88 mcg	 6.51
+phosphorus	232.04 mg	 23.20
+potassium	376.74 mg	 10.76
+selenium	5.37 mcg	 7.67
+sodium	121.76 mg	 5.07
+zinc	0.95 mg	 6.33
+
+Goat's milk
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	244.00 g
+Basic Components
+nutrient	amount	%DV
+calories	167.90	 9.33
+calories from fat	90.91
+calories from saturated fat	58.57
+protein	8.69 g	 17.38
+carbohydrates	10.86 g	 3.62
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	10.86 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	0.00 g
+fat - total	10.10 g	 15.54
+saturated fat	6.51 g	 32.55
+mono fat	2.71 g	 11.29
+poly fat	0.36 g	 1.50
+trans fatty acids	0.29 g
+cholesterol	27.82 mg	 9.27
+water	212.35 g
+ash	2.00 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	451.40 IU	 9.03
+vitamin A RE	136.64 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	136.64 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.12 mg	 8.00
+riboflavin - B2	0.34 mg	 20.00
+niacin - B3	0.68 mg	 3.40
+niacin equiv	2.46 mg
+vitamin B6	0.11 mg	 5.50
+vitamin B12	0.16 mcg	 2.67
+biotin	8.54 mcg	 2.85
+vitamin C	3.15 mg	 5.25
+vitamin D IU	29.28 IU	 7.32
+vitamin D mcg	0.73 mcg
+vitamin E alpha equiv	0.22 mg	 1.10
+vitamin E IU	0.33 IU
+vitamin E mg	0.22 mg
+folate	1.46 mcg	 0.36
+vitamin K	0.73 mcg	 0.91
+pantothenic acid	0.76 mg	 7.60
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	325.74 mg	 32.57
+chloride	427.00 mg
+chromium	-- mcg	--
+copper	0.11 mg	 5.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.12 mg	 0.67
+magnesium	34.09 mg	 8.52
+manganese	0.04 mg	 2.00
+molybdenum	-- mcg	--
+phosphorus	270.11 mg	 27.01
+potassium	498.74 mg	 14.25
+selenium	3.42 mcg	 4.89
+sodium	121.51 mg	 5.06
+zinc	0.73 mg	 4.87
+
+Yogurt, low-fat
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	245.00 g
+Basic Components
+nutrient	amount	%DV
+calories	155.05	 8.61
+calories from fat	34.18
+calories from saturated fat	22.05
+protein	12.86 g	 25.72
+carbohydrates	17.25 g	 5.75
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	17.25 g
+monosaccharides	4.21 g
+disaccharides	11.17 g
+other carbs	0.00 g
+fat - total	3.80 g	 5.85
+saturated fat	2.45 g	 12.25
+mono fat	1.04 g	 4.33
+poly fat	0.11 g	 0.46
+trans fatty acids	0.08 g
+cholesterol	14.95 mg	 4.98
+water	208.42 g
+ash	2.67 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	161.70 IU	 3.23
+vitamin A RE	39.20 RE
+A - carotenoid	2.45 RE	 0.03
+A - retinol	36.75 RE
+A - beta carotene	-- mcg
+thiamin - B1	0.11 mg	 7.33
+riboflavin - B2	0.52 mg	 30.59
+niacin - B3	0.28 mg	 1.40
+niacin equiv	1.30 mg
+vitamin B6	0.12 mg	 6.00
+vitamin B12	1.38 mcg	 23.00
+biotin	7.35 mcg	 2.45
+vitamin C	1.96 mg	 3.27
+vitamin D IU	3.90 IU	 0.98
+vitamin D mcg	0.10 mcg
+vitamin E alpha equiv	0.10 mg	 0.50
+vitamin E IU	0.15 IU
+vitamin E mg	0.10 mg
+folate	27.44 mcg	 6.86
+vitamin K	0.49 mcg	 0.61
+pantothenic acid	1.45 mg	 14.50
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	447.37 mg	 44.74
+chloride	367.50 mg
+chromium	-- mcg	--
+copper	0.03 mg	 1.50
+fluoride	-- mg	--
+iodine	87.22 mcg	 58.15
+iron	0.20 mg	 1.11
+magnesium	42.75 mg	 10.69
+manganese	0.01 mg	 0.50
+molybdenum	11.27 mcg	 15.03
+phosphorus	351.58 mg	 35.16
+potassium	572.81 mg	 16.37
+selenium	8.09 mcg	 11.56
+sodium	171.99 mg	 7.17
+zinc	2.18 mg	 14.53
+
+Black beans, cooked
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	172.00 g
+Basic Components
+nutrient	amount	%DV
+calories	227.04	 12.61
+calories from fat	8.36
+calories from saturated fat	2.15
+protein	15.24 g	 30.48
+carbohydrates	40.78 g	 13.59
+dietary fiber	14.96 g	 59.84
+soluble fiber	4.13 g
+insoluble fiber	10.84 g
+sugar - total	3.78 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	22.03 g
+fat - total	0.93 g	 1.43
+saturated fat	0.24 g	 1.20
+mono fat	0.08 g	 0.33
+poly fat	0.40 g	 1.67
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	113.07 g
+ash	1.98 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	10.32 IU	 0.21
+vitamin A RE	1.72 RE
+A - carotenoid	1.72 RE	 0.02
+A - retinol	0.00 RE
+A - beta carotene	9.92 mcg
+thiamin - B1	0.42 mg	 28.00
+riboflavin - B2	0.10 mg	 5.88
+niacin - B3	0.87 mg	 4.35
+niacin equiv	3.88 mg
+vitamin B6	0.12 mg	 6.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	0.00 mg	 0.00
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.14 mg	 0.70
+vitamin E IU	0.20 IU
+vitamin E mg	1.03 mg
+folate	255.94 mcg	 63.98
+vitamin K	-- mcg	--
+pantothenic acid	0.42 mg	 4.20
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	46.44 mg	 4.64
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.36 mg	 18.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	3.61 mg	 20.06
+magnesium	120.40 mg	 30.10
+manganese	0.76 mg	 38.00
+molybdenum	129.00 mcg	 172.00
+phosphorus	240.80 mg	 24.08
+potassium	610.60 mg	 17.45
+selenium	2.06 mcg	 2.94
+sodium	1.72 mg	 0.07
+zinc	1.93 mg	 12.87
+
+Split peas, cooked
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	196.00 g
+Basic Components
+nutrient	amount	%DV
+calories	231.28	 12.85
+calories from fat	6.88
+calories from saturated fat	0.95
+protein	16.35 g	 32.70
+carbohydrates	41.38 g	 13.79
+dietary fiber	16.27 g	 65.08
+soluble fiber	5.04 g
+insoluble fiber	11.23 g
+sugar - total	5.68 g
+monosaccharides	0.20 g
+disaccharides	1.57 g
+other carbs	19.42 g
+fat - total	0.76 g	 1.17
+saturated fat	0.11 g	 0.55
+mono fat	0.16 g	 0.67
+poly fat	0.32 g	 1.33
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	136.20 g
+ash	1.33 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	13.72 IU	 0.27
+vitamin A RE	1.96 RE
+A - carotenoid	1.96 RE	 0.03
+A - retinol	0.00 RE
+A - beta carotene	11.37 mcg
+thiamin - B1	0.37 mg	 24.67
+riboflavin - B2	0.11 mg	 6.47
+niacin - B3	1.74 mg	 8.70
+niacin equiv	4.78 mg
+vitamin B6	0.09 mg	 4.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	0.78 mg	 1.30
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.76 mg	 3.80
+vitamin E IU	1.14 IU
+vitamin E mg	1.55 mg
+folate	127.20 mcg	 31.80
+vitamin K	9.80 mcg	 12.25
+pantothenic acid	1.17 mg	 11.70
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	27.44 mg	 2.74
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.35 mg	 17.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	2.53 mg	 14.06
+magnesium	70.56 mg	 17.64
+manganese	0.78 mg	 39.00
+molybdenum	147.00 mcg	 196.00
+phosphorus	194.04 mg	 19.40
+potassium	709.52 mg	 20.27
+selenium	1.18 mcg	 1.69
+sodium	3.92 mg	 0.16
+zinc	1.96 mg	 13.07
+
+Garbanzo beans (chickpeas), cooked
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	164.00 g
+Basic Components
+nutrient	amount	%DV
+calories	268.96	 14.94
+calories from fat	38.23
+calories from saturated fat	3.97
+protein	14.53 g	 29.06
+carbohydrates	44.95 g	 14.98
+dietary fiber	12.46 g	 49.84
+soluble fiber	3.87 g
+insoluble fiber	8.59 g
+sugar - total	1.97 g
+monosaccharides	0.35 g
+disaccharides	1.61 g
+other carbs	30.52 g
+fat - total	4.25 g	 6.54
+saturated fat	0.44 g	 2.20
+mono fat	0.96 g	 4.00
+poly fat	1.90 g	 7.92
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	98.74 g
+ash	1.51 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	44.28 IU	 0.89
+vitamin A RE	4.92 RE
+A - carotenoid	4.92 RE	 0.07
+A - retinol	0.00 RE
+A - beta carotene	28.37 mcg
+thiamin - B1	0.19 mg	 12.67
+riboflavin - B2	0.10 mg	 5.88
+niacin - B3	0.86 mg	 4.30
+niacin equiv	3.19 mg
+vitamin B6	0.23 mg	 11.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	2.13 mg	 3.55
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.57 mg	 2.85
+vitamin E IU	0.86 IU
+vitamin E mg	1.92 mg
+folate	282.08 mcg	 70.52
+vitamin K	6.56 mcg	 8.20
+pantothenic acid	0.47 mg	 4.70
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	80.36 mg	 8.04
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.58 mg	 29.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	4.74 mg	 26.33
+magnesium	78.72 mg	 19.68
+manganese	1.69 mg	 84.50
+molybdenum	123.00 mcg	 164.00
+phosphorus	275.52 mg	 27.55
+potassium	477.24 mg	 13.64
+selenium	6.07 mcg	 8.67
+sodium	11.48 mg	 0.48
+zinc	2.51 mg	 16.73
+
+Kidney beans, cooked
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	177.00 g
+Basic Components
+nutrient	amount	%DV
+calories	224.79	 12.49
+calories from fat	7.97
+calories from saturated fat	1.15
+protein	15.35 g	 30.70
+carbohydrates	40.37 g	 13.46
+dietary fiber	11.33 g	 45.32
+soluble fiber	4.64 g
+insoluble fiber	6.69 g
+sugar - total	3.89 g
+monosaccharides	0.00 g
+disaccharides	0.89 g
+other carbs	25.15 g
+fat - total	0.89 g	 1.37
+saturated fat	0.13 g	 0.65
+mono fat	0.07 g	 0.29
+poly fat	0.49 g	 2.04
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	118.48 g
+ash	1.93 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.28 mg	 18.67
+riboflavin - B2	0.10 mg	 5.88
+niacin - B3	1.02 mg	 5.10
+niacin equiv	4.06 mg
+vitamin B6	0.21 mg	 10.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	2.12 mg	 3.53
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.37 mg	 1.85
+vitamin E IU	0.55 IU
+vitamin E mg	0.37 mg
+folate	229.39 mcg	 57.35
+vitamin K	14.87 mcg	 18.59
+pantothenic acid	0.39 mg	 3.90
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	49.56 mg	 4.96
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.43 mg	 21.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	5.20 mg	 28.89
+magnesium	79.65 mg	 19.91
+manganese	0.84 mg	 42.00
+molybdenum	132.75 mcg	 177.00
+phosphorus	251.34 mg	 25.13
+potassium	713.31 mg	 20.38
+selenium	2.12 mcg	 3.03
+sodium	3.54 mg	 0.15
+zinc	1.89 mg	 12.60
+
+Lentils, cooked
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	198.00 g
+Basic Components
+nutrient	amount	%DV
+calories	229.68	 12.76
+calories from fat	6.77
+calories from saturated fat	0.94
+protein	17.86 g	 35.72
+carbohydrates	39.88 g	 13.29
+dietary fiber	15.64 g	 62.56
+soluble fiber	2.57 g
+insoluble fiber	13.07 g
+sugar - total	3.56 g
+monosaccharides	0.20 g
+disaccharides	0.99 g
+other carbs	20.67 g
+fat - total	0.75 g	 1.15
+saturated fat	0.10 g	 0.50
+mono fat	0.13 g	 0.54
+poly fat	0.35 g	 1.46
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	137.89 g
+ash	1.64 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	15.84 IU	 0.32
+vitamin A RE	1.98 RE
+A - carotenoid	1.98 RE	 0.03
+A - retinol	0.00 RE
+A - beta carotene	11.48 mcg
+thiamin - B1	0.33 mg	 22.00
+riboflavin - B2	0.14 mg	 8.24
+niacin - B3	2.10 mg	 10.50
+niacin equiv	4.77 mg
+vitamin B6	0.35 mg	 17.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	2.97 mg	 4.95
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.22 mg	 1.10
+vitamin E IU	0.32 IU
+vitamin E mg	1.16 mg
+folate	357.98 mcg	 89.50
+vitamin K	3.37 mcg	 4.21
+pantothenic acid	1.26 mg	 12.60
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	37.62 mg	 3.76
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.50 mg	 25.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	6.59 mg	 36.61
+magnesium	71.28 mg	 17.82
+manganese	0.98 mg	 49.00
+molybdenum	148.50 mcg	 198.00
+phosphorus	356.40 mg	 35.64
+potassium	730.62 mg	 20.87
+selenium	5.54 mcg	 7.91
+sodium	3.96 mg	 0.17
+zinc	2.51 mg	 16.73
+
+Lima beans, cooked
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	188.00 g
+Basic Components
+nutrient	amount	%DV
+calories	216.20	 12.01
+calories from fat	6.43
+calories from saturated fat	1.51
+protein	14.66 g	 29.32
+carbohydrates	39.27 g	 13.09
+dietary fiber	13.16 g	 52.64
+soluble fiber	3.42 g
+insoluble fiber	9.74 g
+sugar - total	5.45 g
+monosaccharides	0.00 g
+disaccharides	0.00 g
+other carbs	20.66 g
+fat - total	0.71 g	 1.09
+saturated fat	0.17 g	 0.85
+mono fat	0.06 g	 0.25
+poly fat	0.32 g	 1.33
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	131.21 g
+ash	2.16 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.30 mg	 20.00
+riboflavin - B2	0.10 mg	 5.88
+niacin - B3	0.79 mg	 3.95
+niacin equiv	3.64 mg
+vitamin B6	0.30 mg	 15.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	0.00 mg	 0.00
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.34 mg	 1.70
+vitamin E IU	0.50 IU
+vitamin E mg	0.34 mg
+folate	156.23 mcg	 39.06
+vitamin K	3.76 mcg	 4.70
+pantothenic acid	0.79 mg	 7.90
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	31.96 mg	 3.20
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.44 mg	 22.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	4.49 mg	 24.94
+magnesium	80.84 mg	 20.21
+manganese	0.97 mg	 48.50
+molybdenum	141.00 mcg	 188.00
+phosphorus	208.68 mg	 20.87
+potassium	955.04 mg	 27.29
+selenium	8.46 mcg	 12.09
+sodium	447.44 mg	 18.64
+zinc	1.79 mg	 11.93
+
+Miso
+(Note: "--" indicates data is unavailable)
+amount	1.00 oz
+total weight	34.38 g
+Basic Components
+nutrient	amount	%DV
+calories	70.81	 3.93
+calories from fat	18.78
+calories from saturated fat	2.72
+protein	4.06 g	 8.12
+carbohydrates	9.61 g	 3.20
+dietary fiber	1.86 g	 7.44
+soluble fiber	0.89 g
+insoluble fiber	0.97 g
+sugar - total	-- g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	-- g
+fat - total	2.09 g	 3.22
+saturated fat	0.30 g	 1.50
+mono fat	0.46 g	 1.92
+poly fat	1.18 g	 4.92
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	14.25 g
+ash	4.37 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	29.91 IU	 0.60
+vitamin A RE	3.09 RE
+A - carotenoid	3.09 RE	 0.04
+A - retinol	0.00 RE
+A - beta carotene	-- mcg
+thiamin - B1	0.03 mg	 2.00
+riboflavin - B2	0.09 mg	 5.29
+niacin - B3	0.30 mg	 1.50
+niacin equiv	1.04 mg
+vitamin B6	0.07 mg	 3.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	0.00 mg	 0.00
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.00 mg	 0.00
+vitamin E IU	0.01 IU
+vitamin E mg	0.00 mg
+folate	11.34 mcg	 2.83
+vitamin K	8.53 mcg	 10.66
+pantothenic acid	0.09 mg	 0.90
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	22.69 mg	 2.27
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.15 mg	 7.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.94 mg	 5.22
+magnesium	14.44 mg	 3.61
+manganese	0.30 mg	 15.00
+molybdenum	-- mcg	--
+phosphorus	52.59 mg	 5.26
+potassium	56.38 mg	 1.61
+selenium	0.55 mcg	 0.79
+sodium	1253.66 mg	 52.24
+zinc	1.14 mg	 7.60
+
+Navy beans, cooked
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	182.00 g
+Basic Components
+nutrient	amount	%DV
+calories	258.44	 14.36
+calories from fat	9.34
+calories from saturated fat	2.42
+protein	15.83 g	 31.66
+carbohydrates	47.88 g	 15.96
+dietary fiber	11.65 g	 46.60
+soluble fiber	3.39 g
+insoluble fiber	8.26 g
+sugar - total	4.00 g
+monosaccharides	0.00 g
+disaccharides	0.91 g
+other carbs	32.23 g
+fat - total	1.04 g	 1.60
+saturated fat	0.27 g	 1.35
+mono fat	0.09 g	 0.38
+poly fat	0.45 g	 1.88
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	114.99 g
+ash	2.24 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	3.64 IU	 0.07
+vitamin A RE	0.36 RE
+A - carotenoid	0.36 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	2.09 mcg
+thiamin - B1	0.37 mg	 24.67
+riboflavin - B2	0.11 mg	 6.47
+niacin - B3	0.97 mg	 4.85
+niacin equiv	4.09 mg
+vitamin B6	0.30 mg	 15.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	1.64 mg	 2.73
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.73 mg	 3.65
+vitamin E IU	1.08 IU
+vitamin E mg	2.06 mg
+folate	254.62 mcg	 63.66
+vitamin K	1.09 mcg	 1.36
+pantothenic acid	0.46 mg	 4.60
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	127.40 mg	 12.74
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.54 mg	 27.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	4.51 mg	 25.06
+magnesium	107.38 mg	 26.84
+manganese	1.01 mg	 50.50
+molybdenum	-- mcg	--
+phosphorus	285.74 mg	 28.57
+potassium	669.76 mg	 19.14
+selenium	10.56 mcg	 15.09
+sodium	1.82 mg	 0.08
+zinc	1.93 mg	 12.87
+
+Pinto beans, cooked
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	171.00 g
+Basic Components
+nutrient	amount	%DV
+calories	234.27	 13.02
+calories from fat	8.00
+calories from saturated fat	1.68
+protein	14.04 g	 28.08
+carbohydrates	43.86 g	 14.62
+dietary fiber	14.71 g	 58.84
+soluble fiber	5.47 g
+insoluble fiber	9.23 g
+sugar - total	3.76 g
+monosaccharides	0.00 g
+disaccharides	0.86 g
+other carbs	25.39 g
+fat - total	0.89 g	 1.37
+saturated fat	0.19 g	 0.95
+mono fat	0.18 g	 0.75
+poly fat	0.32 g	 1.33
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	109.90 g
+ash	2.31 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	3.42 IU	 0.07
+vitamin A RE	0.34 RE
+A - carotenoid	0.34 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	1.97 mcg
+thiamin - B1	0.32 mg	 21.33
+riboflavin - B2	0.16 mg	 9.41
+niacin - B3	0.68 mg	 3.40
+niacin equiv	3.45 mg
+vitamin B6	0.27 mg	 13.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	3.59 mg	 5.98
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	1.61 mg	 8.05
+vitamin E IU	2.40 IU
+vitamin E mg	1.61 mg
+folate	294.12 mcg	 73.53
+vitamin K	5.98 mcg	 7.47
+pantothenic acid	0.49 mg	 4.90
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	82.08 mg	 8.21
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.44 mg	 22.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	4.46 mg	 24.78
+magnesium	94.05 mg	 23.51
+manganese	0.95 mg	 47.50
+molybdenum	128.25 mcg	 171.00
+phosphorus	273.60 mg	 27.36
+potassium	800.28 mg	 22.87
+selenium	12.14 mcg	 17.34
+sodium	3.42 mg	 0.14
+zinc	1.85 mg	 12.33
+
+Soybeans, cooked
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	172.00 g
+Basic Components
+nutrient	amount	%DV
+calories	297.56	 16.53
+calories from fat	138.86
+calories from saturated fat	20.08
+protein	28.62 g	 57.24
+carbohydrates	17.06 g	 5.69
+dietary fiber	10.32 g	 41.28
+soluble fiber	4.23 g
+insoluble fiber	6.09 g
+sugar - total	5.16 g
+monosaccharides	0.52 g
+disaccharides	0.86 g
+other carbs	1.58 g
+fat - total	15.43 g	 23.74
+saturated fat	2.23 g	 11.15
+mono fat	3.41 g	 14.21
+poly fat	8.71 g	 36.29
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	107.59 g
+ash	3.29 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	15.48 IU	 0.31
+vitamin A RE	1.72 RE
+A - carotenoid	1.72 RE	 0.02
+A - retinol	0.00 RE
+A - beta carotene	9.98 mcg
+thiamin - B1	0.27 mg	 18.00
+riboflavin - B2	0.49 mg	 28.82
+niacin - B3	0.69 mg	 3.45
+niacin equiv	6.87 mg
+vitamin B6	0.40 mg	 20.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	2.92 mg	 4.87
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	3.35 mg	 16.75
+vitamin E IU	5.00 IU
+vitamin E mg	3.35 mg
+folate	92.54 mcg	 23.14
+vitamin K	33.02 mcg	 41.28
+pantothenic acid	0.31 mg	 3.10
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	175.44 mg	 17.54
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.70 mg	 35.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	8.84 mg	 49.11
+magnesium	147.92 mg	 36.98
+manganese	1.42 mg	 71.00
+molybdenum	129.00 mcg	 172.00
+phosphorus	421.40 mg	 42.14
+potassium	885.80 mg	 25.31
+selenium	12.56 mcg	 17.94
+sodium	1.72 mg	 0.07
+zinc	1.98 mg	 13.20
+
+Tempeh, cooked
+(Note: "--" indicates data is unavailable)
+amount	4.00 oz-wt
+total weight	113.40 g
+Basic Components
+nutrient	amount	%DV
+calories	223.40	 12.41
+calories from fat	116.15
+calories from saturated fat	33.57
+protein	20.63 g	 41.26
+carbohydrates	10.59 g	 3.53
+dietary fiber	-- g	--
+soluble fiber	-- g
+insoluble fiber	-- g
+sugar - total	-- g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	-- g
+fat - total	12.91 g	 19.86
+saturated fat	3.73 g	 18.65
+mono fat	4.65 g	 19.38
+poly fat	3.04 g	 12.67
+trans fatty acids	-- g
+cholesterol	-- mg	--
+water	67.53 g
+ash	1.73 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	-- IU	--
+vitamin A RE	-- RE
+A - carotenoid	-- RE	--
+A - retinol	0.00 RE
+A - beta carotene	-- mcg
+thiamin - B1	0.07 mg	 4.67
+riboflavin - B2	0.40 mg	 23.53
+niacin - B3	2.43 mg	 12.15
+niacin equiv	2.43 mg
+vitamin B6	0.23 mg	 11.50
+vitamin B12	0.15 mcg	 2.50
+biotin	-- mcg	--
+vitamin C	-- mg	--
+vitamin D IU	-- IU	--
+vitamin D mcg	-- mcg
+vitamin E alpha equiv	-- mg	--
+vitamin E IU	-- IU
+vitamin E mg	-- mg
+folate	24.16 mcg	 6.04
+vitamin K	-- mcg	--
+pantothenic acid	0.52 mg	 5.20
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	108.41 mg	 10.84
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.61 mg	 30.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	2.41 mg	 13.39
+magnesium	87.55 mg	 21.89
+manganese	1.45 mg	 72.50
+molybdenum	-- mcg	--
+phosphorus	286.91 mg	 28.69
+potassium	455.08 mg	 13.00
+selenium	0.01 mcg	 0.01
+sodium	15.53 mg	 0.65
+zinc	1.79 mg	 11.93
+
+Tofu, raw
+(Note: "--" indicates data is unavailable)
+amount	4.00 oz-wt
+total weight	113.40 g
+Basic Components
+nutrient	amount	%DV
+calories	86.18	 4.79
+calories from fat	48.78
+calories from saturated fat	7.05
+protein	9.16 g	 18.32
+carbohydrates	2.13 g	 0.71
+dietary fiber	0.34 g	 1.36
+soluble fiber	0.20 g
+insoluble fiber	0.14 g
+sugar - total	0.45 g
+monosaccharides	0.00 g
+disaccharides	0.00 g
+other carbs	1.34 g
+fat - total	5.42 g	 8.34
+saturated fat	0.78 g	 3.90
+mono fat	1.20 g	 5.00
+poly fat	3.06 g	 12.75
+trans fatty acids	-- g
+cholesterol	0.00 mg	 0.00
+water	95.88 g
+ash	0.82 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	96.39 IU	 1.93
+vitamin A RE	10.21 RE
+A - carotenoid	-- RE	--
+A - retinol	-- RE
+A - beta carotene	-- mcg
+thiamin - B1	0.09 mg	 6.00
+riboflavin - B2	0.06 mg	 3.53
+niacin - B3	0.22 mg	 1.10
+niacin equiv	2.60 mg
+vitamin B6	0.05 mg	 2.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	0.11 mg	 0.18
+vitamin D IU	-- IU	--
+vitamin D mcg	-- mcg
+vitamin E alpha equiv	0.01 mg	 0.05
+vitamin E IU	0.02 IU
+vitamin E mg	0.01 mg
+folate	17.01 mcg	 4.25
+vitamin K	-- mcg	--
+pantothenic acid	0.08 mg	 0.80
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	100.00 mg	 10.00
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.22 mg	 11.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	6.08 mg	 33.78
+magnesium	34.02 mg	 8.51
+manganese	0.69 mg	 34.50
+molybdenum	-- mcg	--
+phosphorus	110.00 mg	 11.00
+potassium	137.21 mg	 3.92
+selenium	10.09 mcg	 14.41
+sodium	7.94 mg	 0.33
+zinc	0.91 mg	 6.07
+
+Beef tenderloin, lean, broiled
+(Note: "--" indicates data is unavailable)
+amount	4.00 oz-wt
+total weight	113.40 g
+Basic Components
+nutrient	amount	%DV
+calories	240.41	 13.36
+calories from fat	103.08
+calories from saturated fat	38.57
+protein	32.04 g	 64.08
+carbohydrates	0.00 g	 0.00
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	0.00 g
+monosaccharides	0.00 g
+disaccharides	0.00 g
+other carbs	0.00 g
+fat - total	11.45 g	 17.62
+saturated fat	4.28 g	 21.40
+mono fat	4.32 g	 18.00
+poly fat	0.43 g	 1.79
+trans fatty acids	-- g
+cholesterol	95.25 mg	 31.75
+water	67.81 g
+ash	1.48 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.15 mg	 10.00
+riboflavin - B2	0.35 mg	 20.59
+niacin - B3	4.44 mg	 22.20
+niacin equiv	10.41 mg
+vitamin B6	0.49 mg	 24.50
+vitamin B12	2.92 mcg	 48.67
+biotin	-- mcg	--
+vitamin C	0.00 mg	 0.00
+vitamin D IU	13.61 IU	 3.40
+vitamin D mcg	0.35 mcg
+vitamin E alpha equiv	0.23 mg	 1.15
+vitamin E IU	0.33 IU
+vitamin E mg	0.23 mg
+folate	7.93 mcg	 1.98
+vitamin K	-- mcg	--
+pantothenic acid	0.43 mg	 4.30
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	7.93 mg	 0.79
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.20 mg	 10.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	4.05 mg	 22.50
+magnesium	34.03 mg	 8.51
+manganese	0.01 mg	 0.50
+molybdenum	3.85 mcg	 5.13
+phosphorus	269.89 mg	 26.99
+potassium	475.15 mg	 13.58
+selenium	27.67 mcg	 39.53
+sodium	71.44 mg	 2.98
+zinc	6.33 mg	 42.20
+
+Calf's liver, braised
+(Note: "--" indicates data is unavailable)
+amount	4.00 oz-wt
+total weight	113.40 g
+Basic Components
+nutrient	amount	%DV
+calories	187.11	 10.39
+calories from fat	70.43
+calories from saturated fat	26.13
+protein	24.53 g	 49.06
+carbohydrates	3.08 g	 1.03
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	0.00 g
+monosaccharides	0.00 g
+disaccharides	0.00 g
+other carbs	3.08 g
+fat - total	7.83 g	 12.05
+saturated fat	2.91 g	 14.55
+mono fat	1.69 g	 7.04
+poly fat	1.24 g	 5.17
+trans fatty acids	-- g
+cholesterol	636.17 mg	 212.06
+water	76.36 g
+ash	1.59 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	30485.26 IU	 609.71
+vitamin A RE	9127.54 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	9127.54 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.15 mg	 10.00
+riboflavin - B2	2.20 mg	 129.41
+niacin - B3	9.61 mg	 48.05
+niacin equiv	13.91 mg
+vitamin B6	0.56 mg	 28.00
+vitamin B12	41.39 mcg	 689.83
+biotin	-- mcg	--
+vitamin C	35.16 mg	 58.60
+vitamin D IU	13.61 IU	 3.40
+vitamin D mcg	0.35 mcg
+vitamin E alpha equiv	0.39 mg	 1.95
+vitamin E IU	0.57 IU
+vitamin E mg	0.41 mg
+folate	860.70 mcg	 215.18
+vitamin K	-- mcg	--
+pantothenic acid	2.59 mg	 25.90
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	7.93 mg	 0.79
+chloride	-- mg
+chromium	-- mcg	--
+copper	9.01 mg	 450.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	2.97 mg	 16.50
+magnesium	21.55 mg	 5.39
+manganese	0.13 mg	 6.50
+molybdenum	-- mcg	--
+phosphorus	361.75 mg	 36.17
+potassium	232.47 mg	 6.64
+selenium	57.84 mcg	 82.63
+sodium	60.11 mg	 2.50
+zinc	10.80 mg	 72.00
+
+Chicken breast, roasted
+(Note: "--" indicates data is unavailable)
+amount	4.00 oz-wt
+total weight	113.40 g
+Basic Components
+nutrient	amount	%DV
+calories	223.40	 12.41
+calories from fat	79.40
+calories from saturated fat	22.35
+protein	33.79 g	 67.58
+carbohydrates	0.00 g	 0.00
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	0.00 g
+monosaccharides	0.00 g
+disaccharides	0.00 g
+other carbs	0.00 g
+fat - total	8.82 g	 13.57
+saturated fat	2.48 g	 12.40
+mono fat	3.44 g	 14.33
+poly fat	1.88 g	 7.83
+trans fatty acids	-- g
+cholesterol	95.26 mg	 31.75
+water	70.81 g
+ash	1.12 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	105.46 IU	 2.11
+vitamin A RE	30.62 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	30.62 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.07 mg	 4.67
+riboflavin - B2	0.13 mg	 7.65
+niacin - B3	14.41 mg	 72.05
+niacin equiv	20.84 mg
+vitamin B6	0.64 mg	 32.00
+vitamin B12	0.36 mcg	 6.00
+biotin	-- mcg	--
+vitamin C	0.00 mg	 0.00
+vitamin D IU	13.61 IU	 3.40
+vitamin D mcg	0.34 mcg
+vitamin E alpha equiv	0.30 mg	 1.50
+vitamin E IU	0.45 IU
+vitamin E mg	0.65 mg
+folate	4.54 mcg	 1.14
+vitamin K	0.17 mcg	 0.21
+pantothenic acid	1.06 mg	 10.60
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	15.88 mg	 1.59
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.06 mg	 3.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.21 mg	 6.72
+magnesium	30.62 mg	 7.66
+manganese	0.02 mg	 1.00
+molybdenum	-- mcg	--
+phosphorus	242.68 mg	 24.27
+potassium	277.83 mg	 7.94
+selenium	28.01 mcg	 40.01
+sodium	80.51 mg	 3.35
+zinc	1.16 mg	 7.73
+
+Lamb loin, roasted
+(Note: "--" indicates data is unavailable)
+amount	4.00 oz-wt
+total weight	113.40 g
+Basic Components
+nutrient	amount	%DV
+calories	229.07	 12.73
+calories from fat	99.61
+calories from saturated fat	37.97
+protein	30.15 g	 60.30
+carbohydrates	0.00 g	 0.00
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	0.00 g
+monosaccharides	0.00 g
+disaccharides	0.00 g
+other carbs	0.00 g
+fat - total	11.07 g	 17.03
+saturated fat	4.22 g	 21.10
+mono fat	4.48 g	 18.67
+poly fat	0.98 g	 4.08
+trans fatty acids	0.00 g
+cholesterol	98.66 mg	 32.89
+water	71.17 g
+ash	1.53 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.11 mg	 7.33
+riboflavin - B2	0.31 mg	 18.24
+niacin - B3	7.75 mg	 38.75
+niacin equiv	13.62 mg
+vitamin B6	0.18 mg	 9.00
+vitamin B12	2.45 mcg	 40.83
+biotin	2.27 mcg	 0.76
+vitamin C	0.00 mg	 0.00
+vitamin D IU	13.61 IU	 3.40
+vitamin D mcg	0.34 mcg
+vitamin E alpha equiv	0.18 mg	 0.90
+vitamin E IU	0.27 IU
+vitamin E mg	0.18 mg
+folate	28.35 mcg	 7.09
+vitamin K	-- mcg	--
+pantothenic acid	0.77 mg	 7.70
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	19.28 mg	 1.93
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.15 mg	 7.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	2.77 mg	 15.39
+magnesium	30.62 mg	 7.66
+manganese	0.03 mg	 1.50
+molybdenum	3.86 mcg	 5.15
+phosphorus	233.60 mg	 23.36
+potassium	302.78 mg	 8.65
+selenium	34.36 mcg	 49.09
+sodium	74.84 mg	 3.12
+zinc	4.60 mg	 30.67
+
+Turkey breast, roasted
+(Note: "--" indicates data is unavailable)
+amount	4.00 oz-wt
+total weight	113.40 g
+Basic Components
+nutrient	amount	%DV
+calories	214.33	 11.91
+calories from fat	75.63
+calories from saturated fat	21.43
+protein	32.56 g	 65.12
+carbohydrates	0.00 g	 0.00
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	0.00 g
+monosaccharides	0.00 g
+disaccharides	0.00 g
+other carbs	0.00 g
+fat - total	8.40 g	 12.92
+saturated fat	2.38 g	 11.90
+mono fat	2.78 g	 11.58
+poly fat	2.04 g	 8.50
+trans fatty acids	-- g
+cholesterol	83.92 mg	 27.97
+water	71.69 g
+ash	1.17 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.06 mg	 4.00
+riboflavin - B2	0.15 mg	 8.82
+niacin - B3	7.22 mg	 36.10
+niacin equiv	13.07 mg
+vitamin B6	0.54 mg	 27.00
+vitamin B12	0.41 mcg	 6.83
+biotin	-- mcg	--
+vitamin C	0.00 mg	 0.00
+vitamin D IU	13.61 IU	 3.40
+vitamin D mcg	0.34 mcg
+vitamin E alpha equiv	0.20 mg	 1.00
+vitamin E IU	0.30 IU
+vitamin E mg	0.20 mg
+folate	6.80 mcg	 1.70
+vitamin K	-- mcg	--
+pantothenic acid	0.72 mg	 7.20
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	23.81 mg	 2.38
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.05 mg	 2.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.59 mg	 8.83
+magnesium	30.62 mg	 7.66
+manganese	0.02 mg	 1.00
+molybdenum	3.86 mcg	 5.15
+phosphorus	238.14 mg	 23.81
+potassium	326.59 mg	 9.33
+selenium	33.00 mcg	 47.14
+sodium	71.44 mg	 2.98
+zinc	2.30 mg	 15.33
+
+Venison
+(Note: "--" indicates data is unavailable)
+amount	4.00 oz-wt
+total weight	113.40 g
+Basic Components
+nutrient	amount	%DV
+calories	179.17	 9.95
+calories from fat	32.56
+calories from saturated fat	12.76
+protein	34.25 g	 68.50
+carbohydrates	0.00 g	 0.00
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	0.00 g
+monosaccharides	0.00 g
+disaccharides	0.00 g
+other carbs	0.00 g
+fat - total	3.61 g	 5.55
+saturated fat	1.41 g	 7.05
+mono fat	1.00 g	 4.17
+poly fat	0.71 g	 2.96
+trans fatty acids	0.00 g
+cholesterol	127.01 mg	 42.34
+water	73.97 g
+ash	1.72 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.20 mg	 13.33
+riboflavin - B2	0.68 mg	 40.00
+niacin - B3	7.61 mg	 38.05
+niacin equiv	7.61 mg
+vitamin B6	0.43 mg	 21.50
+vitamin B12	3.60 mcg	 60.00
+biotin	-- mcg	--
+vitamin C	0.00 mg	 0.00
+vitamin D IU	13.61 IU	 3.40
+vitamin D mcg	0.35 mcg
+vitamin E alpha equiv	0.28 mg	 1.40
+vitamin E IU	0.43 IU
+vitamin E mg	0.28 mg
+folate	5.35 mcg	 1.34
+vitamin K	-- mcg	--
+pantothenic acid	0.36 mg	 3.60
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	7.93 mg	 0.79
+chloride	-- mg
+chromium	0.00 mcg	 0.00
+copper	0.35 mg	 17.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	5.07 mg	 28.17
+magnesium	27.21 mg	 6.80
+manganese	0.05 mg	 2.50
+molybdenum	-- mcg	--
+phosphorus	256.28 mg	 25.63
+potassium	379.89 mg	 10.85
+selenium	14.63 mcg	 20.90
+sodium	61.24 mg	 2.55
+zinc	3.12 mg	 20.80
+
+Almonds, dry roasted
+(Note: "--" indicates data is unavailable)
+amount	0.25 cup
+total weight	34.50 g
+Basic Components
+nutrient	amount	%DV
+calories	205.96	 11.44
+calories from fat	164.04
+calories from saturated fat	12.57
+protein	7.62 g	 15.24
+carbohydrates	6.66 g	 2.22
+dietary fiber	4.07 g	 16.28
+soluble fiber	0.45 g
+insoluble fiber	3.62 g
+sugar - total	1.69 g
+monosaccharides	0.01 g
+disaccharides	1.68 g
+other carbs	0.89 g
+fat - total	18.23 g	 28.05
+saturated fat	1.40 g	 7.00
+mono fat	11.61 g	 48.38
+poly fat	4.36 g	 18.17
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	0.90 g
+ash	1.10 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.34 IU	 0.01
+vitamin A RE	0.03 RE
+A - carotenoid	0.03 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.34 mcg
+thiamin - B1	0.03 mg	 2.00
+riboflavin - B2	0.30 mg	 17.65
+niacin - B3	1.33 mg	 6.65
+niacin equiv	2.44 mg
+vitamin B6	0.04 mg	 2.00
+vitamin B12	0.00 mcg	 0.00
+biotin	22.08 mcg	 7.36
+vitamin C	0.00 mg	 0.00
+vitamin D IU	-- IU	--
+vitamin D mcg	-- mcg
+vitamin E alpha equiv	8.97 mg	 44.85
+vitamin E IU	13.37 IU
+vitamin E mg	8.97 mg
+folate	11.39 mcg	 2.85
+vitamin K	0.00 mcg	 0.00
+pantothenic acid	0.08 mg	 0.80
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	91.77 mg	 9.18
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.40 mg	 20.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.56 mg	 8.67
+magnesium	98.67 mg	 24.67
+manganese	0.90 mg	 45.00
+molybdenum	10.18 mcg	 13.57
+phosphorus	168.70 mg	 16.87
+potassium	257.37 mg	 7.35
+selenium	0.97 mcg	 1.39
+sodium	0.34 mg	 0.01
+zinc	1.22 mg	 8.13
+
+Cashews, raw
+(Note: "--" indicates data is unavailable)
+amount	0.25 cup
+total weight	34.25 g
+Basic Components
+nutrient	amount	%DV
+calories	196.60	 10.92
+calories from fat	142.87
+calories from saturated fat	28.23
+protein	5.24 g	 10.48
+carbohydrates	11.20 g	 3.73
+dietary fiber	1.03 g	 4.12
+soluble fiber	0.55 g
+insoluble fiber	0.48 g
+sugar - total	2.43 g
+monosaccharides	0.07 g
+disaccharides	2.06 g
+other carbs	7.74 g
+fat - total	15.87 g	 24.42
+saturated fat	3.14 g	 15.70
+mono fat	9.36 g	 39.00
+poly fat	2.68 g	 11.17
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	0.58 g
+ash	1.35 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.07 mg	 4.67
+riboflavin - B2	0.07 mg	 4.12
+niacin - B3	0.48 mg	 2.40
+niacin equiv	1.60 mg
+vitamin B6	0.09 mg	 4.50
+vitamin B12	0.00 mcg	 0.00
+biotin	4.45 mcg	 1.48
+vitamin C	0.00 mg	 0.00
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.20 mg	 1.00
+vitamin E IU	0.29 IU
+vitamin E mg	2.55 mg
+folate	23.70 mcg	 5.92
+vitamin K	11.88 mcg	 14.85
+pantothenic acid	0.42 mg	 4.20
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	15.41 mg	 1.54
+chloride	167.83 mg
+chromium	-- mcg	--
+copper	0.76 mg	 38.00
+fluoride	-- mg	--
+iodine	3.77 mcg	 2.51
+iron	2.06 mg	 11.44
+magnesium	89.05 mg	 22.26
+manganese	0.28 mg	 14.00
+molybdenum	10.10 mcg	 13.47
+phosphorus	167.83 mg	 16.78
+potassium	193.51 mg	 5.53
+selenium	4.01 mcg	 5.73
+sodium	5.48 mg	 0.23
+zinc	1.92 mg	 12.80
+
+Flaxseeds
+(Note: "--" indicates data is unavailable)
+amount	2.00 tbs
+total weight	19.38 g
+Basic Components
+nutrient	amount	%DV
+calories	95.33	 5.30
+calories from fat	59.29
+calories from saturated fat	5.57
+protein	3.78 g	 7.56
+carbohydrates	6.64 g	 2.21
+dietary fiber	5.41 g	 21.64
+soluble fiber	-- g
+insoluble fiber	-- g
+sugar - total	-- g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	-- g
+fat - total	6.59 g	 10.14
+saturated fat	0.62 g	 3.10
+mono fat	1.33 g	 5.54
+poly fat	4.35 g	 18.12
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	1.70 g
+ash	0.68 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.03 mg	 2.00
+riboflavin - B2	0.03 mg	 1.76
+niacin - B3	0.27 mg	 1.35
+niacin equiv	0.27 mg
+vitamin B6	0.18 mg	 9.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	0.25 mg	 0.42
+vitamin D IU	-- IU	--
+vitamin D mcg	-- mcg
+vitamin E alpha equiv	0.97 mg	 4.85
+vitamin E IU	1.44 IU
+vitamin E mg	0.97 mg
+folate	53.86 mcg	 13.46
+vitamin K	0.00 mcg	 0.00
+pantothenic acid	0.30 mg	 3.00
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	38.56 mg	 3.86
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.20 mg	 10.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.21 mg	 6.72
+magnesium	70.14 mg	 17.54
+manganese	0.64 mg	 32.00
+molybdenum	-- mcg	--
+phosphorus	96.49 mg	 9.65
+potassium	131.94 mg	 3.77
+selenium	1.07 mcg	 1.53
+sodium	6.59 mg	 0.27
+zinc	0.81 mg	 5.40
+
+Extra Virgin Olive Oil
+(Note: "--" indicates data is unavailable)
+amount	1.00 tbs
+total weight	14.00 g
+Basic Components
+nutrient	amount	%DV
+calories	126.00	 7.00
+calories from fat	126.00
+calories from saturated fat	17.64
+protein	0.00 g	 0.00
+carbohydrates	0.00 g	 0.00
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	0.00 g
+monosaccharides	0.00 g
+disaccharides	0.00 g
+other carbs	0.00 g
+fat - total	14.00 g	 21.54
+saturated fat	1.96 g	 9.80
+mono fat	10.78 g	 44.92
+poly fat	1.26 g	 5.25
+trans fatty acids	-- g
+cholesterol	-- mg	--
+water	0.03 g
+ash	0.00 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	-- IU	--
+vitamin A RE	-- RE
+A - carotenoid	-- RE	--
+A - retinol	-- RE
+A - beta carotene	-- mcg
+thiamin - B1	-- mg	--
+riboflavin - B2	-- mg	--
+niacin - B3	-- mg	--
+niacin equiv	-- mg
+vitamin B6	-- mg	--
+vitamin B12	-- mcg	--
+biotin	-- mcg	--
+vitamin C	-- mg	--
+vitamin D IU	-- IU	--
+vitamin D mcg	-- mcg
+vitamin E alpha equiv	1.74 mg	 8.70
+vitamin E IU	2.59 IU
+vitamin E mg	1.74 mg
+folate	-- mcg	--
+vitamin K	-- mcg	--
+pantothenic acid	-- mg	--
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	-- mg	--
+chloride	-- mg
+chromium	-- mcg	--
+copper	-- mg	--
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	-- mg	--
+magnesium	-- mg	--
+manganese	-- mg	--
+molybdenum	-- mcg	--
+phosphorus	-- mg	--
+potassium	-- mg	--
+selenium	-- mcg	--
+sodium	-- mg	--
+zinc	-- mg	--
+
+Peanuts, raw
+(Note: "--" indicates data is unavailable)
+amount	0.25 cup
+total weight	36.50 g
+Basic Components
+nutrient	amount	%DV
+calories	206.96	 11.50
+calories from fat	161.75
+calories from saturated fat	22.45
+protein	9.42 g	 18.84
+carbohydrates	5.89 g	 1.96
+dietary fiber	3.10 g	 12.40
+soluble fiber	0.87 g
+insoluble fiber	2.23 g
+sugar - total	1.13 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	1.66 g
+fat - total	17.97 g	 27.65
+saturated fat	2.49 g	 12.45
+mono fat	8.92 g	 37.17
+poly fat	5.68 g	 23.67
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	2.37 g
+ash	0.85 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.23 mg	 15.33
+riboflavin - B2	0.05 mg	 2.94
+niacin - B3	4.40 mg	 22.00
+niacin equiv	5.90 mg
+vitamin B6	0.13 mg	 6.50
+vitamin B12	0.00 mcg	 0.00
+biotin	26.28 mcg	 8.76
+vitamin C	0.00 mg	 0.00
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	3.33 mg	 16.65
+vitamin E IU	4.97 IU
+vitamin E mg	3.65 mg
+folate	87.53 mcg	 21.88
+vitamin K	0.00 mcg	 0.00
+pantothenic acid	0.64 mg	 6.40
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	33.58 mg	 3.36
+chloride	2.56 mg
+chromium	-- mcg	--
+copper	0.42 mg	 21.00
+fluoride	-- mg	--
+iodine	7.30 mcg	 4.87
+iron	1.67 mg	 9.28
+magnesium	61.32 mg	 15.33
+manganese	0.71 mg	 35.50
+molybdenum	10.77 mcg	 14.36
+phosphorus	137.24 mg	 13.72
+potassium	257.33 mg	 7.35
+selenium	2.63 mcg	 3.76
+sodium	6.57 mg	 0.27
+zinc	1.19 mg	 7.93
+
+Pumpkin seeds, raw
+(Note: "--" indicates data is unavailable)
+amount	0.25 cup
+total weight	34.50 g
+Basic Components
+nutrient	amount	%DV
+calories	186.65	 10.37
+calories from fat	142.36
+calories from saturated fat	26.93
+protein	8.47 g	 16.94
+carbohydrates	6.14 g	 2.05
+dietary fiber	1.35 g	 5.40
+soluble fiber	0.19 g
+insoluble fiber	1.16 g
+sugar - total	0.35 g
+monosaccharides	0.00 g
+disaccharides	0.35 g
+other carbs	4.45 g
+fat - total	15.82 g	 24.34
+saturated fat	2.99 g	 14.95
+mono fat	4.92 g	 20.50
+poly fat	7.21 g	 30.04
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	2.39 g
+ash	1.68 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	131.10 IU	 2.62
+vitamin A RE	13.11 RE
+A - carotenoid	13.11 RE	 0.17
+A - retinol	0.00 RE
+A - beta carotene	78.66 mcg
+thiamin - B1	0.07 mg	 4.67
+riboflavin - B2	0.11 mg	 6.47
+niacin - B3	0.60 mg	 3.00
+niacin equiv	2.48 mg
+vitamin B6	0.08 mg	 4.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	0.66 mg	 1.10
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.35 mg	 1.75
+vitamin E IU	0.51 IU
+vitamin E mg	3.76 mg
+folate	19.84 mcg	 4.96
+vitamin K	17.73 mcg	 22.16
+pantothenic acid	0.12 mg	 1.20
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	14.84 mg	 1.48
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.48 mg	 24.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	5.16 mg	 28.67
+magnesium	184.58 mg	 46.15
+manganese	1.04 mg	 52.00
+molybdenum	-- mcg	--
+phosphorus	405.03 mg	 40.50
+potassium	278.42 mg	 7.95
+selenium	1.93 mcg	 2.76
+sodium	6.21 mg	 0.26
+zinc	2.57 mg	 17.13
+
+Sesame seeds
+(Note: "--" indicates data is unavailable)
+amount	0.25 cup
+total weight	36.00 g
+Basic Components
+nutrient	amount	%DV
+calories	206.28	 11.46
+calories from fat	160.92
+calories from saturated fat	22.56
+protein	6.40 g	 12.80
+carbohydrates	8.44 g	 2.81
+dietary fiber	4.24 g	 16.96
+soluble fiber	0.88 g
+insoluble fiber	3.36 g
+sugar - total	0.40 g
+monosaccharides	-- g
+disaccharides	0.32 g
+other carbs	3.80 g
+fat - total	17.88 g	 27.51
+saturated fat	2.52 g	 12.60
+mono fat	6.76 g	 28.17
+poly fat	7.84 g	 32.67
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	1.68 g
+ash	1.60 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	3.24 IU	 0.06
+vitamin A RE	0.36 RE
+A - carotenoid	0.36 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	2.16 mcg
+thiamin - B1	0.28 mg	 18.67
+riboflavin - B2	0.08 mg	 4.71
+niacin - B3	1.64 mg	 8.20
+niacin equiv	3.44 mg
+vitamin B6	0.28 mg	 14.00
+vitamin B12	0.00 mcg	 0.00
+biotin	3.96 mcg	 1.32
+vitamin C	0.00 mg	 0.00
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.80 mg	 4.00
+vitamin E IU	1.20 IU
+vitamin E mg	0.80 mg
+folate	34.80 mcg	 8.70
+vitamin K	0.00 mcg	 0.00
+pantothenic acid	0.00 mg	 0.00
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	351.00 mg	 35.10
+chloride	3.60 mg
+chromium	-- mcg	--
+copper	1.48 mg	 74.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	5.24 mg	 29.11
+magnesium	126.36 mg	 31.59
+manganese	0.88 mg	 44.00
+molybdenum	10.64 mcg	 14.19
+phosphorus	226.44 mg	 22.64
+potassium	168.48 mg	 4.81
+selenium	2.04 mcg	 2.91
+sodium	3.96 mg	 0.17
+zinc	2.80 mg	 18.67
+
+Sunflower seeds, raw
+(Note: "--" indicates data is unavailable)
+amount	0.25 cup
+total weight	36.00 g
+Basic Components
+nutrient	amount	%DV
+calories	205.20	 11.40
+calories from fat	160.61
+calories from saturated fat	16.83
+protein	8.20 g	 16.40
+carbohydrates	6.75 g	 2.25
+dietary fiber	3.78 g	 15.12
+soluble fiber	1.21 g
+insoluble fiber	2.57 g
+sugar - total	1.19 g
+monosaccharides	0.00 g
+disaccharides	0.90 g
+other carbs	1.79 g
+fat - total	17.85 g	 27.46
+saturated fat	1.87 g	 9.35
+mono fat	3.41 g	 14.21
+poly fat	11.78 g	 49.08
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	1.93 g
+ash	1.27 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	18.00 IU	 0.36
+vitamin A RE	1.80 RE
+A - carotenoid	1.80 RE	 0.02
+A - retinol	0.00 RE
+A - beta carotene	10.80 mcg
+thiamin - B1	0.82 mg	 54.67
+riboflavin - B2	0.09 mg	 5.29
+niacin - B3	1.62 mg	 8.10
+niacin equiv	3.36 mg
+vitamin B6	0.28 mg	 14.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	0.50 mg	 0.83
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	18.10 mg	 90.50
+vitamin E IU	26.96 IU
+vitamin E mg	18.11 mg
+folate	81.86 mcg	 20.46
+vitamin K	0.97 mcg	 1.21
+pantothenic acid	2.43 mg	 24.30
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	41.76 mg	 4.18
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.63 mg	 31.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	2.44 mg	 13.56
+magnesium	127.44 mg	 31.86
+manganese	0.73 mg	 36.50
+molybdenum	-- mcg	--
+phosphorus	253.80 mg	 25.38
+potassium	248.04 mg	 7.09
+selenium	21.42 mcg	 30.60
+sodium	1.08 mg	 0.05
+zinc	1.82 mg	 12.13
+
+Walnuts
+(Note: "--" indicates data is unavailable)
+amount	0.25 cup
+total weight	25.00 g
+Basic Components
+nutrient	amount	%DV
+calories	163.50	 9.08
+calories from fat	146.72
+calories from saturated fat	13.78
+protein	3.81 g	 7.62
+carbohydrates	3.43 g	 1.14
+dietary fiber	1.68 g	 6.72
+soluble fiber	0.40 g
+insoluble fiber	0.81 g
+sugar - total	0.65 g
+monosaccharides	0.00 g
+disaccharides	0.53 g
+other carbs	1.10 g
+fat - total	16.30 g	 25.08
+saturated fat	1.53 g	 7.65
+mono fat	2.23 g	 9.29
+poly fat	11.79 g	 49.13
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	1.02 g
+ash	0.45 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	10.25 IU	 0.20
+vitamin A RE	1.00 RE
+A - carotenoid	1.00 RE	 0.01
+A - retinol	0.00 RE
+A - beta carotene	6.00 mcg
+thiamin - B1	0.09 mg	 6.00
+riboflavin - B2	0.04 mg	 2.35
+niacin - B3	0.48 mg	 2.40
+niacin equiv	1.23 mg
+vitamin B6	0.13 mg	 6.50
+vitamin B12	0.00 mcg	 0.00
+biotin	4.75 mcg	 1.58
+vitamin C	0.33 mg	 0.55
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.74 mg	 3.70
+vitamin E IU	1.10 IU
+vitamin E mg	0.74 mg
+folate	24.50 mcg	 6.13
+vitamin K	0.68 mcg	 0.85
+pantothenic acid	0.14 mg	 1.40
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	26.00 mg	 2.60
+chloride	6.00 mg
+chromium	-- mcg	--
+copper	0.40 mg	 20.00
+fluoride	-- mg	--
+iodine	2.25 mcg	 1.50
+iron	0.73 mg	 4.06
+magnesium	39.50 mg	 9.88
+manganese	0.85 mg	 42.50
+molybdenum	7.38 mcg	 9.84
+phosphorus	86.50 mg	 8.65
+potassium	110.25 mg	 3.15
+selenium	1.15 mcg	 1.64
+sodium	0.50 mg	 0.02
+zinc	0.77 mg	 5.13
+
+Barley, cooked
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	200.00 g
+Basic Components
+nutrient	amount	%DV
+calories	270.00	 15.00
+calories from fat	19.44
+calories from saturated fat	3.64
+protein	7.42 g	 14.84
+carbohydrates	59.40 g	 19.80
+dietary fiber	13.60 g	 54.40
+soluble fiber	2.76 g
+insoluble fiber	10.84 g
+sugar - total	1.40 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	44.40 g
+fat - total	2.16 g	 3.32
+saturated fat	0.40 g	 2.00
+mono fat	0.28 g	 1.17
+poly fat	1.22 g	 5.08
+trans fatty acids	-- g
+cholesterol	0.00 mg	 0.00
+water	130.44 g
+ash	0.60 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.16 mg	 10.67
+riboflavin - B2	0.06 mg	 3.53
+niacin - B3	2.84 mg	 14.20
+niacin equiv	4.90 mg
+vitamin B6	0.18 mg	 9.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	0.00 mg	 0.00
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	1.20 mg	 6.00
+vitamin E IU	1.78 IU
+vitamin E mg	3.12 mg
+folate	16.18 mcg	 4.04
+vitamin K	-- mcg	--
+pantothenic acid	0.50 mg	 5.00
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	25.60 mg	 2.56
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.64 mg	 32.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	2.08 mg	 11.56
+magnesium	44.40 mg	 11.10
+manganese	0.62 mg	 31.00
+molybdenum	-- mcg	--
+phosphorus	230.00 mg	 23.00
+potassium	230.00 mg	 6.57
+selenium	36.40 mcg	 52.00
+sodium	1.34 mg	 0.06
+zinc	1.56 mg	 10.40
+
+Brown rice, cooked
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	195.00 g
+Basic Components
+nutrient	amount	%DV
+calories	216.45	 12.03
+calories from fat	15.80
+calories from saturated fat	3.16
+protein	5.03 g	 10.06
+carbohydrates	44.77 g	 14.92
+dietary fiber	3.51 g	 14.04
+soluble fiber	0.39 g
+insoluble fiber	3.12 g
+sugar - total	0.39 g
+monosaccharides	0.00 g
+disaccharides	0.39 g
+other carbs	40.87 g
+fat - total	1.76 g	 2.71
+saturated fat	0.35 g	 1.75
+mono fat	0.64 g	 2.67
+poly fat	0.63 g	 2.63
+trans fatty acids	-- g
+cholesterol	0.00 mg	 0.00
+water	142.53 g
+ash	0.90 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.19 mg	 12.67
+riboflavin - B2	0.05 mg	 2.94
+niacin - B3	2.98 mg	 14.90
+niacin equiv	4.05 mg
+vitamin B6	0.28 mg	 14.00
+vitamin B12	0.00 mcg	 0.00
+biotin	1.54 mcg	 0.51
+vitamin C	0.00 mg	 0.00
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	1.40 mg	 7.00
+vitamin E IU	2.09 IU
+vitamin E mg	1.40 mg
+folate	7.80 mcg	 1.95
+vitamin K	1.17 mcg	 1.46
+pantothenic acid	0.56 mg	 5.60
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	19.50 mg	 1.95
+chloride	448.50 mg
+chromium	-- mcg	--
+copper	0.20 mg	 10.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.82 mg	 4.56
+magnesium	83.85 mg	 20.96
+manganese	1.76 mg	 88.00
+molybdenum	-- mcg	--
+phosphorus	161.85 mg	 16.18
+potassium	83.85 mg	 2.40
+selenium	19.11 mcg	 27.30
+sodium	9.75 mg	 0.41
+zinc	1.23 mg	 8.20
+
+Buckwheat, cooked
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	168.00 g
+Basic Components
+nutrient	amount	%DV
+calories	154.56	 8.59
+calories from fat	9.38
+calories from saturated fat	2.02
+protein	5.68 g	 11.36
+carbohydrates	33.50 g	 11.17
+dietary fiber	4.54 g	 18.16
+soluble fiber	-- g
+insoluble fiber	-- g
+sugar - total	1.52 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	27.46 g
+fat - total	1.04 g	 1.60
+saturated fat	0.22 g	 1.10
+mono fat	0.32 g	 1.33
+poly fat	0.32 g	 1.33
+trans fatty acids	-- g
+cholesterol	0.00 mg	 0.00
+water	127.06 g
+ash	0.72 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.06 mg	 4.00
+riboflavin - B2	0.06 mg	 3.53
+niacin - B3	1.58 mg	 7.90
+niacin equiv	2.96 mg
+vitamin B6	0.12 mg	 6.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	0.00 mg	 0.00
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.40 mg	 2.00
+vitamin E IU	0.60 IU
+vitamin E mg	0.40 mg
+folate	23.52 mcg	 5.88
+vitamin K	3.19 mcg	 3.99
+pantothenic acid	0.60 mg	 6.00
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	11.76 mg	 1.18
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.24 mg	 12.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.34 mg	 7.44
+magnesium	85.68 mg	 21.42
+manganese	0.68 mg	 34.00
+molybdenum	-- mcg	--
+phosphorus	117.60 mg	 11.76
+potassium	147.84 mg	 4.22
+selenium	3.70 mcg	 5.29
+sodium	6.72 mg	 0.28
+zinc	1.02 mg	 6.80
+
+Corn, yellow, cooked
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	164.00 g
+Basic Components
+nutrient	amount	%DV
+calories	177.12	 9.84
+calories from fat	18.90
+calories from saturated fat	2.90
+protein	5.44 g	 10.88
+carbohydrates	41.18 g	 13.73
+dietary fiber	4.60 g	 18.40
+soluble fiber	0.18 g
+insoluble fiber	4.42 g
+sugar - total	4.26 g
+monosaccharides	1.32 g
+disaccharides	2.78 g
+other carbs	32.32 g
+fat - total	2.10 g	 3.23
+saturated fat	0.32 g	 1.60
+mono fat	0.62 g	 2.58
+poly fat	0.98 g	 4.08
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	114.10 g
+ash	1.18 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	355.88 IU	 7.12
+vitamin A RE	36.08 RE
+A - carotenoid	36.08 RE	 0.48
+A - retinol	0.00 RE
+A - beta carotene	144.98 mcg
+thiamin - B1	0.36 mg	 24.00
+riboflavin - B2	0.12 mg	 7.06
+niacin - B3	2.64 mg	 13.20
+niacin equiv	3.26 mg
+vitamin B6	0.10 mg	 5.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	10.16 mg	 16.93
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.14 mg	 0.70
+vitamin E IU	0.22 IU
+vitamin E mg	0.80 mg
+folate	76.10 mcg	 19.02
+vitamin K	0.66 mcg	 0.83
+pantothenic acid	1.44 mg	 14.40
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	3.28 mg	 0.33
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.08 mg	 4.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.00 mg	 5.56
+magnesium	52.48 mg	 13.12
+manganese	0.32 mg	 16.00
+molybdenum	-- mcg	--
+phosphorus	168.92 mg	 16.89
+potassium	408.36 mg	 11.67
+selenium	1.32 mcg	 1.89
+sodium	27.88 mg	 1.16
+zinc	0.78 mg	 5.20
+
+Millet, cooked
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	240.00 g
+Basic Components
+nutrient	amount	%DV
+calories	285.60	 15.87
+calories from fat	21.60
+calories from saturated fat	3.72
+protein	8.42 g	 16.84
+carbohydrates	56.80 g	 18.93
+dietary fiber	3.12 g	 12.48
+soluble fiber	1.68 g
+insoluble fiber	1.44 g
+sugar - total	0.24 g
+monosaccharides	0.00 g
+disaccharides	0.24 g
+other carbs	53.44 g
+fat - total	2.40 g	 3.69
+saturated fat	0.42 g	 2.10
+mono fat	0.44 g	 1.83
+poly fat	1.22 g	 5.08
+trans fatty acids	-- g
+cholesterol	0.00 mg	 0.00
+water	171.38 g
+ash	0.98 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.26 mg	 17.33
+riboflavin - B2	0.20 mg	 11.76
+niacin - B3	3.20 mg	 16.00
+niacin equiv	4.72 mg
+vitamin B6	0.26 mg	 13.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	0.00 mg	 0.00
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.44 mg	 2.20
+vitamin E IU	0.64 IU
+vitamin E mg	1.32 mg
+folate	45.60 mcg	 11.40
+vitamin K	0.52 mcg	 0.65
+pantothenic acid	0.42 mg	 4.20
+Minerals
+nutrient	amount	%DV
+boron	0.40 mcg
+calcium	7.20 mg	 0.72
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.38 mg	 19.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.52 mg	 8.44
+magnesium	105.60 mg	 26.40
+manganese	0.66 mg	 33.00
+molybdenum	-- mcg	--
+phosphorus	240.00 mg	 24.00
+potassium	148.80 mg	 4.25
+selenium	2.16 mcg	 3.09
+sodium	4.80 mg	 0.20
+zinc	2.18 mg	 14.53
+
+Oats, whole grain, cooked
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	234.00 g
+Basic Components
+nutrient	amount	%DV
+calories	147.42	 8.19
+calories from fat	21.06
+calories from saturated fat	3.37
+protein	6.08 g	 12.16
+carbohydrates	25.27 g	 8.42
+dietary fiber	3.98 g	 15.92
+soluble fiber	2.34 g
+insoluble fiber	1.64 g
+sugar - total	3.39 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	17.90 g
+fat - total	2.34 g	 3.60
+saturated fat	0.37 g	 1.85
+mono fat	0.75 g	 3.13
+poly fat	0.89 g	 3.71
+trans fatty acids	-- g
+cholesterol	0.00 mg	 0.00
+water	199.60 g
+ash	0.70 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	-- mcg
+thiamin - B1	0.26 mg	 17.33
+riboflavin - B2	0.05 mg	 2.94
+niacin - B3	0.30 mg	 1.50
+niacin equiv	1.71 mg
+vitamin B6	0.05 mg	 2.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	0.00 mg	 0.00
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.23 mg	 1.15
+vitamin E IU	0.35 IU
+vitamin E mg	0.23 mg
+folate	9.36 mcg	 2.34
+vitamin K	-- mcg	--
+pantothenic acid	0.47 mg	 4.70
+Minerals
+nutrient	amount	%DV
+boron	24.01 mcg
+calcium	18.72 mg	 1.87
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.13 mg	 6.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.59 mg	 8.83
+magnesium	56.16 mg	 14.04
+manganese	1.37 mg	 68.50
+molybdenum	-- mcg	--
+phosphorus	177.84 mg	 17.78
+potassium	131.04 mg	 3.74
+selenium	18.95 mcg	 27.07
+sodium	2.34 mg	 0.10
+zinc	1.15 mg	 7.67
+
+Quinoa, uncooked
+(Note: "--" indicates data is unavailable)
+amount	0.25 cup
+total weight	42.50 g
+Basic Components
+nutrient	amount	%DV
+calories	158.95	 8.83
+calories from fat	22.19
+calories from saturated fat	2.26
+protein	5.57 g	 11.14
+carbohydrates	29.28 g	 9.76
+dietary fiber	2.51 g	 10.04
+soluble fiber	-- g
+insoluble fiber	-- g
+sugar - total	-- g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	-- g
+fat - total	2.47 g	 3.80
+saturated fat	0.25 g	 1.25
+mono fat	0.65 g	 2.71
+poly fat	1.00 g	 4.17
+trans fatty acids	-- g
+cholesterol	0.00 mg	 0.00
+water	3.95 g
+ash	1.23 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.08 mg	 5.33
+riboflavin - B2	0.17 mg	 10.00
+niacin - B3	1.25 mg	 6.25
+niacin equiv	2.27 mg
+vitamin B6	0.09 mg	 4.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	0.00 mg	 0.00
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	2.07 mg	 10.35
+vitamin E IU	3.08 IU
+vitamin E mg	2.07 mg
+folate	20.83 mcg	 5.21
+vitamin K	-- mcg	--
+pantothenic acid	0.44 mg	 4.40
+Minerals
+nutrient	amount	%DV
+boron	0.00 mcg
+calcium	25.50 mg	 2.55
+chloride	0.59 mg
+chromium	-- mcg	--
+copper	0.35 mg	 17.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	3.93 mg	 21.83
+magnesium	89.25 mg	 22.31
+manganese	0.96 mg	 48.00
+molybdenum	-- mcg	--
+phosphorus	174.25 mg	 17.43
+potassium	314.50 mg	 8.99
+selenium	-- mcg	--
+sodium	8.93 mg	 0.37
+zinc	1.40 mg	 9.33
+
+Rye, whole grain, uncooked
+(Note: "--" indicates data is unavailable)
+amount	0.33 cup
+total weight	56.33 g
+Basic Components
+nutrient	amount	%DV
+calories	188.72	 10.48
+calories from fat	12.68
+calories from saturated fat	1.46
+protein	8.31 g	 16.62
+carbohydrates	39.30 g	 13.10
+dietary fiber	8.22 g	 32.88
+soluble fiber	0.96 g
+insoluble fiber	7.27 g
+sugar - total	2.31 g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	28.76 g
+fat - total	1.41 g	 2.17
+saturated fat	0.16 g	 0.80
+mono fat	0.17 g	 0.71
+poly fat	0.63 g	 2.63
+trans fatty acids	-- g
+cholesterol	0.00 mg	 0.00
+water	6.17 g
+ash	1.14 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.18 mg	 12.00
+riboflavin - B2	0.14 mg	 8.24
+niacin - B3	2.41 mg	 12.05
+niacin equiv	3.85 mg
+vitamin B6	0.17 mg	 8.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	0.00 mg	 0.00
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	1.05 mg	 5.25
+vitamin E IU	1.57 IU
+vitamin E mg	1.05 mg
+folate	33.80 mcg	 8.45
+vitamin K	-- mcg	--
+pantothenic acid	0.82 mg	 8.20
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	18.59 mg	 1.86
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.25 mg	 12.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.50 mg	 8.33
+magnesium	68.16 mg	 17.04
+manganese	1.51 mg	 75.50
+molybdenum	-- mcg	--
+phosphorus	210.69 mg	 21.07
+potassium	148.72 mg	 4.25
+selenium	19.89 mcg	 28.41
+sodium	3.38 mg	 0.14
+zinc	2.10 mg	 14.00
+
+Spelt grains, cooked
+(Note: "--" indicates data is unavailable)
+amount	4.00 oz-wt
+total weight	113.40 g
+Basic Components
+nutrient	amount	%DV
+calories	144.00	 8.00
+calories from fat	8.64
+calories from saturated fat	0.00
+protein	6.24 g	 12.48
+carbohydrates	29.98 g	 9.99
+dietary fiber	4.40 g	 17.60
+soluble fiber	-- g
+insoluble fiber	-- g
+sugar - total	-- g
+monosaccharides	-- g
+disaccharides	-- g
+other carbs	-- g
+fat - total	0.96 g	 1.48
+saturated fat	-- g	--
+mono fat	-- g	--
+poly fat	-- g	--
+trans fatty acids	-- g
+cholesterol	0.00 mg	 0.00
+water	65.48 g
+ash	0.74 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	4.00 IU	 0.08
+vitamin A RE	0.00 RE
+A - carotenoid	-- RE	--
+A - retinol	0.00 RE
+A - beta carotene	-- mcg
+thiamin - B1	0.12 mg	 8.00
+riboflavin - B2	0.03 mg	 1.76
+niacin - B3	2.91 mg	 14.55
+niacin equiv	-- mg
+vitamin B6	0.09 mg	 4.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	0.00 mg	 0.00
+vitamin D IU	-- IU	--
+vitamin D mcg	-- mcg
+vitamin E alpha equiv	0.33 mg	 1.65
+vitamin E IU	-- IU
+vitamin E mg	-- mg
+folate	14.00 mcg	 3.50
+vitamin K	-- mcg	--
+pantothenic acid	-- mg	--
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	12.00 mg	 1.20
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.24 mg	 12.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.90 mg	 10.56
+magnesium	56.00 mg	 14.00
+manganese	1.24 mg	 62.00
+molybdenum	-- mcg	--
+phosphorus	170.00 mg	 17.00
+potassium	162.00 mg	 4.63
+selenium	4.60 mcg	 6.57
+sodium	6.00 mg	 0.25
+zinc	1.42 mg	 9.47
+
+Wheat, bulgur, cooked
+(Note: "--" indicates data is unavailable)
+amount	1.00 cup
+total weight	182.00 g
+Basic Components
+nutrient	amount	%DV
+calories	151.06	 8.39
+calories from fat	3.93
+calories from saturated fat	0.69
+protein	5.61 g	 11.22
+carbohydrates	33.82 g	 11.27
+dietary fiber	8.19 g	 32.76
+soluble fiber	1.38 g
+insoluble fiber	6.81 g
+sugar - total	0.36 g
+monosaccharides	-- g
+disaccharides	0.83 g
+other carbs	25.26 g
+fat - total	0.44 g	 0.68
+saturated fat	0.08 g	 0.40
+mono fat	0.06 g	 0.25
+poly fat	0.18 g	 0.75
+trans fatty acids	-- g
+cholesterol	0.00 mg	 0.00
+water	141.52 g
+ash	0.62 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.10 mg	 6.67
+riboflavin - B2	0.05 mg	 2.94
+niacin - B3	1.82 mg	 9.10
+niacin equiv	3.28 mg
+vitamin B6	0.15 mg	 7.50
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	0.00 mg	 0.00
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.05 mg	 0.25
+vitamin E IU	0.08 IU
+vitamin E mg	0.55 mg
+folate	32.76 mcg	 8.19
+vitamin K	0.91 mcg	 1.14
+pantothenic acid	0.63 mg	 6.30
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	18.20 mg	 1.82
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.14 mg	 7.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	1.75 mg	 9.72
+magnesium	58.24 mg	 14.56
+manganese	1.11 mg	 55.50
+molybdenum	-- mcg	--
+phosphorus	72.80 mg	 7.28
+potassium	123.76 mg	 3.54
+selenium	1.09 mcg	 1.56
+sodium	9.10 mg	 0.38
+zinc	1.04 mg	 6.93
+
+Blackstrap molasses
+(Note: "--" indicates data is unavailable)
+amount	2.00 tsp
+total weight	13.67 g
+Basic Components
+nutrient	amount	%DV
+calories	32.12	 1.78
+calories from fat	0.00
+calories from saturated fat	0.00
+protein	0.00 g	 0.00
+carbohydrates	8.31 g	 2.77
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	5.85 g
+monosaccharides	2.09 g
+disaccharides	3.68 g
+other carbs	2.46 g
+fat - total	0.00 g	 0.00
+saturated fat	0.00 g	 0.00
+mono fat	0.00 g	 0.00
+poly fat	0.00 g	 0.00
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	3.92 g
+ash	1.12 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.00 mg	 0.00
+riboflavin - B2	0.01 mg	 0.59
+niacin - B3	0.15 mg	 0.75
+niacin equiv	0.15 mg
+vitamin B6	0.10 mg	 5.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	0.00 mg	 0.00
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.00 mg	 0.00
+vitamin E IU	0.00 IU
+vitamin E mg	0.00 mg
+folate	0.14 mcg	 0.04
+vitamin K	-- mcg	--
+pantothenic acid	0.12 mg	 1.20
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	117.53 mg	 11.75
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.28 mg	 14.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	2.39 mg	 13.28
+magnesium	29.38 mg	 7.34
+manganese	0.36 mg	 18.00
+molybdenum	-- mcg	--
+phosphorus	5.47 mg	 0.55
+potassium	340.57 mg	 9.73
+selenium	2.43 mcg	 3.47
+sodium	7.52 mg	 0.31
+zinc	0.14 mg	 0.93
+
+Cane juice, evaporated
+(Note: "--" indicates data is unavailable)
+amount	1.00 oz-wt
+total weight	28.35 g
+Basic Components
+nutrient	amount	%DV
+calories	111.43	 6.19
+calories from fat	0.03
+calories from saturated fat	0.00
+protein	0.20 g	 0.40
+carbohydrates	27.40 g	 9.13
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.71 g
+sugar - total	25.71 g
+monosaccharides	0.00 g
+disaccharides	0.00 g
+other carbs	0.00 g
+fat - total	0.09 g	 0.14
+saturated fat	0.00 g	 0.00
+mono fat	0.00 g	 0.00
+poly fat	0.00 g	 0.00
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	0.19 g
+ash	0.66 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.00 mg	 0.00
+riboflavin - B2	0.16 mg	 9.41
+niacin - B3	0.20 mg	 1.00
+niacin equiv	-- mg
+vitamin B6	-- mg	--
+vitamin B12	-- mcg	--
+biotin	-- mcg	--
+vitamin C	0.00 mg	 0.00
+vitamin D IU	-- IU	--
+vitamin D mcg	-- mcg
+vitamin E alpha equiv	-- mg	--
+vitamin E IU	-- IU
+vitamin E mg	-- mg
+folate	-- mcg	--
+vitamin K	-- mcg	--
+pantothenic acid	0.09 mg	 0.90
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	32.57 mg	 3.26
+chloride	-- mg
+chromium	0.00 mcg	 0.00
+copper	0.09 mg	 4.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.57 mg	 3.17
+magnesium	2.49 mg	 0.62
+manganese	0.09 mg	 4.50
+molybdenum	-- mcg	--
+phosphorus	0.01 mg	 0.00
+potassium	162.86 mg	 4.65
+selenium	-- mcg	--
+sodium	-- mg	--
+zinc	0.00 mg	 0.00
+
+Maple syrup
+(Note: "--" indicates data is unavailable)
+amount	2.00 tsp
+total weight	13.33 g
+Basic Components
+nutrient	amount	%DV
+calories	34.93	 1.94
+calories from fat	0.24
+calories from saturated fat	0.04
+protein	0.00 g	 0.00
+carbohydrates	8.96 g	 2.99
+dietary fiber	0.00 g	 0.00
+soluble fiber	0.00 g
+insoluble fiber	0.00 g
+sugar - total	8.49 g
+monosaccharides	0.44 g
+disaccharides	8.06 g
+other carbs	0.47 g
+fat - total	0.03 g	 0.05
+saturated fat	0.00 g	 0.00
+mono fat	0.01 g	 0.04
+poly fat	0.01 g	 0.04
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	4.27 g
+ash	0.08 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.00 mg	 0.00
+riboflavin - B2	0.00 mg	 0.00
+niacin - B3	0.00 mg	 0.00
+niacin equiv	0.00 mg
+vitamin B6	0.00 mg	 0.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	0.00 mg	 0.00
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.00 mg	 0.00
+vitamin E IU	0.00 IU
+vitamin E mg	0.00 mg
+folate	0.00 mcg	 0.00
+vitamin K	0.00 mcg	 0.00
+pantothenic acid	0.00 mg	 0.00
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	8.93 mg	 0.89
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.01 mg	 0.50
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.16 mg	 0.89
+magnesium	1.87 mg	 0.47
+manganese	0.44 mg	 22.00
+molybdenum	-- mcg	--
+phosphorus	0.27 mg	 0.03
+potassium	27.20 mg	 0.78
+selenium	0.08 mcg	 0.11
+sodium	1.20 mg	 0.05
+zinc	0.55 mg	 3.67
+
+Honey
+(Note: "--" indicates data is unavailable)
+amount	1.00 oz
+total weight	42.38 g
+Basic Components
+nutrient	amount	%DV
+calories	128.82	 7.16
+calories from fat	0.00
+calories from saturated fat	0.00
+protein	0.12 g	 0.24
+carbohydrates	34.92 g	 11.64
+dietary fiber	0.08 g	 0.32
+soluble fiber	-- g
+insoluble fiber	-- g
+sugar - total	33.14 g
+monosaccharides	29.46 g
+disaccharides	3.68 g
+other carbs	1.70 g
+fat - total	0.00 g	 0.00
+saturated fat	0.00 g	 0.00
+mono fat	0.00 g	 0.00
+poly fat	0.00 g	 0.00
+trans fatty acids	0.00 g
+cholesterol	0.00 mg	 0.00
+water	7.24 g
+ash	0.08 g
+Vitamins
+nutrient	amount	%DV
+vitamin A IU	0.00 IU	 0.00
+vitamin A RE	0.00 RE
+A - carotenoid	0.00 RE	 0.00
+A - retinol	0.00 RE
+A - beta carotene	0.00 mcg
+thiamin - B1	0.00 mg	 0.00
+riboflavin - B2	0.02 mg	 1.18
+niacin - B3	0.06 mg	 0.30
+niacin equiv	0.08 mg
+vitamin B6	0.02 mg	 1.00
+vitamin B12	0.00 mcg	 0.00
+biotin	-- mcg	--
+vitamin C	0.22 mg	 0.37
+vitamin D IU	0.00 IU	 0.00
+vitamin D mcg	0.00 mcg
+vitamin E alpha equiv	0.00 mg	 0.00
+vitamin E IU	0.00 IU
+vitamin E mg	0.00 mg
+folate	0.84 mcg	 0.21
+vitamin K	0.00 mcg	 0.00
+pantothenic acid	0.02 mg	 0.20
+Minerals
+nutrient	amount	%DV
+boron	-- mcg
+calcium	2.54 mg	 0.25
+chloride	-- mg
+chromium	-- mcg	--
+copper	0.02 mg	 1.00
+fluoride	-- mg	--
+iodine	-- mcg	--
+iron	0.18 mg	 1.00
+magnesium	0.84 mg	 0.21
+manganese	0.04 mg	 2.00
+molybdenum	-- mcg	--
+phosphorus	1.70 mg	 0.17
+potassium	22.04 mg	 0.63
+selenium	0.34 mcg	 0.49
+sodium	1.70 mg	 0.07
+zinc	0.10 mg	 0.67
+
