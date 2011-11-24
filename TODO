@@ -1,3 +1,9 @@
+Amino acid composition
+--------
+Total protein is in the data, but protein quality isn't considered.  Some 
+versions of the soup (especially if one uses a vegan data set) may have 
+incomplete protein.
+
 Add tolerable upper intake level of nutrients
 --------
 to prevent vitamin overdoses, and also to add variety to the soups.
